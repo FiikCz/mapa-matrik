@@ -16,6 +16,43 @@
  "language": "čeština",
  "points": [
   {
+   "scan": 4,
+   "type": "O",
+   "year": 1722,
+   "months": "I–IV",
+   "page": "1",
+   "note": "vlevo titulní list, vpravo začátek oddaných 1722",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1724,
+   "year_to": 1725,
+   "months": "XI–II",
+   "page": "8–9",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1727,
+   "year_to": 1728,
+   "months": "XI–X",
+   "page": "16–17",
+   "note": "„A. 1728“ na levé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1729,
+   "year_to": 1730,
+   "page": "20–21",
+   "note": "„Anno 1730“ na pravé straně dole",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 23,
    "type": "O",
    "year": 1734,
