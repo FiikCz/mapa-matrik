@@ -1,0 +1,344 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12267",
+ "url": "https://ebadatelna.soapraha.cz/d/12267/1",
+ "signature": "Smečno 03",
+ "parish": "Smečno",
+ "records": {
+  "N": "1724–1738"
+ },
+ "order": "chronological",
+ "language": "čeština",
+ "district": "Kladno",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12267/{scan}",
+ "points": [
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1730,
+   "months": "I",
+   "page": "100–101",
+   "note": "vlevo s. 100 = XII 1729, vpravo s. 101 nadpis Anno 1730",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1730,
+   "months": "I–III",
+   "page": "102–103",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1730,
+   "months": "III–IV",
+   "page": "104–105",
+   "note": "s. 104 nový písař, nadpis s rokem 1730",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1730,
+   "months": "IV–V",
+   "page": "106–107",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1730,
+   "months": "V–VI",
+   "page": "108–109",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1730,
+   "months": "VI–VII",
+   "page": "110–111",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1730,
+   "months": "VII–VIII",
+   "page": "112–113",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1730,
+   "months": "VIII–IX",
+   "page": "114–115",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1730,
+   "months": "IX",
+   "page": "116–117",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1730,
+   "months": "X–XI",
+   "page": "118–119",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1730,
+   "months": "XI–XII",
+   "page": "120–121",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1731,
+   "months": "I",
+   "page": "122–123",
+   "note": "s. 122 nahoře konec XII 1730, pak nadpis Anno 1731",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1731,
+   "months": "I–III",
+   "page": "124–125",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1731,
+   "months": "III–IV",
+   "page": "126–127",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1731,
+   "months": "IV–V",
+   "page": "129–130",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1731,
+   "months": "V–VI",
+   "page": "131–132",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1731,
+   "months": "VI–VII",
+   "page": "133–134",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1731,
+   "months": "VII–VIII",
+   "page": "135–136",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1731,
+   "months": "VIII–IX",
+   "page": "137–138",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1731,
+   "months": "IX–X",
+   "page": "140–141",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1731,
+   "months": "X–XI",
+   "page": "142–143",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1731,
+   "year_to": 1732,
+   "months": "XII–I",
+   "page": "144–145",
+   "note": "s. 145 nadpis Anno 1732",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1732,
+   "months": "I–III",
+   "page": "146–147",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 78,
+   "type": "N",
+   "year": 1732,
+   "months": "III–VI",
+   "page": "148–149",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1732,
+   "months": "VI–VIII",
+   "page": "150–151",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1732,
+   "months": "VIII–X",
+   "page": "152–153",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1732,
+   "months": "X–XI",
+   "page": "154–155",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1732,
+   "months": "XI–XII",
+   "page": "156–157",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1732,
+   "year_to": 1733,
+   "months": "XII–I",
+   "page": "158–159",
+   "note": "s. 158 Finis Anni 1732, s. 159 nadpis Anno 1733",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1733,
+   "months": "I–II",
+   "page": "160–161",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1733,
+   "months": "II–III",
+   "page": "162–163",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1733,
+   "months": "III–IV",
+   "page": "164–165",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1733,
+   "months": "IV–V",
+   "page": "166–167",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1733,
+   "months": "V–VI",
+   "page": "168–169",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1733,
+   "months": "VI–VII",
+   "page": "170–171",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1733,
+   "months": "VII–VIII",
+   "page": "172–173",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1733,
+   "months": "VIII–IX",
+   "page": "174–175",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1733,
+   "months": "IX–X",
+   "page": "176–177",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1733,
+   "months": "X–XI",
+   "page": "178–179",
+   "note": "s. 179 dole vizitace 17. XI 1733",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-14"
+  }
+ ]
+}
