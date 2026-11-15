@@ -7,7 +7,7 @@
  "signature": "Trhové Sviny 12",
  "parish": "Trhové Sviny",
  "records": {
-  "N": "1860–1869"
+  "N": "1860–1870"
  },
  "points": [
   {
@@ -45,12 +45,28 @@
    "type": "N",
    "year": 1869,
    "by": "schranka"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1870,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "schranka",
    "date": "2026-11-13"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
   }
- ]
+ ],
+ "places": [
+  "Lniště"
+ ],
+ "place_codes": {
+  "Lniště": 149896
+ }
 }

@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8005",
+ "url": "https://digi.ceskearchivy.cz/8005",
+ "signature": "Trhové Sviny 27",
+ "parish": "Trhové Sviny",
+ "records": {
+  "Z": "1862–1879"
+ },
+ "points": [
+  {
+   "scan": 156,
+   "type": "Z",
+   "year": 1877,
+   "by": "schranka"
+  },
+  {
+   "scan": 156,
+   "type": "Z",
+   "year": 1877,
+   "year_to": 1879,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 160,
+   "type": "Z",
+   "year": 1878,
+   "place": "Mohuřice",
+   "by": "schranka"
+  },
+  {
+   "scan": 194,
+   "type": "Z",
+   "year": 1863,
+   "by": "schranka"
+  },
+  {
+   "scan": 194,
+   "type": "Z",
+   "year": 1862,
+   "year_to": 1863,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 195,
+   "type": "Z",
+   "year": 1863,
+   "year_to": 1865,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 196,
+   "type": "Z",
+   "year": 1866,
+   "year_to": 1867,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 197,
+   "type": "Z",
+   "year": 1867,
+   "year_to": 1869,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 198,
+   "type": "Z",
+   "year": 1869,
+   "year_to": 1873,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 199,
+   "type": "Z",
+   "year": 1874,
+   "year_to": 1877,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 200,
+   "type": "Z",
+   "year": 1862,
+   "place": "Otěvěk",
+   "by": "schranka"
+  },
+  {
+   "scan": 210,
+   "type": "Z",
+   "year": 1865,
+   "place": "Keblany",
+   "by": "schranka"
+  },
+  {
+   "scan": 225,
+   "type": "Z",
+   "year": 1865,
+   "place": "Michov",
+   "by": "schranka"
+  },
+  {
+   "scan": 240,
+   "type": "Z",
+   "year": 1876,
+   "place": "Rankov",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
+  }
+ ],
+ "places": [
+  "Lniště"
+ ],
+ "place_codes": {
+  "Lniště": 149896
+ }
+}
