@@ -22,11 +22,116 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 4,
+   "type": "N",
+   "year": 1739,
+   "months": "I",
+   "page": "1",
+   "note": "„Anno Domini 1739“ vpravo s. 1, vlevo prázdný list",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1739,
+   "months": "IV–V",
+   "page": "6–7",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1739,
+   "months": "VII–VIII",
+   "page": "10–11",
+   "note": "vizitace 7. VIII 1739",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1739,
+   "months": "IX–X",
+   "page": "14–15",
+   "note": "vizitace 16. X 1739",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1739,
+   "months": "XI–XII",
+   "page": "18–19",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1739,
+   "year_to": 1740,
+   "months": "XII–I",
+   "page": "20–21",
+   "note": "„Anno 1740“ vpravo s. 21",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1740,
+   "months": "IV",
+   "page": "26–27",
+   "note": "dvojí snímek dvoustrany 26–27",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 20,
    "type": "N",
    "year": 1739,
    "months": "V–VI",
    "page": "pag. 30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1740,
+   "months": "VII–VIII",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1740,
+   "months": "X",
+   "page": "40–41",
+   "note": "dvojí snímek dvoustrany 40–41 (i sn. 26)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1740,
+   "months": "X",
+   "page": "40–41",
+   "note": "vizitace 15. X 1740",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1740,
+   "year_to": 1741,
+   "months": "XII–I",
+   "page": "44–45",
+   "note": "začátek roku 1741",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1741,
+   "months": "III–IV",
+   "page": "50–51",
    "by": "ondrnovy"
   },
   {
