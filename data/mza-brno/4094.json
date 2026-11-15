@@ -22,5 +22,11 @@
    "by": "schranka",
    "date": "2026-11-13"
   }
- ]
+ ],
+ "places": [
+  "Hlína"
+ ],
+ "place_codes": {
+  "Hlína": 39187
+ }
 }
