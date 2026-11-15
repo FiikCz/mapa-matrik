@@ -2,7 +2,7 @@
  "schema": 1,
  "archive": "ahmp",
  "portal": "pragapublica",
- "portal_id": "43b9a29f9d4a457d8bdbf74ad7b7dafc",
+ "portal_id": "43B9A29F9D4A457D8BDBF74AD7B7DAFC",
  "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=43b9a29f9d4a457d8bdbf74ad7b7dafc",
  "signature": "Pražský magistrát, oddací matrika 1936",
  "parish": "Pražský magistrát",
@@ -21,7 +21,7 @@
  "sources": [
   {
    "by": "matriky-index",
-   "date": "2026-11-13"
+   "date": "2026-11-15"
   }
  ]
 }
