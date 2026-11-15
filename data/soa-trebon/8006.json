@@ -118,5 +118,11 @@
    "by": "schranka",
    "date": "2026-11-13"
   }
- ]
+ ],
+ "places": [
+  "Lniště"
+ ],
+ "place_codes": {
+  "Lniště": 149896
+ }
 }
