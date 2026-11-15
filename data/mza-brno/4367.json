@@ -28,5 +28,11 @@
    "by": "schranka",
    "date": "2026-11-13"
   }
- ]
+ ],
+ "places": [
+  "Radoškov"
+ ],
+ "place_codes": {
+  "Radoškov": 135798
+ }
 }
