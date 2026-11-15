@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12268",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12268",
+ "signature": "Smečno 02",
+ "parish": "Smečno",
+ "records": {
+  "N": "1695–1724"
+ },
+ "district": "Kladno",
+ "language": "čeština, němčina, latina",
+ "order": "chronological",
+ "scans": 193,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12268/{scan}",
+ "points": [
+  {
+   "scan": 74,
+   "type": "N",
+   "year": 1707,
+   "year_to": 1708,
+   "months": "XII–II",
+   "page": "141–142",
+   "note": "„A. 1708“ na s. 141",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1708,
+   "months": "V–VI",
+   "page": "144–145",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1709,
+   "months": "IV–VII",
+   "page": "155–156",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1710,
+   "months": "IV–VI",
+   "page": "165–166",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1711,
+   "months": "V–VII",
+   "page": "179–180",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1712,
+   "months": "V–VII",
+   "page": "193–194",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1713,
+   "months": "V–VIII",
+   "page": "205–206",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1713,
+   "months": "IX–XI",
+   "page": "217–218",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  }
+ ]
+}
