@@ -58,5 +58,11 @@
    "by": "schranka",
    "date": "2026-11-13"
   }
- ]
+ ],
+ "places": [
+  "Nežetice"
+ ],
+ "place_codes": {
+  "Nežetice": 102512
+ }
 }
