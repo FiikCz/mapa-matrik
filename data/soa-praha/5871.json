@@ -74,6 +74,25 @@
    "place": "Krakov"
   },
   {
+   "scan": 109,
+   "type": "O",
+   "year": 1864,
+   "page": "107",
+   "place": "Krakov",
+   "note": "konec oddílu Krakov; dál Krakov v knize Čistá (obec)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1868,
+   "year_to": 1869,
+   "page": "108",
+   "place": "Bělbožice",
+   "note": "začátek oddílu Bělbožice (Velbovice)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 111,
    "type": "O",
    "year": 1870,
@@ -96,6 +115,21 @@
    "year_to": 1920,
    "page": "123",
    "place": "Bělbožice"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "year": 1930,
+   "year_to": 1935,
+   "page": "126",
+   "place": "Bělbožice",
+   "note": "konec oddílu Bělbožice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 129,
+   "type": "blank",
+   "by": "ondrnovy"
   },
   {
    "scan": 130,
@@ -122,6 +156,15 @@
    "year": 1905,
    "year_to": 1906,
    "place": "Křekovice"
+  },
+  {
+   "scan": 215,
+   "type": "O",
+   "year": 1873,
+   "page": "250",
+   "place": "Kůzová",
+   "note": "od oddílu Kůzová strana = snímek + 35",
+   "by": "ondrnovy"
   },
   {
    "scan": 240,
@@ -170,6 +213,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-10"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }
