@@ -16,11 +16,78 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/12266/{scan}",
  "points": [
   {
+   "scan": 3,
+   "type": "title",
+   "note": "obálka „Smečno I 1739–1756“",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 20,
    "type": "N",
    "year": 1739,
    "months": "V–VI",
    "page": "pag. 30–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1741,
+   "months": "IV–VI",
+   "page": "54–55",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1741,
+   "months": "X–XI",
+   "page": "62–63",
+   "note": "vizitace 24. X 1741",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1741,
+   "year_to": 1742,
+   "months": "XI–I",
+   "page": "64–65",
+   "note": "„Anno Domini 1742“ vpravo s. 65",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1742,
+   "months": "IV–V",
+   "page": "72–73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1742,
+   "months": "X–XI",
+   "page": "82–83",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1742,
+   "months": "XI–XII",
+   "page": "86–87",
+   "note": "„Finis anni 1742“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1743,
+   "months": "I–II",
+   "page": "88–89",
+   "note": "„Anno Domini 1743“ vlevo s. 88",
    "by": "ondrnovy"
   },
   {
@@ -73,6 +140,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-14"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }
