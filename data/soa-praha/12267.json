@@ -333,12 +333,126 @@
    "page": "178–179",
    "note": "s. 179 dole vizitace 17. XI 1733",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1734,
+   "months": "I",
+   "page": "182–183",
+   "note": "začátek roku 1734",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1734,
+   "months": "XI–XII",
+   "page": "204–205",
+   "note": "vizitace 16. XI 1734",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1734,
+   "year_to": 1735,
+   "months": "XII–I",
+   "page": "206–207",
+   "note": "rok 1735 začíná vpravo s. 207",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1735,
+   "months": "XI–XII",
+   "page": "226–227",
+   "note": "vizitace 17. XI 1735",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1735,
+   "year_to": 1736,
+   "months": "XII–I",
+   "page": "228–229",
+   "note": "rok 1736 začíná na s. 229",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 132,
+   "type": "N",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "XII–I",
+   "page": "256–257",
+   "note": "začátek roku 1737",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1737,
+   "months": "V–VI",
+   "page": "268–269",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1737,
+   "months": "XI–XII",
+   "page": "276–277",
+   "note": "vizitace 20. XI 1737",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "N",
+   "year": 1737,
+   "year_to": 1738,
+   "months": "XII–I",
+   "page": "278–279",
+   "note": "„Anno Domini 1738“ vpravo s. 279",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1738,
+   "months": "IV–V",
+   "page": "286–287",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 151,
+   "type": "N",
+   "year": 1738,
+   "months": "IX–X",
+   "page": "294–295",
+   "note": "vizitace 4. X 1738",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 156,
+   "type": "N",
+   "year": 1738,
+   "months": "XII",
+   "page": "304–305",
+   "note": "poslední zápis knihy 26. XII 1738, s. 305 prázdná",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-14"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }
