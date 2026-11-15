@@ -52,5 +52,11 @@
    "by": "schranka",
    "date": "2026-11-13"
   }
- ]
+ ],
+ "places": [
+  "Pavlov"
+ ],
+ "place_codes": {
+  "Pavlov": 118362
+ }
 }
