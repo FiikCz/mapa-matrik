@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7997",
+ "url": "https://digi.ceskearchivy.cz/7997",
+ "signature": "Trhové Sviny 19",
+ "parish": "Trhové Sviny",
+ "records": {
+  "O": "1846–1861"
+ },
+ "points": [
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1855,
+   "place": "Čejrov",
+   "by": "schranka"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1848,
+   "by": "schranka"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1851,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1852,
+   "place": "Lniště",
+   "by": "schranka"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1854,
+   "place": "Otěvěk",
+   "by": "schranka"
+  },
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1852,
+   "place": "Mohuřice",
+   "by": "schranka"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1852,
+   "year_to": 1854,
+   "place": "Michov",
+   "by": "schranka"
+  },
+  {
+   "scan": 101,
+   "type": "O",
+   "year": 1851,
+   "place": "Nežetice",
+   "by": "schranka"
+  },
+  {
+   "scan": 105,
+   "type": "O",
+   "year": 1856,
+   "year_to": 1857,
+   "place": "Rankov",
+   "by": "schranka"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1852,
+   "place": "Todně",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
+  }
+ ],
+ "places": [
+  "Lniště"
+ ],
+ "place_codes": {
+  "Lniště": 149896
+ }
+}

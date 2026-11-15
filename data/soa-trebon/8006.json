@@ -41,6 +41,12 @@
    "by": "schranka"
   },
   {
+   "scan": 263,
+   "type": "Z",
+   "year": 1888,
+   "by": "schranka"
+  },
+  {
    "scan": 275,
    "type": "Z",
    "year": 1890,
@@ -89,6 +95,12 @@
    "by": "schranka"
   },
   {
+   "scan": 326,
+   "type": "Z",
+   "year": 1900,
+   "by": "schranka"
+  },
+  {
    "scan": 327,
    "type": "Z",
    "year": 1900,
@@ -117,6 +129,16 @@
   {
    "by": "schranka",
    "date": "2026-11-13"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
   }
- ]
+ ],
+ "places": [
+  "Lniště"
+ ],
+ "place_codes": {
+  "Lniště": 149896
+ }
 }

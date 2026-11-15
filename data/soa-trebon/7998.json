@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7998",
+ "url": "https://digi.ceskearchivy.cz/7998",
+ "signature": "Trhové Sviny 20",
+ "parish": "Trhové Sviny",
+ "records": {
+  "O": "1862–1873"
+ },
+ "points": [
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1863,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
+  }
+ ],
+ "places": [
+  "Lniště"
+ ],
+ "place_codes": {
+  "Lniště": 149896
+ }
+}
