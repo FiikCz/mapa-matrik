@@ -65,6 +65,22 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 30,
+   "type": "N",
+   "year": 1770,
+   "months": "I–V",
+   "page": "26v–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1770,
+   "months": "VI–VIII",
+   "page": "27v–28",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 66,
    "type": "N",
    "months": "VI–VIII",
@@ -111,6 +127,15 @@
    "page": "fol. 89v–90",
    "letters": "K (fol. 32–78), L",
    "note": "roky v rejstříku: fol. 50 = 1778, fol. 75 = 1783",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "89v–90",
+   "letters": "K–L",
    "by": "ondrnovy"
   },
   {
@@ -250,6 +275,10 @@
   },
   {
    "by": "matriky-index",
+   "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
    "date": "2026-11-15"
   }
  ]

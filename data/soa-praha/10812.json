@@ -18,6 +18,54 @@
  "language": "čeština, latina",
  "points": [
   {
+   "scan": 110,
+   "type": "N",
+   "year": 1693,
+   "months": "VIII–XI",
+   "page": "210–211",
+   "note": "bez vsí u zápisů; konec úseku N na str. 212",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "year": 1685,
+   "months": "I–IX",
+   "page": "246–247",
+   "note": "„Consignatio copulatorum … Anno 1685“ na str. 246",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1688,
+   "year_to": 1689,
+   "months": "VI–XI",
+   "page": "252–253",
+   "note": "„Anno 1689“ na str. 253 (předchozí zápisy asi 1688)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 132,
+   "type": "O",
+   "year": 1687,
+   "year_to": 1689,
+   "months": "XI–IX",
+   "page": "254–254",
+   "note": "„Anni 1689“ na pravé str.; nadpis na sn. 131 je tedy spíš „Anni 1687“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1689,
+   "year_to": 1690,
+   "months": "X–X",
+   "page": "255–256",
+   "note": "„Anno 1690“ na str. 256",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 135,
    "type": "O",
    "year": 1692,
@@ -65,6 +113,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-14"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }
