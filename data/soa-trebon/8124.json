@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8124",
+ "url": "https://digi.ceskearchivy.cz/8124",
+ "signature": "Z Týn nad Vltavou 1769–1792",
+ "parish": "Z Týn nad Vltavou 1769–1792",
+ "records": {
+  "Z": "1769–1792"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1773,
+   "by": "schranka"
+  },
+  {
+   "scan": 61,
+   "type": "Z",
+   "year": 1781,
+   "by": "schranka"
+  },
+  {
+   "scan": 62,
+   "type": "Z",
+   "year": 1781,
+   "by": "schranka"
+  },
+  {
+   "scan": 63,
+   "type": "Z",
+   "year": 1782,
+   "by": "schranka"
+  },
+  {
+   "scan": 72,
+   "type": "Z",
+   "year": 1784,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

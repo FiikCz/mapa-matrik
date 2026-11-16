@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8118",
+ "url": "https://digi.ceskearchivy.cz/8118",
+ "signature": "O Týn nad Vltavou 1793–1806",
+ "parish": "O Týn nad Vltavou 1793–1806",
+ "records": {
+  "O": "1793–1806"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1802,
+   "by": "schranka"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1797,
+   "by": "schranka"
+  },
+  {
+   "scan": 62,
+   "type": "O",
+   "year": 1794,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
