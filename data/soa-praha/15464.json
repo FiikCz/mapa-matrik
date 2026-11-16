@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "15464",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/15464",
+ "signature": "Bezdědice-MB 12 – N 1706–1765",
+ "parish": "Bezdědice-MB 12 – N 1706–1765",
+ "records": {
+  "N": "1754–1763"
+ },
+ "points": [
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1754,
+   "by": "schranka"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1755,
+   "by": "schranka"
+  },
+  {
+   "scan": 101,
+   "type": "N",
+   "year": 1757,
+   "by": "schranka"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

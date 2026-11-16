@@ -60,9 +60,11 @@
   }
  ],
  "places": [
+  "Nežetice",
   "Lniště"
  ],
  "place_codes": {
-  "Lniště": 149896
+  "Lniště": 149896,
+  "Nežetice": 102512
  }
 }

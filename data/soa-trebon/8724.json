@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8724",
+ "url": "https://digi.ceskearchivy.cz/8724",
+ "signature": "N/O/Z Zálší (Horní Bukovsko) 1740–1763",
+ "parish": "N/O/Z Zálší (Horní Bukovsko) 1740–1763",
+ "records": {
+  "N": "1760–1763",
+  "Z": "1763",
+  "O": "1758"
+ },
+ "points": [
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1760,
+   "by": "schranka"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1758,
+   "by": "schranka"
+  },
+  {
+   "scan": 161,
+   "type": "Z",
+   "year": 1763,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

@@ -17,6 +17,12 @@
    "by": "schranka"
   },
   {
+   "scan": 110,
+   "type": "N",
+   "year": 1873,
+   "by": "schranka"
+  },
+  {
    "scan": 111,
    "type": "N",
    "year": 1873,
@@ -59,6 +65,12 @@
    "by": "schranka"
   },
   {
+   "scan": 121,
+   "type": "N",
+   "year": 1881,
+   "by": "schranka"
+  },
+  {
    "scan": 123,
    "type": "N",
    "year": 1883,
@@ -87,6 +99,10 @@
   {
    "by": "schranka",
    "date": "2026-11-13"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
   }
  ],
  "places": [

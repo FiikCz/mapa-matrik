@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4131",
+ "url": "https://digi.ceskearchivy.cz/4131",
+ "signature": "N Chrášťany 1828–1846",
+ "parish": "N Chrášťany 1828–1846",
+ "records": {
+  "N": "1828–1846"
+ },
+ "points": [
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1835,
+   "by": "schranka"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1832,
+   "by": "schranka"
+  },
+  {
+   "scan": 304,
+   "type": "N",
+   "year": 1842,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

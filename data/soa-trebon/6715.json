@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6715",
+ "url": "https://digi.ceskearchivy.cz/6715",
+ "signature": "N Krč (fara Protivín) 1784–1805",
+ "parish": "N Krč (fara Protivín) 1784–1805",
+ "records": {
+  "N": "1784–1805"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1801,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

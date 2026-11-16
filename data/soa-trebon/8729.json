@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8729",
+ "url": "https://digi.ceskearchivy.cz/8729",
+ "signature": "N/O/Z Zálší 1787–1799",
+ "parish": "N/O/Z Zálší 1787–1799",
+ "records": {
+  "O": "1788"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1788,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

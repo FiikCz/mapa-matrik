@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8919",
+ "url": "https://digi.ceskearchivy.cz/8919",
+ "signature": "O Žimutice 1839–1900",
+ "parish": "O Žimutice 1839–1900",
+ "records": {
+  "O": "1839–1900"
+ },
+ "points": [
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1882,
+   "by": "schranka"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1854,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

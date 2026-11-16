@@ -23,6 +23,12 @@
    "by": "schranka"
   },
   {
+   "scan": 176,
+   "type": "N",
+   "year": 1834,
+   "by": "schranka"
+  },
+  {
    "scan": 177,
    "type": "N",
    "year": 1836,
@@ -75,12 +81,18 @@
   {
    "by": "schranka",
    "date": "2026-11-13"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-15"
   }
  ],
  "places": [
+  "Nežetice",
   "Lniště"
  ],
  "place_codes": {
-  "Lniště": 149896
+  "Lniště": 149896,
+  "Nežetice": 102512
  }
 }

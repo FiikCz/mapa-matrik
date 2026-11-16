@@ -2,7 +2,7 @@
  "schema": 1,
  "archive": "ahmp",
  "portal": "pragapublica",
- "portal_id": "8b27d83990b949de9122e2b0481481dc",
+ "portal_id": "8B27D83990B949DE9122E2B0481481DC",
  "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=8b27d83990b949de9122e2b0481481dc",
  "signature": "ŽKR N47b",
  "parish": "Žižkov – kostel sv. Rocha",
@@ -21,7 +21,7 @@
  "sources": [
   {
    "by": "matriky-index",
-   "date": "2026-11-13"
+   "date": "2026-11-15"
   }
  ]
 }

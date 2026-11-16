@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3977",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3977",
+ "signature": "Bezdědice-MB 06 – Z 1784–1886 (bez rejstříku)",
+ "parish": "Bezdědice-MB 06 – Z 1784–1886 (bez rejstříku)",
+ "records": {
+  "Z": "1794–1834"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "Z",
+   "year": 1794,
+   "by": "schranka"
+  },
+  {
+   "scan": 71,
+   "type": "Z",
+   "year": 1834,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

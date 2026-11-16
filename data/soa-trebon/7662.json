@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7662",
+ "url": "https://digi.ceskearchivy.cz/7662",
+ "signature": "N Sudoměřice u Bechyně 1818–1827",
+ "parish": "N Sudoměřice u Bechyně 1818–1827",
+ "records": {
+  "N": "1818–1827"
+ },
+ "points": [
+  {
+   "scan": 147,
+   "type": "N",
+   "year": 1822,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

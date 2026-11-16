@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11834",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11834",
+ "signature": "Skalsko 04 – N",
+ "parish": "Skalsko 04 – N",
+ "records": {
+  "N": "1782",
+  "O": "1777–1779"
+ },
+ "points": [
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1782,
+   "by": "schranka"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1777,
+   "by": "schranka"
+  },
+  {
+   "scan": 61,
+   "type": "O",
+   "year": 1779,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

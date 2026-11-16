@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11825",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11825",
+ "signature": "Skalsko 08 – O 1784–1809 (s rejstříkem)",
+ "parish": "Skalsko 08 – O 1784–1809 (s rejstříkem)",
+ "records": {
+  "O": "1785–1804"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "O",
+   "year": 1785,
+   "by": "schranka"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1804,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

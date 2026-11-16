@@ -8,9 +8,28 @@
  "parish": "Přeštice",
  "records": {
   "N": "1722–1756",
-  "O": "1722–1756"
+  "O": "1722–1756",
+  "Z": "1741"
  },
  "points": [
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1724,
+   "by": "schranka"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1726,
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1730,
+   "by": "schranka"
+  },
   {
    "scan": 185,
    "type": "N",
@@ -29,12 +48,22 @@
    "type": "O",
    "year": 1751,
    "by": "pe-pan"
+  },
+  {
+   "scan": 444,
+   "type": "Z",
+   "year": 1741,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-13"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
   }
  ]
 }

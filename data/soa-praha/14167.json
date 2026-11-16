@@ -7,7 +7,7 @@
  "signature": "Beroun 56",
  "parish": "Beroun",
  "records": {
-  "Z": "1925–1933"
+  "Z": "1924–1938"
  },
  "points": [
   {
@@ -41,5 +41,11 @@
    "date": "2026-11-12"
   }
  ],
- "scans": 311
+ "scans": 311,
+ "places": [
+  "Beroun-Zavadilka"
+ ],
+ "place_codes": {
+  "Beroun-Zavadilka": 401927
+ }
 }

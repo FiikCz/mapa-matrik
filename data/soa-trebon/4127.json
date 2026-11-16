@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4127",
+ "url": "https://digi.ceskearchivy.cz/4127",
+ "signature": "N Chrášťany 1771–1823",
+ "parish": "N Chrášťany 1771–1823",
+ "records": {
+  "N": "1771–1823"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1772,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

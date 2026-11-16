@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8123",
+ "url": "https://digi.ceskearchivy.cz/8123",
+ "signature": "O Týn nad Vltavou 1896–1921",
+ "parish": "O Týn nad Vltavou 1896–1921",
+ "records": {
+  "O": "1896–1921"
+ },
+ "points": [
+  {
+   "scan": 268,
+   "type": "O",
+   "year": 1918,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

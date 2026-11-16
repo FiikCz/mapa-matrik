@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7159",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7159",
+ "signature": "Kováň 07 – O 1826–1846",
+ "parish": "Kováň 07 – O 1826–1846",
+ "records": {
+  "N": "1845",
+  "O": "1831",
+  "Z": "1842–1843"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1831,
+   "by": "schranka"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1845,
+   "by": "schranka"
+  },
+  {
+   "scan": 87,
+   "type": "Z",
+   "year": 1842,
+   "by": "schranka"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1843,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

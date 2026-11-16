@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7667",
+ "url": "https://digi.ceskearchivy.cz/7667",
+ "signature": "O Sudoměřice u Bechyně 1824–1849",
+ "parish": "O Sudoměřice u Bechyně 1824–1849",
+ "records": {
+  "O": "1824–1849"
+ },
+ "points": [
+  {
+   "scan": 88,
+   "type": "O",
+   "year": 1843,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

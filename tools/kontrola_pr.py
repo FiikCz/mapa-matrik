@@ -42,6 +42,14 @@ def main(argv):
     base, head = argv[1], argv[2]
     author = argv[3] if len(argv) > 3 else None
     errors, human, added = [], [], 0
+    # Soubory lišící se jen velikostí písmen nejdou na Windows a macOS mít vedle sebe (jeden přepíše druhý).
+    soubory = {}
+    for f in git("ls-tree", "-r", "--name-only", head, "data").splitlines():
+        soubory.setdefault(f.lower(), []).append(f)
+    zmenene = set(git("diff", "--name-only", "--no-renames", f"{base}...{head}").splitlines())
+    for stejne in soubory.values():
+        if len(stejne) > 1 and zmenene & set(stejne):
+            errors.append(f"{' a '.join(stejne)}: soubory se liší jen velikostí písmen")
     for line in git("diff", "--name-status", "--no-renames", f"{base}...{head}").splitlines():
         status, path = line.split("\t", 1)
         p = pathlib.PurePosixPath(path)

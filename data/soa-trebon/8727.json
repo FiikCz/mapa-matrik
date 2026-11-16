@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8727",
+ "url": "https://digi.ceskearchivy.cz/8727",
+ "signature": "Z Zálší 1764–1786",
+ "parish": "Z Zálší 1764–1786",
+ "records": {
+  "Z": "1764–1786"
+ },
+ "points": [
+  {
+   "scan": 35,
+   "type": "Z",
+   "year": 1772,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

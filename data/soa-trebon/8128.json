@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8128",
+ "url": "https://digi.ceskearchivy.cz/8128",
+ "signature": "Z Týn nad Vltavou 1847–1862",
+ "parish": "Z Týn nad Vltavou 1847–1862",
+ "records": {
+  "Z": "1847–1862"
+ },
+ "points": [
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1848,
+   "by": "schranka"
+  },
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1849,
+   "by": "schranka"
+  },
+  {
+   "scan": 31,
+   "type": "Z",
+   "year": 1850,
+   "by": "schranka"
+  },
+  {
+   "scan": 56,
+   "type": "Z",
+   "year": 1853,
+   "by": "schranka"
+  },
+  {
+   "scan": 76,
+   "type": "Z",
+   "year": 1855,
+   "by": "schranka"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1857,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
