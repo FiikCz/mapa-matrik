@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8739",
+ "url": "https://digi.ceskearchivy.cz/8739",
+ "signature": "Z Zálší 1823–1881",
+ "parish": "Z Zálší 1823–1881",
+ "records": {
+  "Z": "1823–1881"
+ },
+ "points": [
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1837,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

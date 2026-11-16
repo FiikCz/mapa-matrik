@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6719",
+ "url": "https://digi.ceskearchivy.cz/6719",
+ "signature": "Z Krč (fara Protivín) 1784–1804",
+ "parish": "Z Krč (fara Protivín) 1784–1804",
+ "records": {
+  "Z": "1784–1804"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1794,
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1803,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

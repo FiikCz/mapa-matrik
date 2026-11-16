@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8130",
+ "url": "https://digi.ceskearchivy.cz/8130",
+ "signature": "Z Týn nad Vltavou 1872–1890",
+ "parish": "Z Týn nad Vltavou 1872–1890",
+ "records": {
+  "Z": "1872–1890"
+ },
+ "points": [
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1872,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

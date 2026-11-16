@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4125",
+ "url": "https://digi.ceskearchivy.cz/4125",
+ "signature": "N O Z Chrášťany 1724–1760",
+ "parish": "N O Z Chrášťany 1724–1760",
+ "records": {
+  "N": "1724–1760",
+  "O": "1752"
+ },
+ "points": [
+  {
+   "scan": 205,
+   "type": "N",
+   "year": 1756,
+   "by": "schranka"
+  },
+  {
+   "scan": 298,
+   "type": "O",
+   "year": 1752,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

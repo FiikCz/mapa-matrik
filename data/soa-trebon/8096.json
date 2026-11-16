@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8096",
+ "url": "https://digi.ceskearchivy.cz/8096",
+ "signature": "N Týn nad Vltavou 1650–1684",
+ "parish": "N Týn nad Vltavou 1650–1684",
+ "records": {
+  "N": "1650–1684"
+ },
+ "points": [
+  {
+   "scan": 146,
+   "type": "N",
+   "year": 1674,
+   "by": "schranka"
+  },
+  {
+   "scan": 158,
+   "type": "N",
+   "year": 1675,
+   "by": "schranka"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1677,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
