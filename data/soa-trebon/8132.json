@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8132",
+ "url": "https://digi.ceskearchivy.cz/8132",
+ "signature": "Z Týn nad Vltavou 1904–1919",
+ "parish": "Z Týn nad Vltavou 1904–1919",
+ "records": {
+  "Z": "1904–1919"
+ },
+ "points": [
+  {
+   "scan": 111,
+   "type": "Z",
+   "year": 1910,
+   "by": "schranka"
+  },
+  {
+   "scan": 127,
+   "type": "Z",
+   "year": 1911,
+   "by": "schranka"
+  },
+  {
+   "scan": 229,
+   "type": "Z",
+   "year": 1917,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

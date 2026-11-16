@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2009",
+ "url": "https://digi.ceskearchivy.cz/2009",
+ "signature": "O Albrechtice nad Vltavou 1801–1856",
+ "parish": "O Albrechtice nad Vltavou 1801–1856",
+ "records": {
+  "O": "1801–1856"
+ },
+ "points": [
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1814,
+   "by": "schranka"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1855,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

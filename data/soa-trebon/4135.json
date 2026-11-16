@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4135",
+ "url": "https://digi.ceskearchivy.cz/4135",
+ "signature": "N Chrášťany 1882–1899",
+ "parish": "N Chrášťany 1882–1899",
+ "records": {
+  "N": "1882–1899"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1882,
+   "by": "schranka"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1884,
+   "by": "schranka"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1886,
+   "by": "schranka"
+  },
+  {
+   "scan": 157,
+   "type": "N",
+   "year": 1889,
+   "by": "schranka"
+  },
+  {
+   "scan": 205,
+   "type": "N",
+   "year": 1892,
+   "by": "schranka"
+  },
+  {
+   "scan": 288,
+   "type": "N",
+   "year": 1895,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
