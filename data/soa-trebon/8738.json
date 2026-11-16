@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8738",
+ "url": "https://digi.ceskearchivy.cz/8738",
+ "signature": "Z Zálší 1799–1822",
+ "parish": "Z Zálší 1799–1822",
+ "records": {
+  "Z": "1799–1822"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1800,
+   "by": "schranka"
+  },
+  {
+   "scan": 21,
+   "type": "Z",
+   "year": 1809,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

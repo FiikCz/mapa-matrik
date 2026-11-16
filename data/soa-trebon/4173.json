@@ -11,6 +11,12 @@
  },
  "points": [
   {
+   "scan": 3,
+   "type": "O",
+   "year": 1788,
+   "by": "schranka"
+  },
+  {
    "scan": 46,
    "type": "O",
    "year": 1808,
@@ -22,6 +28,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
   }
  ]
 }
