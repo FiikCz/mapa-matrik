@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8690",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8690",
+ "signature": "Mladá Boleslav 17",
+ "parish": "Mladá Boleslav",
+ "records": {
+  "N": "1834"
+ },
+ "points": [
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1834,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

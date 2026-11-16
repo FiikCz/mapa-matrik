@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "14520",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/14520",
+ "signature": "Velenice-ev 16",
+ "parish": "Velenice-ev",
+ "records": {
+  "O": "1898"
+ },
+ "points": [
+  {
+   "scan": 150,
+   "type": "O",
+   "year": 1898,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

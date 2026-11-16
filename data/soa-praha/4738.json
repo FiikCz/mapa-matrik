@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4738",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4738",
+ "signature": "Čelákovice 24",
+ "parish": "Čelákovice",
+ "records": {
+  "N": "1889"
+ },
+ "points": [
+  {
+   "scan": 404,
+   "type": "N",
+   "year": 1889,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

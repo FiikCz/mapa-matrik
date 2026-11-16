@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9713",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9713",
+ "signature": "Velenice-ev 02",
+ "parish": "Velenice-ev",
+ "records": {
+  "N": "1811–1812"
+ },
+ "points": [
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1811,
+   "by": "schranka"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1812,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

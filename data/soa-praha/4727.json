@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4727",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4727",
+ "signature": "Čelákovice 13",
+ "parish": "Čelákovice",
+ "records": {
+  "N": "1849"
+ },
+ "points": [
+  {
+   "scan": 207,
+   "type": "N",
+   "year": 1849,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
