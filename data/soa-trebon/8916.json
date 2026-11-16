@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8916",
+ "url": "https://digi.ceskearchivy.cz/8916",
+ "signature": "N Žimutice 1850–1864",
+ "parish": "N Žimutice 1850–1864",
+ "records": {
+  "N": "1850–1864"
+ },
+ "points": [
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1861,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
