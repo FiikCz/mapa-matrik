@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12367",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12367",
+ "signature": "Stará Boleslav 11",
+ "parish": "Stará Boleslav",
+ "records": {
+  "N": "1848"
+ },
+ "points": [
+  {
+   "scan": 131,
+   "type": "N",
+   "year": 1848,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "8474",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8474",
+ "signature": "Městec Králové 05",
+ "parish": "Městec Králové",
+ "records": {
+  "N": "1763–1784",
+  "Z": "1771–1778"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
+   "scan": 12,
+   "type": "N",
+   "year": 1766,
+   "by": "schranka"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1769,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1773,
+   "by": "schranka"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1775,
+   "by": "schranka"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1778,
+   "by": "schranka"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1780,
+   "by": "schranka"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1783,
+   "by": "schranka"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1784,
+   "by": "schranka"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1771,
+   "by": "schranka"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1773,
+   "by": "schranka"
+  },
+  {
+   "scan": 102,
+   "type": "Z",
+   "year": 1778,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

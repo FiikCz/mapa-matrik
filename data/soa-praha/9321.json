@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9321",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9321",
+ "signature": "Libice nad Cidlinou-ev 04",
+ "parish": "Libice nad Cidlinou-ev",
+ "records": {
+  "N": "1875"
+ },
+ "points": [
+  {
+   "scan": 275,
+   "type": "N",
+   "year": 1875,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "9714",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9714",
+ "signature": "Velenice-ev 03",
+ "parish": "Velenice-ev",
+ "records": {
+  "N": "1841"
+ },
+ "points": [
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1841,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

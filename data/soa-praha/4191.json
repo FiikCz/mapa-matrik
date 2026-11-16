@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "4191",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/4191",
+ "signature": "Brandýs nad Labem 40",
+ "parish": "Brandýs nad Labem",
+ "records": {
+  "N": "1882–1886"
+ },
+ "points": [
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1882,
+   "by": "schranka"
+  },
+  {
+   "scan": 179,
+   "type": "N",
+   "year": 1886,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

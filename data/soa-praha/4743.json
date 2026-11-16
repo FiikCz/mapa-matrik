@@ -11,6 +11,12 @@
  },
  "points": [
   {
+   "scan": 10,
+   "type": "O",
+   "year": 1883,
+   "by": "schranka"
+  },
+  {
    "scan": 27,
    "type": "O",
    "year": 1886,
@@ -22,6 +28,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
   }
  ]
 }
