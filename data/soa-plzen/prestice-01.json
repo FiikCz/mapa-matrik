@@ -1,0 +1,107 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "prestice-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/prestice-01",
+ "signature": "Přeštice 01",
+ "parish": "Přeštice",
+ "records": {
+  "N": "1684–1721",
+  "Z": "1696–1709",
+  "O": "1683–1697"
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1684,
+   "by": "schranka"
+  },
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1686,
+   "by": "schranka"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1688,
+   "by": "schranka"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1690,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1691,
+   "by": "schranka"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1693,
+   "by": "schranka"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1695,
+   "by": "schranka"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1717,
+   "by": "schranka"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1720,
+   "by": "schranka"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1721,
+   "by": "schranka"
+  },
+  {
+   "scan": 261,
+   "type": "O",
+   "year": 1683,
+   "by": "schranka"
+  },
+  {
+   "scan": 272,
+   "type": "O",
+   "year": 1697,
+   "by": "schranka"
+  },
+  {
+   "scan": 319,
+   "type": "Z",
+   "year": 1696,
+   "by": "schranka"
+  },
+  {
+   "scan": 330,
+   "type": "Z",
+   "year": 1709,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ],
+ "scans": 358
+}

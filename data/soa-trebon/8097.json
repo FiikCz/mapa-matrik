@@ -1,0 +1,171 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8097",
+ "url": "https://digi.ceskearchivy.cz/8097",
+ "signature": "NOZ Týn nad Vltavou 1685–1723",
+ "parish": "NOZ Týn nad Vltavou 1685–1723",
+ "records": {
+  "O": "1696–1722",
+  "N": "1685–1723"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1685,
+   "by": "schranka"
+  },
+  {
+   "scan": 29,
+   "type": "N",
+   "year": 1687,
+   "by": "schranka"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1689,
+   "by": "schranka"
+  },
+  {
+   "scan": 89,
+   "type": "N",
+   "year": 1692,
+   "by": "schranka"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1693,
+   "by": "schranka"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1695,
+   "by": "schranka"
+  },
+  {
+   "scan": 152,
+   "type": "N",
+   "year": 1697,
+   "by": "schranka"
+  },
+  {
+   "scan": 167,
+   "type": "N",
+   "year": 1698,
+   "by": "schranka"
+  },
+  {
+   "scan": 171,
+   "type": "N",
+   "year": 1699,
+   "by": "schranka"
+  },
+  {
+   "scan": 181,
+   "type": "N",
+   "year": 1700,
+   "by": "schranka"
+  },
+  {
+   "scan": 184,
+   "type": "N",
+   "year": 1700,
+   "by": "schranka"
+  },
+  {
+   "scan": 192,
+   "type": "N",
+   "year": 1701,
+   "by": "schranka"
+  },
+  {
+   "scan": 318,
+   "type": "N",
+   "year": 1710,
+   "by": "schranka"
+  },
+  {
+   "scan": 359,
+   "type": "N",
+   "year": 1713,
+   "by": "schranka"
+  },
+  {
+   "scan": 380,
+   "type": "N",
+   "year": 1715,
+   "by": "schranka"
+  },
+  {
+   "scan": 400,
+   "type": "N",
+   "year": 1717,
+   "by": "schranka"
+  },
+  {
+   "scan": 403,
+   "type": "N",
+   "year": 1717,
+   "by": "schranka"
+  },
+  {
+   "scan": 457,
+   "type": "N",
+   "year": 1721,
+   "by": "schranka"
+  },
+  {
+   "scan": 504,
+   "type": "O",
+   "year": 1696,
+   "by": "schranka"
+  },
+  {
+   "scan": 506,
+   "type": "O",
+   "year": 1696,
+   "by": "schranka"
+  },
+  {
+   "scan": 530,
+   "type": "O",
+   "year": 1701,
+   "by": "schranka"
+  },
+  {
+   "scan": 590,
+   "type": "O",
+   "year": 1712,
+   "by": "schranka"
+  },
+  {
+   "scan": 634,
+   "type": "O",
+   "year": 1722,
+   "by": "schranka"
+  },
+  {
+   "scan": 663,
+   "type": "N",
+   "year": 1723,
+   "by": "schranka"
+  },
+  {
+   "scan": 666,
+   "type": "N",
+   "year": 1723,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

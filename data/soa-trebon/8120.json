@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8120",
+ "url": "https://digi.ceskearchivy.cz/8120",
+ "signature": "O Týn nad Vltavou 1818–1840",
+ "parish": "O Týn nad Vltavou 1818–1840",
+ "records": {
+  "O": "1818–1840"
+ },
+ "points": [
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1825,
+   "by": "schranka"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1837,
+   "by": "schranka"
+  },
+  {
+   "scan": 230,
+   "type": "O",
+   "year": 1829,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

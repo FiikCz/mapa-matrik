@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8110",
+ "url": "https://digi.ceskearchivy.cz/8110",
+ "signature": "N Týn nad Vltavou 1874–1880",
+ "parish": "N Týn nad Vltavou 1874–1880",
+ "records": {
+  "N": "1874–1880"
+ },
+ "points": [
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1875,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
