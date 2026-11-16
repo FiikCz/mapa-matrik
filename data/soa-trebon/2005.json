@@ -7,9 +7,16 @@
  "signature": "Albrechtice nad Vltavou 4 1788-1801",
  "parish": "Albrechtice nad Vltavou 4",
  "records": {
-  "O": "1788–1801"
+  "O": "1788–1801",
+  "N": "1796"
  },
  "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1796,
+   "by": "schranka"
+  },
   {
    "scan": 35,
    "type": "O",
@@ -22,6 +29,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
   }
  ]
 }

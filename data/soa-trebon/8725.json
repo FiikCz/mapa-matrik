@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8725",
+ "url": "https://digi.ceskearchivy.cz/8725",
+ "signature": "N Zálší 1764–1786",
+ "parish": "N Zálší 1764–1786",
+ "records": {
+  "N": "1764–1786"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1764,
+   "by": "schranka"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1773,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

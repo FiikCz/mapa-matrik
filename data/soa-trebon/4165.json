@@ -7,9 +7,16 @@
  "signature": "Chřešťovice 3 1751-1777",
  "parish": "Chřešťovice 3",
  "records": {
-  "N": "1751–1777"
+  "N": "1751–1777",
+  "Z": "1769"
  },
  "points": [
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1768,
+   "by": "schranka"
+  },
   {
    "scan": 97,
    "type": "N",
@@ -23,12 +30,22 @@
    "year": 1775,
    "months": "III",
    "by": "matriky-index"
+  },
+  {
+   "scan": 227,
+   "type": "Z",
+   "year": 1769,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
   }
  ]
 }
