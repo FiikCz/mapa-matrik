@@ -213,12 +213,16 @@ export function novaKniha(archive, portal_id, kniha, dnes) {
 
 export const HLAVICKA = ["snimek", "datum", "typ", "obec", "osoby", "ostatni", "jistota", "cetl", "odkaz"];
 
+// Kdo a čím četl, bez data – totéž čtení podruhé se nepřidá, čtení jiného člověka nebo modelu ano (další čtení vedle).
+const ctenar = cetl => String(cetl || "").replace(/\d{4}-\d{2}-\d{2}/g, "").toLowerCase().split(/\s+/).filter(Boolean).join(" ");
+
 export function pridejRadky(tsv, radky) {
   const lines = tsv ? tsv.replace(/\n+$/, "").split("\n") : [HLAVICKA.join("\t")];
+  const iCetl = HLAVICKA.indexOf("cetl");
   let pridano = 0;
   for (const r of radky) {
     const klic = [r.snimek, r.datum, r.typ].join("\t");
-    if (lines.some(l => l.startsWith(klic + "\t"))) continue;
+    if (lines.some(l => l.startsWith(klic + "\t") && ctenar(l.split("\t")[iCetl]) === ctenar(r.cetl))) continue;
     lines.push(HLAVICKA.map(k => r[k] || "").join("\t"));
     pridano++;
   }

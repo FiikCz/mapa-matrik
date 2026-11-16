@@ -34,6 +34,9 @@ test("řádky indexu: hlavička, bez duplicit", () => {
   assert.equal(pridano, 1);
   assert.match(tsv, /^snimek\tdatum\ttyp\tobec\tosoby\tostatni\tjistota\tcetl\todkaz\n74\t1918-01-17\tZ\t\tx\t/);
   assert.equal(pridejRadky(tsv, [{ snimek: "74", datum: "1918-01-17", typ: "Z", osoby: "y" }]).pridano, 0);
+  const s1 = pridejRadky(null, [{ snimek: "74", datum: "1918-01-17", typ: "Z", osoby: "x", cetl: "claude-opus-5-5/high 2026-11-11" }]).tsv;
+  assert.equal(pridejRadky(s1, [{ snimek: "74", datum: "1918-01-17", typ: "Z", osoby: "x", cetl: "claude-opus-5-5/high 2026-11-16" }]).pridano, 0, "totéž čtení");
+  assert.equal(pridejRadky(s1, [{ snimek: "74", datum: "1918-01-17", typ: "Z", osoby: "x", cetl: "claude-sonnet-5-5/high 2026-11-16" }]).pridano, 1, "druhé čtení");
 });
 
 function falesnyGitHub({ vetve = {}, otevrene = {}, navic = {} } = {}) {

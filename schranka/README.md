@@ -18,7 +18,8 @@ takže nesmysl nebo spam skončí jako zamítnutý PR.
 - zápisy: archivy indexu `portafontium`, `soapraha`, `ahmp`, `vca`, `mza`, `zaopava`, `soatrebon`, formát řádku indexu,
   lhůty (narození 100 let, sňatky a úmrtí 75 let), `cetl` s modelem/effortem, jistota; u Porta fontium snímek jako
   pořadí v prohlížeči portálu, ne číslo souboru (`0740-z` odmítne);
-- duplicity: bod, který v knize už je, a řádek indexu se stejným snímkem, datem a druhem se nepřidá.
+- duplicity: bod, který v knize už je, se nepřidá; řádek indexu se stejným snímkem, datem a druhem jen tehdy, když ho
+  četl jiný člověk nebo jiný model (`cetl` bez data) – nezávislé druhé čtení jde vedle prvního.
 
 ## API
 
