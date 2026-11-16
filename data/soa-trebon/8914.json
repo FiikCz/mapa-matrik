@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8914",
+ "url": "https://digi.ceskearchivy.cz/8914",
+ "signature": "N Žimutice 1778–1817",
+ "parish": "N Žimutice 1778–1817",
+ "records": {
+  "N": "1778–1817"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1781,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

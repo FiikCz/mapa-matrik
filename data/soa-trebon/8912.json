@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8912",
+ "url": "https://digi.ceskearchivy.cz/8912",
+ "signature": "N O Z Žimutice 1677–1732",
+ "parish": "N O Z Žimutice 1677–1732",
+ "records": {
+  "Z": "1713–1725",
+  "N": "1677–1732",
+  "O": "1716"
+ },
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1702,
+   "by": "schranka"
+  },
+  {
+   "scan": 138,
+   "type": "O",
+   "year": 1716,
+   "by": "schranka"
+  },
+  {
+   "scan": 167,
+   "type": "Z",
+   "year": 1713,
+   "by": "schranka"
+  },
+  {
+   "scan": 169,
+   "type": "Z",
+   "year": 1716,
+   "by": "schranka"
+  },
+  {
+   "scan": 175,
+   "type": "Z",
+   "year": 1725,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

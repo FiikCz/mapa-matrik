@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6813",
+ "url": "https://digi.ceskearchivy.cz/6813",
+ "signature": "Index NOZ Purkarec 1785–1911",
+ "parish": "Index NOZ Purkarec 1785–1911",
+ "records": {
+  "N": "1857"
+ },
+ "points": [
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1857,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
