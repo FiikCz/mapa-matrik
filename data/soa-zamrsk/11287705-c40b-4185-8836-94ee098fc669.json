@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-zamrsk",
+ "portal": "aron",
+ "portal_id": "11287705-c40b-4185-8836-94ee098fc669",
+ "url": "https://aron.vychodoceskearchivy.cz/apu/11287705-c40b-4185-8836-94ee098fc669",
+ "signature": "Sbírka matrik Východočeského kraje",
+ "parish": "Sbírka matrik Východočeského kraje",
+ "records": {
+  "N": "1804"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1804,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ],
+ "scans": 152
+}
