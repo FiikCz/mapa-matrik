@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8125",
+ "url": "https://digi.ceskearchivy.cz/8125",
+ "signature": "Z Týn nad Vltavou 1793–1804",
+ "parish": "Z Týn nad Vltavou 1793–1804",
+ "records": {
+  "Z": "1793–1804"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1795,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

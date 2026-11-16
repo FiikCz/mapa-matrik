@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "6714",
+ "url": "https://digi.ceskearchivy.cz/6714",
+ "signature": "NOZ Krč (fara Protivín) 1758–1784",
+ "parish": "NOZ Krč (fara Protivín) 1758–1784",
+ "records": {
+  "O": "1782",
+  "N": "1758–1766"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "N",
+   "year": 1758,
+   "by": "schranka"
+  },
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1760,
+   "by": "schranka"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1765,
+   "by": "schranka"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1766,
+   "by": "schranka"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1782,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
