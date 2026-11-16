@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11900",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11900",
+ "signature": "Skalsko 03 – N/O/Z 1760–1770 (s rejstříkem)",
+ "parish": "Skalsko 03 – N/O/Z 1760–1770 (s rejstříkem)",
+ "records": {
+  "N": "1763"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "7163",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7163",
+ "signature": "Kováň 11 – N 1847–1889",
+ "parish": "Kováň 11 – N 1847–1889",
+ "records": {
+  "N": "1868",
+  "O": "1866",
+  "Z": "1848"
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1866,
+   "by": "schranka"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1868,
+   "by": "schranka"
+  },
+  {
+   "scan": 172,
+   "type": "Z",
+   "year": 1848,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

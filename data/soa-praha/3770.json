@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "3770",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/3770",
+ "signature": "Bělá pod Bezdězem 06 – N 1784–1832",
+ "parish": "Bělá pod Bezdězem 06 – N 1784–1832",
+ "records": {
+  "N": "1810–1811"
+ },
+ "points": [
+  {
+   "scan": 533,
+   "type": "N",
+   "year": 1810,
+   "by": "schranka"
+  },
+  {
+   "scan": 535,
+   "type": "N",
+   "year": 1811,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

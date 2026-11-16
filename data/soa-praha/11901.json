@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11901",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11901",
+ "signature": "Skalsko 02 – N",
+ "parish": "Skalsko 02 – N",
+ "records": {
+  "N": "1754–1759"
+ },
+ "points": [
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1754,
+   "by": "schranka"
+  },
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1755,
+   "by": "schranka"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1759,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
