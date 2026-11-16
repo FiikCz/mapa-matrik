@@ -16,12 +16,28 @@
    "year": 1802,
    "months": "IV",
    "by": "matriky-index"
+  },
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1824,
+   "by": "schranka"
+  },
+  {
+   "scan": 170,
+   "type": "N",
+   "year": 1827,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
   }
  ]
 }

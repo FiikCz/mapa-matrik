@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8108",
+ "url": "https://digi.ceskearchivy.cz/8108",
+ "signature": "N Týn nad Vltavou 1858–1866",
+ "parish": "N Týn nad Vltavou 1858–1866",
+ "records": {
+  "N": "1858–1866"
+ },
+ "points": [
+  {
+   "scan": 238,
+   "type": "N",
+   "year": 1864,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}

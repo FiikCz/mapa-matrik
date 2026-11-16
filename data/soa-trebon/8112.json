@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8112",
+ "url": "https://digi.ceskearchivy.cz/8112",
+ "signature": "N Týn nad Vltavou 1890–1903",
+ "parish": "N Týn nad Vltavou 1890–1903",
+ "records": {
+  "N": "1890–1903"
+ },
+ "points": [
+  {
+   "scan": 256,
+   "type": "N",
+   "year": 1898,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-16"
+  }
+ ]
+}
