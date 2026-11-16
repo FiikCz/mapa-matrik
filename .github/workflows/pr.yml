@@ -44,7 +44,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           PR: ${{ github.event.pull_request.number }}
         run: |
-          gh pr merge "$PR" --repo "$GITHUB_REPOSITORY" --squash --match-head-commit "${{ github.event.pull_request.head.sha }}"
+          # víc PR naráz: když se mezitím sloučil jiný („Base branch was modified“), zkusit znovu
+          for i in 1 2 3 4 5 6; do
+            gh pr merge "$PR" --repo "$GITHUB_REPOSITORY" --squash --match-head-commit "${{ github.event.pull_request.head.sha }}" && break
+            [ "$i" = 6 ] && exit 1
+            sleep $((i * 10))
+          done
           gh workflow run pages.yml --repo "$GITHUB_REPOSITORY" --ref main
       - name: Předat člověku
         if: steps.kontrola.outputs.kod == '2'
