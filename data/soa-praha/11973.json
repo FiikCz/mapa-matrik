@@ -63,6 +63,15 @@
    "by": "matriky-index"
   },
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1801,
+   "page": "24–25 (fol. 12–13)",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 16,
    "type": "N",
    "year": 1801,
@@ -76,6 +85,25 @@
    "year": 1803,
    "months": "II",
    "by": "matriky-index"
+  },
+  {
+   "scan": 23,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1811,
+   "months": "XI–IV",
+   "page": "40–41 (fol. 21)",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1813,
+   "page": "42–43 (fol. 22)",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
   },
   {
    "scan": 32,
@@ -184,6 +212,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
