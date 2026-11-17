@@ -23,12 +23,204 @@
    "page": "2–3",
    "note": "negativ mikrofilmu; ves na začátku zápisu, věk ve sloupcích vpravo",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 7,
+   "type": "Z",
+   "year": 1743,
+   "months": "III–IV",
+   "page": "8–9",
+   "note": "„Aprilis“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 8,
+   "type": "Z",
+   "year": 1743,
+   "months": "IV",
+   "page": "10–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 9,
+   "type": "Z",
+   "year": 1743,
+   "months": "IV–V",
+   "page": "12–13",
+   "note": "„Majus“ vlevo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 10,
+   "type": "Z",
+   "year": 1743,
+   "months": "V–VII",
+   "page": "14–15",
+   "note": "„Junius“ vlevo, „Julius“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 11,
+   "type": "Z",
+   "year": 1743,
+   "months": "VII–IX",
+   "page": "16–17",
+   "note": "„Augustus“ vlevo, „September“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1743,
+   "months": "IX–XI",
+   "page": "18–19",
+   "note": "„October“ vlevo, „November“ vpravo; vizitace 24. 11. 1743 vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 13,
+   "type": "Z",
+   "year": 1743,
+   "year_to": 1744,
+   "months": "XI–I",
+   "page": "20–21",
+   "note": "„December“ vlevo, „Anno D-ni 1744 Januarius“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1744,
+   "months": "I–II",
+   "page": "22–23",
+   "note": "„Februarius“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1744,
+   "months": "II–III",
+   "page": "24–25",
+   "note": "„Martius“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "Z",
+   "year": 1744,
+   "months": "III",
+   "page": "26–27",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "Z",
+   "year": 1744,
+   "months": "III–V",
+   "page": "28–29",
+   "note": "„Aprilis“ vlevo, „Majus“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "Z",
+   "year": 1744,
+   "months": "V–VI",
+   "page": "30–31",
+   "note": "„Junius“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "Z",
+   "year": 1744,
+   "months": "VI–VIII",
+   "page": "32–33",
+   "note": "„Julius“ vlevo, „Augustus“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "Z",
+   "year": 1744,
+   "months": "VIII–X",
+   "page": "34–35",
+   "note": "„1744“ nahoře vlevo; „September“, „October“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 21,
+   "type": "Z",
+   "year": 1744,
+   "months": "X–XII",
+   "page": "36–37",
+   "note": "„November“ vlevo dole, „December“ vpravo; vizitace 22. 11. 1744 vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "Z",
+   "year": 1744,
+   "year_to": 1745,
+   "months": "XII–III",
+   "page": "38–39",
+   "note": "„Anno D-ni 1745“ vlevo uprostřed; „Februarius“, „Martius“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "Z",
+   "year": 1745,
+   "months": "III",
+   "page": "40–41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1745,
+   "months": "IV–V",
+   "page": "42–43",
+   "note": "„Aprilis“ vlevo nahoře, „Majus“ vlevo dole, „Junius“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 25,
+   "type": "Z",
+   "year": 1745,
+   "months": "VI–VIII",
+   "page": "44–45",
+   "note": "„Junius“ vlevo, „Julius“ a „Augustus“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "Z",
+   "year": 1745,
+   "months": "VIII–IX",
+   "page": "46–47",
+   "note": "„September“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1745,
+   "months": "IX–XI",
+   "page": "48–49",
+   "note": "„October“ vlevo, „November“ vpravo; vizitace 15. 10. 1745 vlevo",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-16"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
