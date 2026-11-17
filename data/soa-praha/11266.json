@@ -89,6 +89,16 @@
    "page": "201"
   },
   {
+   "scan": 198,
+   "type": "Z",
+   "year": 1904,
+   "year_to": 1905,
+   "months": "VIII–IV",
+   "page": "201",
+   "place": "Příčina",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 205,
    "type": "Z",
    "year": 1909,
@@ -100,6 +110,16 @@
    "year": 1910,
    "year_to": 1911,
    "page": "210"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "year": 1910,
+   "year_to": 1911,
+   "months": "XI–IX",
+   "page": "210",
+   "place": "Příčina",
+   "by": "ondrnovy"
   },
   {
    "scan": 208,
@@ -152,6 +172,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
