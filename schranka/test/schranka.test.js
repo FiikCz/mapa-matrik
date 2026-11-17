@@ -19,6 +19,7 @@ test("ověření: lhůty, formát, neznámé archivy", () => {
   chyba({ body: [{ ...BOD, portal_id: "../x" }] }, /portal_id/);
   chyba({ body: [{ ...BOD, url: "https://zlo.example/x" }] }, /portál archivu/);
   chyba({}, /prázdný/);
+  chyba({ body: Array.from({ length: 16 }, (_, i) => ({ ...BOD, portal_id: `kniha-${i}` })) }, /nejvýš 15 knih/);
 });
 
 test("body: bez duplicit, rozsah knihy, zdroj", () => {
