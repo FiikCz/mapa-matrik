@@ -57,12 +57,50 @@
    "page": "220–221",
    "note": "„Anno 1683“ na pravé straně",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 137,
+   "type": "Z",
+   "year": 1660,
+   "page": "266–267",
+   "note": "vlevo konec N 1681, vpravo začátek zemřelých; pravá strana propálený inkoust, skoro nečitelné",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "Z",
+   "year": 1674,
+   "year_to": 1675,
+   "page": "278–279",
+   "note": "„Anno 1675“ na pravé straně, česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "Z",
+   "year": 1682,
+   "year_to": 1683,
+   "page": "292–293",
+   "note": "„Anno 1682“ vlevo, „A. 1683“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 152,
+   "type": "Z",
+   "year": 1684,
+   "page": "296–297",
+   "note": "konec zemřelých, pravá strana do poloviny prázdná",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-14"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }

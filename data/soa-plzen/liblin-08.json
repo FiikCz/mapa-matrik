@@ -41,6 +41,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-16"
   }
  ],
  "points": [
@@ -83,6 +87,15 @@
    "place": "Bujesily",
    "year": 1843,
    "page": "31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "Z",
+   "year": 1844,
+   "year_to": 1845,
+   "page": "32",
+   "place": "Bujesily",
    "by": "ondrnovy"
   },
   {

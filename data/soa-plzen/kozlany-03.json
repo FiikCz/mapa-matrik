@@ -24,12 +24,48 @@
  "language": "čeština, latina",
  "points": [
   {
+   "scan": 38,
+   "type": "N",
+   "year": 1708,
+   "year_to": 1709,
+   "page": "70–71",
+   "note": "„Anno 1709“ vlevo uprostřed; 1708 latinsky, 1709 česky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1709,
+   "year_to": 1710,
+   "page": "82–83",
+   "note": "„Léta 1710“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 49,
    "type": "N",
    "year": 1710,
    "months": "VII",
    "page": "92–93",
    "note": "česky, kurzíva; nadpis vsi nad zápisem",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1711,
+   "months": "VI–VII",
+   "page": "102–103",
+   "note": "„F. 8. 1711“ vlevo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1711,
+   "year_to": 1712,
+   "page": "108–109",
+   "note": "„A. 1712 Januarius“ vpravo nahoře",
    "by": "ondrnovy"
   },
   {
@@ -135,6 +171,41 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 180,
+   "type": "O",
+   "year": 1703,
+   "page": "354–355",
+   "note": "„Anno 1703“ vpravo, začátek oddaných 1703–21; česky po vsích",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 187,
+   "type": "O",
+   "year": 1707,
+   "year_to": 1708,
+   "page": "368–369",
+   "note": "„Anno 1708“ vpravo, od 1708 latinsky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 192,
+   "type": "O",
+   "year": 1710,
+   "year_to": 1711,
+   "page": "378–379",
+   "note": "„A. 1711“ vpravo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1711,
+   "year_to": 1712,
+   "page": "380–381",
+   "note": "„A. 1712“ vlevo nahoře, česky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 218,
    "type": "Z",
    "year": 1704,
@@ -169,6 +240,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-14"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }

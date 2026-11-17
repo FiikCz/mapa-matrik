@@ -16,6 +16,223 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/12268/{scan}",
  "points": [
   {
+   "scan": 48,
+   "type": "N",
+   "year": 1703,
+   "months": "VIII–XI",
+   "page": "89–90",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "N",
+   "year": 1703,
+   "year_to": 1704,
+   "months": "XI–I",
+   "page": "91–92",
+   "note": "„Anno 1704“ na str. 92",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "N",
+   "year": 1704,
+   "months": "I–III",
+   "page": "93–94",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "N",
+   "year": 1704,
+   "months": "III–IV",
+   "page": "95–96",
+   "note": "str. 95 vybledlá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1704,
+   "months": "IV–VI",
+   "page": "97–98",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1704,
+   "months": "VI–IX",
+   "page": "99–100",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1704,
+   "months": "IX–XII",
+   "page": "101–102",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1704,
+   "year_to": 1705,
+   "months": "XII–II",
+   "page": "103–104",
+   "note": "„Anno 1705“ na str. 104",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1705,
+   "months": "II–IV",
+   "page": "105–106",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1705,
+   "months": "IV–VI",
+   "page": "107–108",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1705,
+   "months": "VI–VIII",
+   "page": "109–110",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1705,
+   "months": "VIII–X",
+   "page": "111–112",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1705,
+   "months": "IX–XI",
+   "page": "113–114",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1705,
+   "year_to": 1706,
+   "months": "X–I",
+   "page": "115–116",
+   "note": "„Ao 1706“ na str. 116",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 62,
+   "type": "N",
+   "year": 1706,
+   "months": "I–III",
+   "page": "117–118",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1706,
+   "months": "III–V",
+   "page": "119–120",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "N",
+   "year": 1706,
+   "months": "V–VIII",
+   "page": "121–122",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1706,
+   "months": "VIII–IX",
+   "page": "123–124",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1706,
+   "months": "IX–XI",
+   "page": "125–126",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1706,
+   "year_to": 1707,
+   "months": "XII–I",
+   "page": "127–128",
+   "note": "„Ao 1707“ na str. 128",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1707,
+   "months": "I–III",
+   "page": "129–130",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1707,
+   "months": "III–IV",
+   "page": "131–132",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1707,
+   "months": "IV–VII",
+   "page": "133–134",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1707,
+   "months": "VII–VIII",
+   "page": "135–136",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1707,
+   "months": "VIII–X",
+   "page": "137–138",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1707,
+   "months": "X–XII",
+   "page": "139–140",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 74,
    "type": "N",
    "year": 1707,
@@ -34,11 +251,63 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 77,
+   "type": "N",
+   "year": 1708,
+   "months": "VII–IX",
+   "page": "147–148",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "N",
+   "year": 1708,
+   "year_to": 1709,
+   "months": "X 1708 – I 1709",
+   "page": "151–152",
+   "note": "„Ao 1709“ na str. 152",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1709,
+   "months": "II–IV",
+   "page": "153–154",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 81,
    "type": "N",
    "year": 1709,
    "months": "IV–VII",
    "page": "155–156",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1709,
+   "months": "IX–XI",
+   "page": "159–160",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1709,
+   "year_to": 1710,
+   "months": "XI 1709 – I 1710",
+   "page": "161–162",
+   "note": "„Ao 1710“ na str. 162",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1710,
+   "months": "I–IV",
+   "page": "163–164",
    "by": "ondrnovy"
   },
   {
@@ -50,11 +319,86 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 89,
+   "type": "N",
+   "year": 1710,
+   "months": "X–XII",
+   "page": "171–172",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1710,
+   "year_to": 1711,
+   "months": "XII 1710 – I 1711",
+   "page": "173–174",
+   "note": "„Anno 1711“ na str. 174",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1711,
+   "months": "I–III",
+   "page": "175–176",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1711,
+   "months": "III–V",
+   "page": "177–178",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 93,
    "type": "N",
    "year": 1711,
    "months": "V–VII",
    "page": "179–180",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1711,
+   "months": "VII–VIII",
+   "page": "181–182",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1711,
+   "months": "IX–XI",
+   "page": "183–184",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1711,
+   "months": "XI–XII",
+   "page": "185–186",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1712,
+   "months": "I–II",
+   "page": "187–188",
+   "note": "„Anno Dni 1712“ na str. 187",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1712,
+   "months": "II–IV",
+   "page": "189–190",
    "by": "ondrnovy"
   },
   {
@@ -66,6 +410,48 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 101,
+   "type": "N",
+   "year": 1712,
+   "months": "VII–IX",
+   "page": "195–196",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1712,
+   "months": "IX–XI",
+   "page": "197–198",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1712,
+   "year_to": 1713,
+   "months": "XI 1712 – I 1713",
+   "page": "199–200",
+   "note": "„Ao 1713“ na str. 200",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1713,
+   "months": "I–III",
+   "page": "201–202",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1713,
+   "months": "III–V",
+   "page": "203–204",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 106,
    "type": "N",
    "year": 1713,
@@ -74,11 +460,179 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 107,
+   "type": "N",
+   "year": 1713,
+   "months": "VIII–XI",
+   "page": "207–208",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1713,
+   "year_to": 1714,
+   "months": "XI 1713 – II 1714",
+   "page": "209–210",
+   "note": "„Ao 1714“ na str. 210",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1714,
+   "months": "II–V",
+   "page": "211–212",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1714,
+   "months": "V–VII",
+   "page": "213–214",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1714,
+   "months": "VII–IX",
+   "page": "215–216",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 112,
    "type": "N",
    "year": 1713,
    "months": "IX–XI",
    "page": "217–218",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 113,
+   "type": "N",
+   "year": 1714,
+   "months": "XI–XII",
+   "page": "219–220",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 114,
+   "type": "N",
+   "year": 1715,
+   "months": "I–II",
+   "page": "221–222",
+   "note": "„Anno Domini 1715“ na str. 221",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "N",
+   "year": 1715,
+   "months": "II–III",
+   "page": "223–224",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 116,
+   "type": "N",
+   "year": 1715,
+   "months": "IV–V",
+   "page": "225–226",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "N",
+   "year": 1715,
+   "months": "V–VII",
+   "page": "227–228",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "N",
+   "year": 1715,
+   "months": "VII–IX",
+   "page": "229–230",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1715,
+   "months": "IX–X",
+   "page": "231–232",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1715,
+   "months": "X–XII",
+   "page": "233–234",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 121,
+   "type": "N",
+   "year": 1715,
+   "year_to": 1716,
+   "months": "XII 1715 – II 1716",
+   "page": "235–236",
+   "note": "„Ao 1716“ na str. 236; na str. 235 latinská poznámka o vikariátu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 122,
+   "type": "N",
+   "year": 1716,
+   "months": "II–IV",
+   "page": "237–238",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 123,
+   "type": "N",
+   "year": 1716,
+   "months": "IV–VI",
+   "page": "240–241",
+   "note": "stránkování přeskakuje 239 (zápisy navazují)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 124,
+   "type": "N",
+   "year": 1716,
+   "months": "VI–VIII",
+   "page": "242–243",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 125,
+   "type": "N",
+   "year": 1716,
+   "months": "VIII–X",
+   "page": "244–245",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 126,
+   "type": "N",
+   "year": 1716,
+   "months": "X–XII",
+   "page": "246–247",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 127,
+   "type": "N",
+   "year": 1716,
+   "year_to": 1717,
+   "months": "XII–I",
+   "page": "248–249",
+   "note": "rok 1717 začíná str. 249",
    "by": "ondrnovy"
   }
  ],

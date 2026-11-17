@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12255",
+ "signature": "Smečno 28",
+ "parish": "Smečno",
+ "district": "Kladno",
+ "records": {
+  "Z": "1697–1725"
+ },
+ "scans": 119,
+ "order": "chronological",
+ "language": "čeština",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12255",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12255/{scan}",
+ "points": [
+  {
+   "scan": 73,
+   "type": "Z",
+   "year": 1716,
+   "year_to": 1717,
+   "page": "140–141",
+   "note": "„Letta Páně 1717“ vlevo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1717,
+   "year_to": 1718,
+   "page": "148–149",
+   "note": "„Anno 1718“ vpravo nahoře; ves jako nadpis nad zápisem",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "Z",
+   "year": 1718,
+   "year_to": 1719,
+   "page": "160–161",
+   "note": "„Anno 1719“ vlevo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "Z",
+   "year": 1719,
+   "year_to": 1720,
+   "page": "172–173",
+   "note": "„Anno Domini 1720“ vlevo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 104,
+   "type": "Z",
+   "year": 1723,
+   "year_to": 1724,
+   "page": "202–203",
+   "note": "„Anno 1724“ vpravo uprostřed; ves v pravém sloupci",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 114,
+   "type": "Z",
+   "year": 1725,
+   "months": "X–XII",
+   "page": "222–223",
+   "note": "konec zápisů (XII 1725); str. 222 prázdná",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-16"
+  }
+ ]
+}

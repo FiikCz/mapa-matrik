@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5873",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5873",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5873/{scan}",
+ "signature": "Čistá 31",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "iN": "1911–1942",
+  "iO": "1911–1942",
+  "iZ": "1911–1942"
+ },
+ "order": "chronological",
+ "scans": 44,
+ "language": "čeština",
+ "places": [
+  "Čistá",
+  "Bělbožice",
+  "Břežany",
+  "Krakov",
+  "Křekovice",
+  "Kůzová",
+  "Šípy",
+  "Všesulov"
+ ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Bělbožice": 162591,
+  "Břežany": 14877,
+  "Krakov": 72338,
+  "Křekovice": 192341,
+  "Kůzová": 105422,
+  "Šípy": 162612,
+  "Všesulov": 187470
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "iN",
+   "year": 1928,
+   "year_to": 1941,
+   "letters": "N",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 26,
+   "type": "iN",
+   "year": 1941,
+   "letters": "O",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 27,
+   "type": "iN",
+   "year": 1939,
+   "year_to": 1941,
+   "letters": "P",
+   "note": "P 1934–1938 v rejstříku chybí (5872 končí 1933)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "iN",
+   "year": 1927,
+   "year_to": 1937,
+   "letters": "R",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  }
+ ]
+}

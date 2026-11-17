@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5872",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5872",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5872/{scan}",
+ "signature": "Čistá 30",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "iN": "1889–1938",
+  "iO": "1889–1938",
+  "iZ": "1889–1938"
+ },
+ "order": "chronological",
+ "scans": 51,
+ "language": "čeština",
+ "places": [
+  "Čistá",
+  "Bělbožice",
+  "Břežany",
+  "Krakov",
+  "Křekovice",
+  "Kůzová",
+  "Šípy",
+  "Všesulov"
+ ],
+ "place_codes": {
+  "Čistá": 23965,
+  "Bělbožice": 162591,
+  "Břežany": 14877,
+  "Krakov": 72338,
+  "Křekovice": 192341,
+  "Kůzová": 105422,
+  "Šípy": 162612,
+  "Všesulov": 187470
+ },
+ "points": [
+  {
+   "scan": 27,
+   "type": "iN",
+   "year": 1900,
+   "year_to": 1907,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 28,
+   "type": "iN",
+   "year": 1907,
+   "year_to": 1915,
+   "letters": "P",
+   "note": "rejstřík N/O/Z společný, chronologicky v písmenu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "iN",
+   "year": 1915,
+   "year_to": 1925,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 30,
+   "type": "iN",
+   "year": 1925,
+   "year_to": 1933,
+   "letters": "P, R",
+   "note": "vlevo P 1925–1933 (konec P), vpravo R od 1889",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "year": 1893,
+   "year_to": 1904,
+   "letters": "R",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 34,
+   "type": "iN",
+   "year": 1889,
+   "year_to": 1892,
+   "letters": "S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "year": 1918,
+   "year_to": 1938,
+   "letters": "Z",
+   "note": "konec písmene Z",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  }
+ ]
+}

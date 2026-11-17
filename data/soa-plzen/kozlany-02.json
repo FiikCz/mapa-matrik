@@ -53,6 +53,23 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 113,
+   "type": "Z",
+   "year": 1686,
+   "year_to": 1687,
+   "page": "222–223",
+   "note": "„Anno 1687“ na pravé straně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "year": 1699,
+   "year_to": 1701,
+   "note": "„Anno 1700“ vlevo dole, „Anno 1701“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 120,
    "type": "Z",
    "year": 1703,
@@ -68,12 +85,51 @@
    "page": "248–249",
    "note": "začátek oddaných („Consignatio Copulatorum“)",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "O",
+   "year": 1694,
+   "year_to": 1695,
+   "page": "270–271",
+   "note": "„Letha 1694“ vlevo nahoře, „Letha 1695“ vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 137,
+   "type": "O",
+   "year": 1697,
+   "year_to": 1698,
+   "page": "278–279",
+   "note": "„Anno 1698“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1700,
+   "page": "284–285",
+   "note": "„Anno 1700“ vlevo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 143,
+   "type": "O",
+   "year": 1702,
+   "year_to": 1703,
+   "page": "290–291",
+   "note": "„Anno 1703“ vlevo dole, konec oddaných",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-14"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ]
 }
