@@ -1,0 +1,187 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12259",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12259",
+ "signature": "Smečno 21",
+ "parish": "Smečno",
+ "records": {
+  "O": "1669–1721"
+ },
+ "scans": 75,
+ "district": "Kladno",
+ "language": "čeština, latina",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12259/{scan}",
+ "places": [
+  "Smečno",
+  "Muncifaj",
+  "Hradečno",
+  "Kvíc",
+  "Ledce",
+  "Libušín",
+  "Malíkovice",
+  "Přelíc",
+  "Rynholec"
+ ],
+ "place_codes": {
+  "Smečno": 150843,
+  "Hradečno": 47252,
+  "Kvíc": 149535,
+  "Ledce": 79618,
+  "Libušín": 83585,
+  "Malíkovice": 90964,
+  "Přelíc": 134554
+ },
+ "points": [
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1698,
+   "months": "I–VIII",
+   "page": "80–81",
+   "note": "„Anno D. 1698“ na str. 81; str. 80 přesvícená",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1698,
+   "months": "X–XI",
+   "page": "82–83",
+   "note": "rok odvozen (1699 začíná str. 85); část zápisů vybledlá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1699,
+   "months": "I–II",
+   "page": "84–85",
+   "note": "„Anno Domini 1699“ na str. 85; str. 84 přesvícená, nečitelná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "O",
+   "year": 1699,
+   "months": "IV–XI",
+   "page": "86–87",
+   "note": "„A. 1699“ nahoře; pravá strana částečně vybledlá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1700,
+   "months": "IV–XI",
+   "page": "88–89",
+   "note": "„Anno 1700“ nahoře vlevo; jiná ruka a starší stránkování",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1701,
+   "months": "V–XI",
+   "page": "170–171",
+   "note": "„Ao 1701“ nahoře vlevo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1702,
+   "year_to": 1703,
+   "months": "I–V",
+   "page": "172–173",
+   "note": "„Ao 1702“ nahoře vlevo, „Ao 1703“ dole vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1703,
+   "months": "V–XI",
+   "page": "174–175",
+   "note": "rok odvozen (další snímek začíná 1704)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1704,
+   "months": "I–XI",
+   "page": "176–177",
+   "note": "„Ao 1704“ nahoře vlevo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1704,
+   "year_to": 1705,
+   "months": "XI–XI",
+   "page": "178–179",
+   "note": "„Ao 1705“ uprostřed levé strany; 1705 začíná až 1. VI",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1705,
+   "year_to": 1706,
+   "months": "XI–VI",
+   "page": "180–181",
+   "note": "„Ao 1706“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1706,
+   "page": "182–183",
+   "note": "snímek mikrofilmu přesvícený, text skoro nečitelný; „1706“ v záhlaví str. 182",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1706,
+   "months": "VI–XI",
+   "note": "rok odvozen",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1706,
+   "year_to": 1707,
+   "months": "XI–VI",
+   "note": "„Ao 1707“ na pravé straně nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1707,
+   "months": "V–XI",
+   "note": "rok odvozen (další snímek začíná 1708)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1708,
+   "months": "I–XI",
+   "note": "„Ao 1708“ nahoře vlevo; negativ mikrofilmu",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  }
+ ]
+}

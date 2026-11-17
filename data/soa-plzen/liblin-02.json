@@ -23,6 +23,14 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-16"
   }
  ],
  "points": [
@@ -220,6 +228,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 110,
+   "type": "Z",
+   "year": 1753,
+   "page": "1",
+   "note": "titul „Liber gloriae“ vlevo, začátek zemřelých celé fary vpravo",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 113,
    "type": "Z",
    "year": 1755,
@@ -238,6 +254,14 @@
    "type": "Z",
    "year": 1760,
    "page": "26",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1761,
+   "page": "31–32",
+   "note": "„Anno 1761“ nahoře vlevo",
    "by": "ondrnovy"
   },
   {
@@ -262,6 +286,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 140,
+   "type": "Z",
+   "year": 1767,
+   "year_to": 1768,
+   "page": "61–62",
+   "note": "„Anno 1768“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 143,
    "type": "Z",
    "year": 1769,
@@ -273,6 +306,14 @@
    "type": "Z",
    "year": 1770,
    "page": "77",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 151,
+   "type": "Z",
+   "year": 1772,
+   "page": "83–84",
+   "note": "od 1771 tabulka se sloupci, čp. ve sloupci „Nrus domus“",
    "by": "ondrnovy"
   },
   {
@@ -290,10 +331,33 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 161,
+   "type": "Z",
+   "year": 1775,
+   "page": "103–104",
+   "note": "„Anno 1775“ nahoře vlevo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 165,
+   "type": "Z",
+   "year": 1777,
+   "page": "111–112",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 168,
    "type": "Z",
    "year": 1778,
    "page": "117",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 169,
+   "type": "Z",
+   "year": 1779,
+   "page": "119",
+   "note": "konec zemřelých (X 1779) vlevo; vpravo titul oddaných „Liber vinculi indissolubilis“ 1753",
    "by": "ondrnovy"
   },
   {

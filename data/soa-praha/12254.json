@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "12254",
+ "signature": "Smečno 29",
+ "parish": "Smečno",
+ "district": "Kladno",
+ "records": {
+  "Z": "1726–1742"
+ },
+ "scans": 92,
+ "order": "chronological",
+ "language": "čeština",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/12254",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/12254/{scan}",
+ "points": [
+  {
+   "scan": 3,
+   "type": "Z",
+   "year": 1726,
+   "page": "1",
+   "note": "vlevo titul, vpravo „Anno 1726“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1728,
+   "page": "18–19",
+   "note": "„Anno 1728“ vlevo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 23,
+   "type": "Z",
+   "year": 1730,
+   "page": "40–41",
+   "note": "„Anno 1730“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 32,
+   "type": "Z",
+   "year": 1731,
+   "year_to": 1732,
+   "page": "58–59",
+   "note": "„Anno 1732“ vpravo nahoře; do ~1735 ves v pravém sloupci",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "Z",
+   "year": 1733,
+   "months": "VII–X",
+   "page": "76–77",
+   "note": "vizitace 17. 10. 1733 vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1734,
+   "year_to": 1735,
+   "page": "86–87",
+   "note": "„A. 1735“ vpravo nahoře; od 1734 věk ve sloupci s vsí",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1735,
+   "year_to": 1736,
+   "page": "92–93",
+   "note": "„Anno 1736“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "Z",
+   "year": 1737,
+   "year_to": 1738,
+   "page": "114–115",
+   "note": "„Anno 1738“ vpravo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "Z",
+   "year": 1738,
+   "year_to": 1739,
+   "page": "122–123",
+   "note": "„Anno 1739“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "Z",
+   "year": 1739,
+   "page": "128–129",
+   "note": "vizitace 7. 8. 1739 vlevo; od VIII 1739 ves na začátku zápisu a sloupce léta / měsíce / dny",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 69,
+   "type": "Z",
+   "year": 1739,
+   "year_to": 1740,
+   "page": "132–133",
+   "note": "„Anno 1740“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "Z",
+   "year": 1740,
+   "months": "VI–VII",
+   "page": "142–143",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 77,
+   "type": "Z",
+   "year": 1740,
+   "year_to": 1741,
+   "page": "148–149",
+   "note": "„Anno 1741“ vpravo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1741,
+   "year_to": 1742,
+   "page": "158–159",
+   "note": "„Anno 1742“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1742,
+   "months": "XII",
+   "page": "176–177",
+   "note": "konec knihy (31. 12. 1742), vizitace 1743",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-16"
+  }
+ ]
+}

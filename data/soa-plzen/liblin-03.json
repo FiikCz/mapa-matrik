@@ -39,6 +39,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
   }
  ],
  "points": [
@@ -133,6 +137,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 72,
+   "type": "Z",
+   "year": 1780,
+   "months": "I–III",
+   "page": "433",
+   "note": "vlevo titulní list zemřelých, vpravo začátek Z celé fary",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 74,
    "type": "Z",
    "year": 1780,
@@ -154,10 +167,39 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 81,
+   "type": "Z",
+   "year": 1784,
+   "months": "I–III",
+   "page": "450–451",
+   "note": "„Anno 1784“, tabulka v kolonkách",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 83,
    "type": "Z",
    "year": 1784,
    "page": "454",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "Z",
+   "year": 1784,
+   "year_to": 1785,
+   "page": "564–565",
+   "place": "Bujesily",
+   "note": "začátek oddílu zemřelých Bujesil (od XI 1784)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 92,
+   "type": "Z",
+   "year": 1785,
+   "year_to": 1788,
+   "page": "566–567",
+   "place": "Bujesily",
+   "note": "„pro A. 1786“, „1787“, „Anno 1788“",
    "by": "ondrnovy"
   }
  ],
