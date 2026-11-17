@@ -13,6 +13,82 @@
  },
  "points": [
   {
+   "scan": 50,
+   "type": "O",
+   "year": 1883,
+   "year_to": 1884,
+   "page": "96–97",
+   "place": "Rousínov",
+   "note": "oddíly: str. 1–118 Rousínov, 119–177 Skupá, 178–189 Rousínov, 191–244 Krakovec, 249–267 Zhoř, 277–287 Nová Ves",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 65,
+   "type": "O",
+   "year": 1844,
+   "year_to": 1845,
+   "page": "126–127",
+   "note": "tištěný formulář „Kniha oddávací“, 3 zápisy na stranu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1860,
+   "year_to": 1862,
+   "page": "140–141",
+   "place": "Skupá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1863,
+   "year_to": 1866,
+   "page": "142–143",
+   "place": "Skupá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1866,
+   "year_to": 1868,
+   "page": "144–145",
+   "place": "Skupá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "O",
+   "year": 1868,
+   "year_to": 1869,
+   "page": "146–147",
+   "place": "Skupá",
+   "note": "„Skupá“ v záhlaví vlevo – kniha po vsích",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1869,
+   "year_to": 1872,
+   "page": "148–149",
+   "place": "Skupá",
+   "note": "vizitace 26. 5. 1871 vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1890,
+   "year_to": 1892,
+   "page": "168–169",
+   "place": "Skupá",
+   "note": "konec oddílu Skupá; dál „pokračování s Rousínovem pohromadě“",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 95,
    "type": "O",
    "year": 1898,
@@ -30,12 +106,34 @@
    "page": "188–189",
    "note": "poslední zápis knihy 26. II 1900",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 130,
+   "type": "O",
+   "year": 1854,
+   "year_to": 1860,
+   "page": "254–255",
+   "place": "Zhoř",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1861,
+   "year_to": 1870,
+   "page": "256–257",
+   "place": "Zhoř",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
