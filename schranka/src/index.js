@@ -5,6 +5,8 @@
 export const LIMIT_BAJTU = 256 * 1024;
 export const MAX_BODU = 500;
 export const MAX_ZAPISU = 200;
+// Každá kniha = jeden až dva dotazy na GitHub; Worker zdarma jich smí udělat 50 na požadavek.
+export const MAX_KNIH = 15;
 export const ZA_DEN_Z_IP = 10;
 export const ZA_DEN_CELKEM = 300;
 // Archivy mapy: portál a adresa, na kterou smí vést odkaz knihy; u archivů bez vzoru adresy musí nová kniha poslat url.
@@ -162,7 +164,10 @@ export function overPrispevek(data, letos = new Date().getUTCFullYear()) {
     throw new Chyba(400, "klic: 32–128 znaků A–Z, a–z, 0–9, _ a -");
   }
   if (body.length > MAX_BODU || zapisy.length > MAX_ZAPISU) throw new Chyba(413, `nejvýš ${MAX_BODU} bodů a ${MAX_ZAPISU} zápisů najednou`);
-  return { body: body.map(b => overBod(b, letos)), zapisy: zapisy.map(z => overZapis(z, letos)), nastroj, klic: data.klic };
+  const vysledek = { body: body.map(b => overBod(b, letos)), zapisy: zapisy.map(z => overZapis(z, letos)), nastroj, klic: data.klic };
+  const knih = new Set(vysledek.body.map(b => `m:${b.archive}/${b.portal_id}`).concat(vysledek.zapisy.map(z => `i:${z.archiv}/${z.kniha}`))).size;
+  if (knih > MAX_KNIH) throw new Chyba(413, `nejvýš ${MAX_KNIH} knih najednou (mapa a index dohromady, teď ${knih}) – pošli po dávkách`);
+  return vysledek;
 }
 
 // Pseudonym přispěvatele = HMAC tajemství schránky nad jeho klíčem. Index podle něj rozliší přispěvatele, kteří posílají

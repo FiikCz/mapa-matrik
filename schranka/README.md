@@ -11,7 +11,7 @@ takže nesmysl nebo spam skončí jako zamítnutý PR.
 
 ## Co hlídá
 
-- velikost (256 kB), nejvýš 500 bodů a 200 zápisů najednou, 10 odeslání z jedné IP za den, 300 celkem za den (KV `LIMITY`);
+- velikost (256 kB), nejvýš 500 bodů, 200 zápisů a 15 knih (mapa a index dohromady) najednou – víc pošli po dávkách, 10 odeslání z jedné IP za den, 300 celkem za den (KV `LIMITY`);
 - body: archivy SOA Plzeň, SOA Praha, SOA Zámrsk, SOA Třeboň, SOA Litoměřice, ZA Opava, MZA Brno a AHMP (tabulka `ARCHIVY_MAPY`),
   známá pole, bez tabulátorů a nových řádků, odkaz knihy jen na portál toho archivu; nová kniha mimo SOA Plzeň a Praha
   musí poslat `url` (adresu knihy schránka sestaví jen u těch dvou);
