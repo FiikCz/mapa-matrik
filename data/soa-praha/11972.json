@@ -65,6 +65,24 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 99,
+   "type": "O",
+   "year": 1830,
+   "year_to": 1831,
+   "page": "6",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 103,
+   "type": "O",
+   "year": 1836,
+   "year_to": 1837,
+   "page": "10",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 108,
    "type": "O",
    "year": 1846,
@@ -141,6 +159,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }

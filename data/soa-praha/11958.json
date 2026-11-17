@@ -123,6 +123,32 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 63,
+   "type": "iO",
+   "year": 1821,
+   "year_to": 1854,
+   "letters": "H",
+   "note": "sloupce: jména, obec, strana, měsíc, den, rok",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "iO",
+   "year": 1823,
+   "year_to": 1865,
+   "letters": "H, I–J",
+   "note": "vlevo H 1854–65, vpravo I/J 1823–65",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "iO",
+   "year": 1843,
+   "year_to": 1865,
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 71,
    "type": "iO",
    "year": 1821,
@@ -210,6 +236,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
