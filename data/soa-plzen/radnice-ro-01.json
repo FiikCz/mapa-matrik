@@ -41,6 +41,40 @@
  },
  "points": [
   {
+   "scan": 87,
+   "type": "N",
+   "year": 1684,
+   "months": "I–II",
+   "note": "„Anno 1684“ vlevo nahoře; ves na levém okraji pod datem",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1685,
+   "months": "I–II",
+   "note": "„Anno 1685“ vlevo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1685,
+   "year_to": 1686,
+   "months": "XI–I",
+   "note": "„Anno Domini 1686“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1686,
+   "year_to": 1687,
+   "months": "XII–II",
+   "note": "„Anno Domini 1687“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 168,
    "type": "O",
    "year": 1682,
