@@ -38,6 +38,15 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 100,
+   "type": "O",
+   "year": 1863,
+   "year_to": 1864,
+   "months": "XI–I",
+   "page": "99",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 163,
    "type": "O",
    "year": 1869,
@@ -677,6 +686,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
