@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11147",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11147",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11147/{scan}",
+ "signature": "Rousínov 09",
+ "parish": "Rousínov",
+ "district": "Rakovník",
+ "places": [
+  "Krakovec",
+  "Zhoř"
+ ],
+ "place_codes": {
+  "Krakovec": 72362,
+  "Zhoř": 72371
+ },
+ "records": {
+  "N": "1853–1897"
+ },
+ "points": [
+  {
+   "scan": 106,
+   "type": "iN",
+   "year": 1871,
+   "year_to": 1892,
+   "letters": "O",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 107,
+   "type": "iN",
+   "year": 1855,
+   "year_to": 1897,
+   "letters": "P",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  }
+ ]
+}

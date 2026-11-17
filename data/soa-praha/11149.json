@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11149",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11149",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11149/{scan}",
+ "signature": "Rousínov 11",
+ "parish": "Rousínov",
+ "district": "Rakovník",
+ "records": {
+  "O": "1827–1900"
+ },
+ "points": [
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1898,
+   "year_to": 1899,
+   "months": "V–II",
+   "page": "186–187",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1899,
+   "year_to": 1900,
+   "months": "II–II",
+   "page": "188–189",
+   "note": "poslední zápis knihy 26. II 1900",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-15"
+  }
+ ]
+}
