@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "radnice-ro-01",
+ "url": "https://www.portafontium.eu/register/soap-pn/radnice-ro-01",
+ "signature": "Radnice (RO) 01",
+ "parish": "Radnice",
+ "district": "Rokycany",
+ "records": {
+  "N": "1671–1700",
+  "O": "1671–1700",
+  "Z": "1671–1700"
+ },
+ "scans": 210,
+ "language": "latina, čeština",
+ "order": "mixed",
+ "places": [
+  "Radnice",
+  "Bezděkov",
+  "Březina",
+  "Bujesily",
+  "Chomle",
+  "Liblín",
+  "Němčovice",
+  "Vejvanov",
+  "Vranovice",
+  "Střapole"
+ ],
+ "place_codes": {
+  "Radnice": 138100,
+  "Bezděkov": 136344,
+  "Březina": 14061,
+  "Bujesily": 15725,
+  "Chomle": 177580,
+  "Liblín": 82996,
+  "Němčovice": 103080,
+  "Vejvanov": 177601,
+  "Vranovice": 13579,
+  "Střapole": 16365
+ },
+ "points": [
+  {
+   "scan": 168,
+   "type": "O",
+   "year": 1682,
+   "year_to": 1683,
+   "page": "fol. 172",
+   "note": "„Anno 1682“ vlevo, „Anno 1683“ vpravo; datum a ves na levém okraji",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 173,
+   "type": "O",
+   "year": 1687,
+   "year_to": 1688,
+   "note": "„Anno 1688“ vpravo nahoře; od 1688 česky, ves na začátku zápisu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 179,
+   "type": "O",
+   "year": 1694,
+   "year_to": 1695,
+   "note": "„A. 1694“ vlevo, „Anno 1695“ vpravo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 185,
+   "type": "O",
+   "year": 1700,
+   "note": "„Anno Domini 1700“ vlevo nahoře – konec oddaných",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
+  }
+ ]
+}

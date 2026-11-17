@@ -64,6 +64,52 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 72,
+   "type": "O",
+   "year": 1721,
+   "months": "I–II",
+   "page": "140–141",
+   "note": "„Rubrica Copulatorum ab Anno 1721“ – začátek oddílu O; str. 140 prázdná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1721,
+   "months": "X",
+   "page": "148–149",
+   "note": "na okraji jen jméno vsi",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1721,
+   "year_to": 1722,
+   "months": "XI–VI",
+   "page": "154–155",
+   "note": "„Annus 1722“ vlevo uprostřed",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 82,
+   "type": "O",
+   "year": 1722,
+   "year_to": 1723,
+   "months": "XI–I",
+   "page": "160–161",
+   "note": "„1723“ vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1723,
+   "months": "I–IX",
+   "page": "162–163",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 84,
    "type": "O",
    "page": "164–165",
@@ -114,6 +160,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
