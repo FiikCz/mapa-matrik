@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11144",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11144",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11144/{scan}",
+ "signature": "Rousínov 06",
+ "parish": "Rousínov",
+ "district": "Rakovník",
+ "records": {
+  "N": "1827–1860"
+ },
+ "scans": 270,
+ "order": "by_village",
+ "language": "čeština, němčina, latina",
+ "places": [
+  "Rousínov",
+  "Skupá",
+  "Zhoř",
+  "Krakovec",
+  "Nová Ves"
+ ],
+ "place_codes": {
+  "Rousínov": 141917,
+  "Skupá": 149110,
+  "Zhoř": 72371,
+  "Krakovec": 72362,
+  "Nová Ves": 141909
+ },
+ "points": [
+  {
+   "scan": 136,
+   "type": "N",
+   "year": 1844,
+   "months": "V–VI",
+   "page": "136",
+   "place": "Skupá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1844,
+   "months": "VII–VIII",
+   "page": "137",
+   "place": "Skupá",
+   "note": "vizitace 14. 6. 1844 nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1845,
+   "months": "VII–XI",
+   "page": "140",
+   "place": "Skupá",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1849,
+   "months": "IV–VI",
+   "page": "150",
+   "place": "Skupá",
+   "note": "jedna strana na snímek (rozevřená dvoustrana = jedna strana knihy)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1844,
+   "months": "V–VIII",
+   "page": "200",
+   "place": "Krakovec",
+   "note": "„Červený zámek“ v záhlaví",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 237,
+   "type": "N",
+   "year": 1839,
+   "year_to": 1840,
+   "page": "236",
+   "place": "Zhoř",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 238,
+   "type": "N",
+   "year": 1840,
+   "year_to": 1841,
+   "months": "III–V",
+   "page": "237",
+   "place": "Zhoř",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 250,
+   "type": "N",
+   "year": 1852,
+   "year_to": 1854,
+   "page": "248",
+   "place": "Zhoř",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
+  }
+ ]
+}
