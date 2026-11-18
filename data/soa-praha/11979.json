@@ -18,12 +18,48 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11979/{scan}",
  "points": [
   {
+   "scan": 9,
+   "type": "N",
+   "months": "IX–XII",
+   "page": "fol. 5v–6",
+   "note": "česky, negativ",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1733,
+   "year_to": 1734,
+   "months": "XII 1733 – III 1734",
+   "page": "fol. 6v–7",
+   "note": "nadpis Anno Domini 1734 vlevo; od III 1734 latinsky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 14,
    "type": "N",
    "year": 1735,
    "year_to": 1736,
    "months": "XI 1735 – IV 1736",
    "page": "10v–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1736,
+   "year_to": 1737,
+   "months": "XII 1736 – IV 1737",
+   "page": "fol. 13v–14",
+   "note": "nadpis Anno Domini 1737 vlevo; česky, negativ",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "months": "V–VIII",
+   "page": "fol. 14v–15",
+   "note": "česky, negativ",
    "by": "ondrnovy"
   },
   {
@@ -73,6 +109,14 @@
    "year_to": 1744,
    "months": "VIII 1743 – II 1744",
    "page": "fol. 30v–31",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1744,
+   "months": "II–VI",
+   "page": "fol. 31v–32",
    "by": "ondrnovy"
   },
   {
@@ -173,6 +217,16 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 81,
+   "type": "Z",
+   "year": 1734,
+   "year_to": 1735,
+   "months": "VIII 1734 – IV 1735",
+   "page": "fol. 83v–84",
+   "note": "nadpis Anno Domini 1735 vpravo; česky, negativ",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 92,
    "type": "Z",
    "year": 1746,
@@ -203,11 +257,50 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 104,
+   "type": "Z",
+   "year": 1757,
+   "year_to": 1758,
+   "months": "I 1757 – I 1758",
+   "page": "fol. 106v–107",
+   "note": "nadpis Anno 1758 vpravo dole; latinsky, negativ",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 110,
    "type": "O",
    "year": 1733,
    "months": "XI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 114,
+   "type": "O",
+   "year": 1737,
+   "year_to": 1738,
+   "months": "X 1737 – X 1738",
+   "page": "fol. 116v–117",
+   "note": "nadpis Anno Domini 1738 vpravo; česky, negativ",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1738,
+   "year_to": 1739,
+   "months": "X 1738 – V 1739",
+   "page": "fol. 117v–118",
+   "note": "nadpis Anno Domini 1739 vlevo; česky, negativ",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1739,
+   "months": "VII–XI",
+   "page": "fol. 118",
+   "note": "pravá strana; česky",
+   "by": "ondrnovy"
   },
   {
    "scan": 123,
@@ -249,6 +342,15 @@
    "type": "O",
    "year": 1757,
    "page": "fol. 130v–131",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 129,
+   "type": "O",
+   "year": 1758,
+   "year_to": 1759,
+   "page": "fol. 131v–132",
+   "note": "nadpisy Anno 1758 vlevo, Anno Domini 1759 vpravo; latinsky, negativ",
    "by": "ondrnovy"
   }
  ],
