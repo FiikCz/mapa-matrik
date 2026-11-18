@@ -31,9 +31,35 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 14,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "M",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 15,
    "type": "iN",
    "letters": "M (konec), N, O",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "P",
+   "note": "P fol. 2–41",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "P–R",
+   "note": "vlevo P fol. 43–77, vpravo R",
    "by": "ondrnovy"
   },
   {
@@ -58,11 +84,27 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 24,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "V–Z",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 33,
    "type": "iZ",
    "year": 1732,
    "year_to": 1760,
    "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "iZ",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "M",
    "by": "ondrnovy"
   },
   {
@@ -72,6 +114,22 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 45,
+   "type": "iZ",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "V–W",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "iZ",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "Z",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 54,
    "type": "iO",
    "letters": "H",
@@ -86,10 +144,43 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 57,
+   "type": "iO",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "L",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "iO",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "M",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "iO",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 62,
    "type": "iO",
    "letters": "S (Sch, Š), T",
    "note": "rejstřík ženichů: jméno, folio",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "iO",
+   "year": 1732,
+   "year_to": 1760,
+   "letters": "V–Z",
+   "note": "závěr písmen V–Z, fol. 111–133",
    "by": "ondrnovy"
   }
  ],
