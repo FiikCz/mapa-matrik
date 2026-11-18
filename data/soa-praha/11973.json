@@ -123,11 +123,38 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 38,
+   "type": "Z",
+   "year": 1786,
+   "year_to": 1791,
+   "page": "2–3",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "Z",
+   "year": 1793,
+   "year_to": 1798,
+   "page": "6–7",
+   "place": "Modřejovice",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 42,
    "type": "Z",
    "year": 1801,
    "year_to": 1803,
    "page": "10–11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "Z",
+   "year": 1805,
+   "year_to": 1808,
+   "page": "14–15",
+   "place": "Modřejovice",
    "by": "ondrnovy"
   },
   {
@@ -176,6 +203,16 @@
    "year": 1801,
    "months": "X",
    "by": "matriky-index"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1794,
+   "year_to": 1801,
+   "page": "4–5 (fol. 31–32)",
+   "place": "Modřejovice",
+   "note": "1795–97 bez sňatků; 1799 nic",
+   "by": "ondrnovy"
   },
   {
    "scan": 55,

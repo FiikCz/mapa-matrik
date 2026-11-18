@@ -25,6 +25,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 38,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 39,
    "type": "iZ",
    "year": 1784,
@@ -76,6 +84,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 50,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "L–S",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 51,
    "type": "iO",
    "year": 1784,
@@ -97,6 +113,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-17"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }
