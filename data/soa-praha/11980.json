@@ -218,6 +218,50 @@
    "months": "X–XII",
    "page": "20v–21",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1717,
+   "year_to": 1718,
+   "months": "XII 1717 – III 1718",
+   "page": "fol. 36v–37",
+   "note": "nadpis Anno 1718 vlevo; česky, negativ",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1718,
+   "months": "III–V",
+   "page": "fol. 37v–38",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1718,
+   "months": "V–VII",
+   "page": "fol. 38v–39",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1718,
+   "months": "VIII–XI",
+   "page": "fol. 39v–40",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1718,
+   "year_to": 1719,
+   "months": "XI 1718 – II 1719",
+   "page": "fol. 40v–41",
+   "note": "nadpis Anno 1719 vlevo",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -228,6 +272,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

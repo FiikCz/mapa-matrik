@@ -194,6 +194,23 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 90,
+   "type": "iZ",
+   "year": 1821,
+   "year_to": 1835,
+   "letters": "H",
+   "note": "levá strana prázdná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 91,
+   "type": "iZ",
+   "year": 1835,
+   "year_to": 1857,
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 94,
    "type": "iZ",
    "year": 1828,
@@ -240,6 +257,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-17"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

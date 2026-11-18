@@ -116,6 +116,38 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 36,
+   "type": "N",
+   "year": 1772,
+   "year_to": 1773,
+   "months": "X 1772 – II 1773",
+   "page": "fol. 32v–33",
+   "note": "nadpis Anno 1773 vlevo; vizitace 22. 10. 1772",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "months": "III–VII",
+   "page": "fol. 33v–34",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "months": "VII–IX",
+   "page": "fol. 34v–35",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1773,
+   "months": "IX–XII",
+   "page": "fol. 35v–36",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 47,
    "type": "N",
    "year": 1776,
@@ -174,6 +206,24 @@
    "months": "IX 1782 – I 1783",
    "page": "fol. 72v–73",
    "note": "na fol. 73 začíná rok 1783",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 88,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 85",
+   "letters": "F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 89,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 86",
+   "letters": "G",
    "by": "ondrnovy"
   },
   {
@@ -301,6 +351,24 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 162,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 181v–182",
+   "letters": "H–J",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 164,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 183v–184",
+   "letters": "K–L",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 165,
    "type": "iZ",
    "year": 1760,
@@ -362,6 +430,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 189,
+   "type": "iO",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 213",
+   "letters": "L",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 190,
    "type": "iO",
    "year": 1760,
@@ -382,6 +459,16 @@
    "type": "iO",
    "page": "fol. 222",
    "letters": "Sch (Š)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "IV 1763 – X 1764",
+   "page": "fol. 241v–242",
+   "note": "nadpis Anno 1764 vpravo; vizitace 1763",
    "by": "ondrnovy"
   },
   {
