@@ -119,6 +119,32 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 54,
+   "type": "N",
+   "year": 1752,
+   "year_to": 1753,
+   "months": "XI 1752 – III 1753",
+   "page": "fol. 50v–51",
+   "note": "nadpis Anno Domini 1753 vpravo; negativ mikrofilmu",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "months": "IV–VI",
+   "page": "fol. 51v–52",
+   "note": "negativ mikrofilmu; rok na dvoustraně neuveden",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "months": "VI–XI",
+   "page": "fol. 52v–53",
+   "note": "negativ mikrofilmu",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 110,
    "type": "O",
    "year": 1733,
@@ -140,6 +166,16 @@
    "year": 1751,
    "year_to": 1752,
    "page": "fol. 126v–127",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 124,
+   "type": "O",
+   "year": 1750,
+   "year_to": 1752,
+   "months": "XI 1750 – I 1752",
+   "page": "fol. 126v–127",
+   "note": "nadpisy Anno 1751 vlevo, 1752 vpravo dole; negativ mikrofilmu",
    "by": "ondrnovy"
   },
   {
@@ -166,6 +202,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

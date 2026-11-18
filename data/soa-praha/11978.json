@@ -48,6 +48,23 @@
  "scans": 228,
  "points": [
   {
+   "scan": 17,
+   "type": "N",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "X 1764 – II 1765",
+   "page": "fol. 13v–14",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1765,
+   "months": "III–VI",
+   "page": "fol. 14v–15",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 28,
    "type": "N",
    "year": 1769,
@@ -81,6 +98,59 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 32,
+   "type": "N",
+   "year": 1770,
+   "year_to": 1771,
+   "months": "XI 1770 – II 1771",
+   "page": "fol. 28v–29",
+   "note": "nadpis Anno 1771 vlevo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1771,
+   "months": "III–VII",
+   "page": "fol. 29v–30",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1776,
+   "months": "VIII–XII",
+   "page": "fol. 43v–44",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1777,
+   "months": "I–II",
+   "page": "fol. 44v–45",
+   "note": "nadpis Anno 1777",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1778,
+   "year_to": 1779,
+   "months": "XII 1778 – I 1779",
+   "page": "fol. 55v–56",
+   "note": "nadpis Anno 1779 vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1779,
+   "months": "I–IV",
+   "page": "fol. 56v–57",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 66,
    "type": "N",
    "months": "VI–VIII",
@@ -104,6 +174,15 @@
    "months": "IX 1782 – I 1783",
    "page": "fol. 72v–73",
    "note": "na fol. 73 začíná rok 1783",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 87",
+   "letters": "H",
    "by": "ondrnovy"
   },
   {
@@ -139,6 +218,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 94,
+   "type": "iN",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 91",
+   "letters": "M",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 100,
    "type": "iN",
    "page": "fol. 96v–97",
@@ -151,6 +239,31 @@
    "page": "fol. 98",
    "letters": "S (fol. 1–73)",
    "note": "roky v rejstříku: fol. 33 = 1773, fol. 73 = 1782",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "Z",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "II 1764 – I 1765",
+   "page": "fol. 139v–140",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 121,
+   "type": "Z",
+   "year": 1765,
+   "months": "II–VII",
+   "page": "fol. 140v–141",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "Z",
+   "year": 1772,
+   "months": "V–VII",
+   "page": "fol. 152v–153",
    "by": "ondrnovy"
   },
   {
@@ -176,6 +289,24 @@
    "page": "177",
    "letters": "D (konec)",
    "note": "v oddílu iZ snímek = folio − 20",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 161,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 181",
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 165,
+   "type": "iZ",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 185",
+   "letters": "M",
    "by": "ondrnovy"
   },
   {
@@ -208,6 +339,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 186,
+   "type": "iO",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 210",
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 187,
    "type": "iO",
    "page": "fol. 211",
@@ -219,6 +359,15 @@
    "type": "iO",
    "page": "fol. 212",
    "letters": "K (fol. 238–263)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 190,
+   "type": "iO",
+   "year": 1760,
+   "year_to": 1784,
+   "page": "fol. 214",
+   "letters": "M",
    "by": "ondrnovy"
   },
   {
@@ -236,6 +385,46 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 206,
+   "type": "O",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "XI 1764 – XI 1765",
+   "page": "fol. 242v–243",
+   "note": "nadpis Anno 1765 vlevo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 207,
+   "type": "O",
+   "year": 1765,
+   "year_to": 1766,
+   "months": "XI 1765 – XI 1766",
+   "page": "fol. 243v–244",
+   "note": "nadpis Anno 1766 vlevo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "VI 1769 – II 1770",
+   "page": "fol. 247v–248",
+   "note": "nadpis Anno 1770 vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 212,
+   "type": "O",
+   "year": 1770,
+   "year_to": 1771,
+   "months": "II 1770 – X 1771",
+   "page": "fol. 248v–249",
+   "note": "nadpis Anno 1771 vpravo",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 215,
    "type": "O",
    "year": 1772,
@@ -249,6 +438,16 @@
    "year": 1773,
    "months": "VI",
    "by": "matriky-index"
+  },
+  {
+   "scan": 217,
+   "type": "O",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "IX 1774 – II 1775",
+   "page": "fol. 253v–254",
+   "note": "nadpis Anno 1775 na pravé straně",
+   "by": "ondrnovy"
   },
   {
    "scan": 219,
@@ -280,6 +479,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

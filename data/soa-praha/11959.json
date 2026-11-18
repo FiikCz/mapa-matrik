@@ -58,6 +58,24 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 46,
+   "type": "iZ",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "W (V)",
+   "note": "„Nomina mortuorum“, sloupce jméno, obec, strana",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "iO",
+   "year": 1784,
+   "year_to": 1821,
+   "letters": "A–F",
+   "note": "začátek rejstříku oddaných „Nomina copulatorum“; jméno ženicha, obec, strana",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 51,
    "type": "iO",
    "year": 1784,
@@ -75,6 +93,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-17"
   }
  ]
 }
