@@ -23,6 +23,16 @@
  "scan_url": "https://ebadatelna.soapraha.cz/d/11966/{scan}",
  "points": [
   {
+   "scan": 55,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1798,
+   "page": "4–5 (fol. 31–32)",
+   "place": "Slabce",
+   "note": "německy, mikrofilm",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 56,
    "type": "O",
    "year": 1800,
@@ -56,6 +66,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-12"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

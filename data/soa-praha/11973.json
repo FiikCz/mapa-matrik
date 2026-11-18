@@ -58,18 +58,18 @@
   {
    "scan": 15,
    "type": "N",
+   "year": 1801,
+   "months": "IV",
+   "by": "matriky-index"
+  },
+  {
+   "scan": 15,
+   "type": "N",
    "year": 1800,
    "year_to": 1801,
    "page": "24–25 (fol. 12–13)",
    "place": "Modřejovice",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 15,
-   "type": "N",
-   "year": 1801,
-   "months": "IV",
-   "by": "matriky-index"
   },
   {
    "scan": 16,
@@ -135,6 +135,16 @@
    "type": "Z",
    "year": 1821,
    "note": "konec oddílu Z; pravá strana prázdná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1788,
+   "page": "1 (fol. 30)",
+   "place": "Modřejovice",
+   "note": "začátek oddílu O; levá strana prázdná",
    "by": "ondrnovy"
   },
   {
@@ -216,6 +226,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-17"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }
