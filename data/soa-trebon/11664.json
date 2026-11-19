@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "11664",
+ "url": "https://digi.ceskearchivy.cz/11664",
+ "signature": "Stráž Nežárkou Stráž",
+ "parish": "Stráž Nežárkou Stráž",
+ "records": {
+  "Z": "1892–1944"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1896,
+   "by": "schranka"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1914,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

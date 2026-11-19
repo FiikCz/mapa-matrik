@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "11424",
+ "url": "https://digi.ceskearchivy.cz/11424",
+ "signature": "Rudolfov Adamov Rudolfov",
+ "parish": "Rudolfov Adamov Rudolfov",
+ "records": {
+  "O": "1898–1939"
+ },
+ "points": [
+  {
+   "scan": 149,
+   "type": "O",
+   "year": 1933,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

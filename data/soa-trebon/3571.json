@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3571",
+ "url": "https://digi.ceskearchivy.cz/3571",
+ "signature": "Hluboká Vltavou Bavorovice",
+ "parish": "Hluboká Vltavou Bavorovice",
+ "records": {
+  "O": "1785–1802"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1795,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3217",
+ "url": "https://digi.ceskearchivy.cz/3217",
+ "signature": "Dobrš",
+ "parish": "Dobrš",
+ "records": {
+  "O": "1804–1839"
+ },
+ "points": [
+  {
+   "scan": 64,
+   "type": "O",
+   "year": 1818,
+   "year_to": 1821,
+   "page": "172–173",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

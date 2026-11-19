@@ -1,0 +1,29 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3225",
+ "url": "https://digi.ceskearchivy.cz/3225",
+ "signature": "Dobrš N/O/Z",
+ "parish": "Dobrš N/O/Z",
+ "records": {
+  "N": "1698–1865",
+  "O": "1698–1865",
+  "Z": "1698–1865"
+ },
+ "points": [
+  {
+   "scan": 75,
+   "year": 1816,
+   "year_to": 1832,
+   "letters": "R",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
