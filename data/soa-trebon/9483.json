@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9483",
+ "url": "https://digi.ceskearchivy.cz/9483",
+ "signature": "České Budějovice Haklovy Dvory",
+ "parish": "České Budějovice Haklovy Dvory",
+ "records": {
+  "N": "1873–1920"
+ },
+ "points": [
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1879,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

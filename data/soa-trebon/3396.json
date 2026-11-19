@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3396",
+ "url": "https://digi.ceskearchivy.cz/3396",
+ "signature": "Dubné Branišov",
+ "parish": "Dubné Branišov",
+ "records": {
+  "Z": "1784–1879"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1796,
+   "by": "schranka"
+  },
+  {
+   "scan": 6,
+   "type": "Z",
+   "year": 1797,
+   "by": "schranka"
+  },
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1816,
+   "by": "schranka"
+  },
+  {
+   "scan": 27,
+   "type": "Z",
+   "year": 1840,
+   "by": "schranka"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1878,
+   "by": "schranka"
+  },
+  {
+   "scan": 49,
+   "type": "Z",
+   "year": 1879,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

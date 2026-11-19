@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2720",
+ "url": "https://digi.ceskearchivy.cz/2720",
+ "signature": "České Budějovice – sv. Mikuláš 10",
+ "parish": "České Budějovice – sv. Mikuláš",
+ "records": {
+  "N": "1734–1741"
+ },
+ "points": [
+  {
+   "scan": 203,
+   "type": "N",
+   "year": 1740,
+   "by": "schranka"
+  },
+  {
+   "scan": 214,
+   "type": "N",
+   "year": 1741,
+   "by": "schranka"
+  },
+  {
+   "scan": 222,
+   "type": "N",
+   "year": 1741,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
