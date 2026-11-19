@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3171",
+ "url": "https://digi.ceskearchivy.cz/3171",
+ "signature": "Dobrá Voda u Českých Budějovic 10",
+ "parish": "Dobrá Voda u Českých Budějovic",
+ "records": {
+  "Z": "1785–1873"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "Z",
+   "year": 1800,
+   "by": "schranka"
+  },
+  {
+   "scan": 12,
+   "type": "Z",
+   "year": 1829,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

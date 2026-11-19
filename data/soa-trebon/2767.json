@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2767",
+ "url": "https://digi.ceskearchivy.cz/2767",
+ "signature": "České Budějovice – sv. Mikuláš 57",
+ "parish": "České Budějovice – sv. Mikuláš",
+ "records": {
+  "O": "1696–1721"
+ },
+ "points": [
+  {
+   "scan": 47,
+   "type": "O",
+   "year": 1706,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

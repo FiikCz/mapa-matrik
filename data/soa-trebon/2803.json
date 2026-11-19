@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2803",
+ "url": "https://digi.ceskearchivy.cz/2803",
+ "signature": "České Budějovice – sv. Mikuláš 93",
+ "parish": "České Budějovice – sv. Mikuláš",
+ "records": {
+  "Z": "1734–1782"
+ },
+ "points": [
+  {
+   "scan": 405,
+   "type": "Z",
+   "year": 1778,
+   "by": "schranka"
+  },
+  {
+   "scan": 406,
+   "type": "Z",
+   "year": 1778,
+   "by": "schranka"
+  },
+  {
+   "scan": 417,
+   "type": "Z",
+   "year": 1780,
+   "by": "schranka"
+  },
+  {
+   "scan": 419,
+   "type": "Z",
+   "year": 1780,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

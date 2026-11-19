@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3384",
+ "url": "https://digi.ceskearchivy.cz/3384",
+ "signature": "Dubné",
+ "parish": "Dubné",
+ "records": {
+  "O": "1724–1774",
+  "N": "1724–1774",
+  "Z": "1724–1774"
+ },
+ "points": [
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1728,
+   "by": "schranka"
+  },
+  {
+   "scan": 75,
+   "type": "N",
+   "year": 1733,
+   "by": "schranka"
+  },
+  {
+   "scan": 191,
+   "type": "N",
+   "year": 1752,
+   "by": "schranka"
+  },
+  {
+   "scan": 204,
+   "type": "N",
+   "year": 1754,
+   "by": "schranka"
+  },
+  {
+   "scan": 263,
+   "type": "O",
+   "year": 1743,
+   "by": "schranka"
+  },
+  {
+   "scan": 272,
+   "type": "O",
+   "year": 1751,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

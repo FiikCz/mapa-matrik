@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2768",
+ "url": "https://digi.ceskearchivy.cz/2768",
+ "signature": "České Budějovice – sv. Mikuláš 58",
+ "parish": "České Budějovice – sv. Mikuláš",
+ "records": {
+  "O": "1722–1738"
+ },
+ "points": [
+  {
+   "scan": 170,
+   "type": "O",
+   "year": 1735,
+   "by": "schranka"
+  },
+  {
+   "scan": 216,
+   "type": "O",
+   "year": 1738,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
