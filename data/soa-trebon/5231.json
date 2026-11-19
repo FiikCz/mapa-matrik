@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5231",
+ "url": "https://digi.ceskearchivy.cz/5231",
+ "signature": "Libníč 14",
+ "parish": "Libníč",
+ "records": {
+  "O": "1786–1919"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1794,
+   "by": "schranka"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1828,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

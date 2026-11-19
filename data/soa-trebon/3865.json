@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3865",
+ "url": "https://digi.ceskearchivy.cz/3865",
+ "signature": "Hosín 15",
+ "parish": "Hosín",
+ "records": {
+  "O": "1784–1824"
+ },
+ "points": [
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1797,
+   "by": "schranka"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1801,
+   "by": "schranka"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1808,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

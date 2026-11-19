@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5220",
+ "url": "https://digi.ceskearchivy.cz/5220",
+ "signature": "Libníč 3",
+ "parish": "Libníč",
+ "records": {
+  "O": "1785–1884"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "O",
+   "year": 1799,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1859,
+   "by": "schranka"
+  },
+  {
+   "scan": 30,
+   "type": "O",
+   "year": 1858,
+   "year_to": 1859,
+   "by": "schranka"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1860,
+   "by": "schranka"
+  },
+  {
+   "scan": 40,
+   "type": "O",
+   "year": 1876,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

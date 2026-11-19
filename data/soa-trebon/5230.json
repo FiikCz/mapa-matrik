@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5230",
+ "url": "https://digi.ceskearchivy.cz/5230",
+ "signature": "Libníč 13",
+ "parish": "Libníč",
+ "records": {
+  "N": "1785–1875"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "N",
+   "year": 1807,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
