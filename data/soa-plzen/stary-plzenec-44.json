@@ -51,12 +51,24 @@
    "letters": "F",
    "note": "str. 64–65, F 1795–1819; sn. 58 F 1819–1836; řádky s rokem a datem",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "iN",
+   "page": "str. 146v–147",
+   "letters": "K",
+   "note": "K 1795–1799 (sn. 109 = K 1790 – II 1795); sloupce: matrika, list, příjmení, jméno, místo, den, rok",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }

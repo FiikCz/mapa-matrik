@@ -64,12 +64,34 @@
    "year_to": 1768,
    "letters": "F",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 47,
+   "type": "iN",
+   "year": 1739,
+   "year_to": 1754,
+   "letters": "P",
+   "note": "sn. 50 = P 1789–1805; sloupce kniha, list, jméno, ves, rok, den",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "year": 1752,
+   "year_to": 1758,
+   "letters": "S",
+   "note": "sn. 57 = S 1745–1752; list v rejstříku = strana o 1 menší než skutečná (list 129 = str. 130)",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }
