@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7834",
+ "url": "https://digi.ceskearchivy.cz/7834",
+ "signature": "Štěpánovice 7",
+ "parish": "Štěpánovice",
+ "records": {
+  "O": "1784–1836"
+ },
+ "points": [
+  {
+   "scan": 61,
+   "type": "O",
+   "year": 1797,
+   "by": "schranka"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1814,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

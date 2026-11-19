@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9482",
+ "url": "https://digi.ceskearchivy.cz/9482",
+ "signature": "České Budějovice Čtyři Dvory",
+ "parish": "České Budějovice Čtyři Dvory",
+ "records": {
+  "N": "1912–1920"
+ },
+ "points": [
+  {
+   "scan": 157,
+   "type": "N",
+   "year": 1919,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

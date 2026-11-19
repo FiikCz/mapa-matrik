@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7835",
+ "url": "https://digi.ceskearchivy.cz/7835",
+ "signature": "Štěpánovice",
+ "parish": "Štěpánovice",
+ "records": {
+  "O": "1837–1899"
+ },
+ "points": [
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1852,
+   "by": "schranka"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1874,
+   "by": "schranka"
+  },
+  {
+   "scan": 176,
+   "type": "O",
+   "year": 1895,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

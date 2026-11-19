@@ -7,9 +7,15 @@
  "signature": "Strašín 24",
  "parish": "Strašín",
  "records": {
-  "Z": "1865"
+  "Z": "1836–1901"
  },
  "points": [
+  {
+   "scan": 36,
+   "type": "Z",
+   "year": 1844,
+   "by": "schranka"
+  },
   {
    "scan": 167,
    "type": "Z",
@@ -22,6 +28,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
   }
  ],
  "notes": [

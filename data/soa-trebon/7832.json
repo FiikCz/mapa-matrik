@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7832",
+ "url": "https://digi.ceskearchivy.cz/7832",
+ "signature": "Štěpánovice",
+ "parish": "Štěpánovice",
+ "records": {
+  "N": "1864–1891"
+ },
+ "points": [
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1871,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
