@@ -1,0 +1,92 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-07",
+ "signature": "Kralovice 07",
+ "parish": "Kralovice",
+ "district": "Plzeň-sever",
+ "places": [
+  "Kopidlo"
+ ],
+ "place_codes": {
+  "Kopidlo": 69311
+ },
+ "records": {
+  "N": "1784–1840",
+  "O": "1784–1840",
+  "Z": "1784–1840",
+  "iN": "1784–1840",
+  "iO": "1784–1840",
+  "iZ": "1784–1840"
+ },
+ "scans": 124,
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 11,
+   "type": "N",
+   "year": 1796,
+   "page": "17–18",
+   "place": "Kopidlo",
+   "note": "sn. 18 = str. 31–32; rejstřík N sn. 114–116 (sn. 112 titul)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1812,
+   "page": "57",
+   "note": "konec N 1784–1812, vpravo titul Kniha oddavek",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1785,
+   "year_to": 1791,
+   "page": "1–2",
+   "place": "Kopidlo",
+   "note": "sn. 40 = str. 3–4 (1791–95), 41 = str. 5–6 (1796–1803)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1808,
+   "year_to": 1810,
+   "page": "10",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1811,
+   "year_to": 1816,
+   "page": "11",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 46,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1820,
+   "page": "12",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "iN",
+   "letters": "L–N",
+   "note": "odkazy na strany knihy",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

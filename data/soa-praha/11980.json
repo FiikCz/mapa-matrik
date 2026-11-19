@@ -262,6 +262,154 @@
    "page": "fol. 40v–41",
    "note": "nadpis Anno 1719 vlevo",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1719,
+   "months": "II–IV",
+   "page": "fol. 41v–42",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1719,
+   "months": "V–VIII",
+   "page": "fol. 42v–43",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1721,
+   "months": "IV–V",
+   "page": "fol. 50v–51",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "N",
+   "year": 1721,
+   "year_to": 1722,
+   "months": "XI 1721 – I 1722",
+   "page": "fol. 54v–55",
+   "note": "nadpis A. 1722 vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "N",
+   "year": 1722,
+   "year_to": 1723,
+   "months": "XII 1722 – III 1723",
+   "page": "fol. 60v–61",
+   "note": "nadpis Anno Domini 1723 vlevo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 66,
+   "type": "N",
+   "year": 1723,
+   "year_to": 1724,
+   "months": "XII 1723 – I 1724",
+   "page": "fol. 63v–64",
+   "note": "nadpis Anno 1724 vlevo; kniha pokračuje plynule (nadpis A. 1729 na sn. 67 je chybný)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1724,
+   "months": "II",
+   "page": "fol. 64v–65",
+   "note": "nadpis A. 1729 vlevo nahoře je chybný – správně 1724 (skutečné Anno 1729 až sn. 97)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1724,
+   "months": "II–V",
+   "page": "fol. 65v–66",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1727,
+   "year_to": 1728,
+   "months": "X 1727 – I 1728",
+   "page": "fol. 87v–88",
+   "note": "nadpis Anno Domini 1728 vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1728,
+   "months": "VI–VIII",
+   "page": "fol. 91v–92",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1729,
+   "months": "I–II",
+   "page": "fol. 94v–95",
+   "note": "nadpis Anno Domini 1729 vlevo nahoře",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 115,
+   "type": "O",
+   "year": 1711,
+   "year_to": 1712,
+   "months": "V 1711 – I 1712",
+   "page": "fol. 112v–113",
+   "note": "latinsky; nadpis Anno 1711 vlevo, Anno 1712 vpravo",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "year": 1712,
+   "year_to": 1714,
+   "months": "XI 1712 – IX 1714",
+   "page": "fol. 114v–115",
+   "note": "nadpisy Anno 1713 a Anno 1714",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 118,
+   "type": "O",
+   "year": 1714,
+   "year_to": 1715,
+   "months": "X 1714 – V 1715",
+   "page": "fol. 115v–116",
+   "note": "nadpis Anno 1715 vpravo dole",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1716,
+   "year_to": 1717,
+   "months": "I 1716 – II 1717",
+   "page": "fol. 117v–118",
+   "note": "vlepená vložka fol. 118 s dodatečně zapsanými sňatky 1716; snímek 121 = táž strana s vložkou odklopenou",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 122,
+   "type": "O",
+   "year": 1717,
+   "year_to": 1718,
+   "months": "X 1717 – XI 1718",
+   "page": "fol. 119v–120",
+   "note": "česky; nadpis Anno 1718 vpravo nahoře",
+   "by": "ondrnovy"
   }
  ],
  "sources": [

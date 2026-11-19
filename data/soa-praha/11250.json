@@ -33,6 +33,17 @@
    "type": "title"
   },
   {
+   "scan": 27,
+   "type": "N",
+   "year": 1850,
+   "year_to": 1851,
+   "months": "X 1850 – I 1851",
+   "page": "fol. 26",
+   "place": "Žďáry",
+   "note": "Žďáry: snímek = folio + 1 (sn. 21 = fol. 20, 1845; sn. 37 = fol. 36, VIII–XII 1857)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 171,
    "type": "N",
    "year": 1832,
@@ -126,6 +137,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }

@@ -1,0 +1,105 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-06",
+ "signature": "Kralovice 06",
+ "parish": "Kralovice",
+ "district": "Plzeň-sever",
+ "places": [
+  "Buček",
+  "Dřevec",
+  "Hadačka",
+  "Hodyně",
+  "Hradecko",
+  "Kočín",
+  "Lednice",
+  "Dolní Hradiště",
+  "Výrov"
+ ],
+ "place_codes": {
+  "Buček": 32964,
+  "Dřevec": 32981,
+  "Hadačka": 187682,
+  "Hodyně": 33006,
+  "Hradecko": 47244,
+  "Kočín": 67652,
+  "Lednice": 79812,
+  "Dolní Hradiště": 29149,
+  "Výrov": 187691
+ },
+ "records": {
+  "N": "1784–1835",
+  "O": "1784–1835",
+  "Z": "1784–1835"
+ },
+ "scans": 483,
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 412,
+   "type": "Z",
+   "year": 1819,
+   "year_to": 1823,
+   "page": "15–16",
+   "place": "Dolní Hradiště",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 416,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1788,
+   "page": "1",
+   "place": "Výrov",
+   "note": "sn. 415 titul „Dorf Weyrow“",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 417,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1797,
+   "page": "2–3",
+   "place": "Výrov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 428,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1792,
+   "page": "6–7",
+   "place": "Výrov (?)",
+   "note": "ves v hlavičce neuvedena; podle stránkování asi Výrov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 429,
+   "type": "N",
+   "year": 1792,
+   "year_to": 1794,
+   "months": "V 1792 – X 1794",
+   "page": "8–9",
+   "place": "Výrov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 452,
+   "type": "N",
+   "year": 1821,
+   "year_to": 1822,
+   "months": "VIII 1821 – VI 1822",
+   "page": "64–65",
+   "place": "Výrov",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

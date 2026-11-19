@@ -28,6 +28,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-11"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ],
  "points": [
@@ -152,6 +156,16 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 86,
+   "type": "N",
+   "year": 1784,
+   "year_to": 1785,
+   "page": "101",
+   "place": "Hedčany",
+   "note": "jedna strana na snímek; str. 102 = sn. 87, 103 = sn. 88; Kožlany str. N = sn. N; Holovousy str. 147 = sn. 101",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 101,
    "type": "N",
    "year": 1784,
@@ -162,6 +176,13 @@
    "scan": 131,
    "type": "iN",
    "letters": "E–F",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "iN",
+   "letters": "I–K",
+   "note": "rejstřík odkazuje na strany; sn. 134 = L–M, 135 = N–P, 132 = G–H",
    "by": "ondrnovy"
   },
   {

@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-07",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-07",
+ "signature": "Starý Plzenec 07",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Starý Plzenec",
+  "Šťáhlavy",
+  "Sedlec",
+  "Tymákov"
+ ],
+ "place_codes": {
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Starý Plzenec": 155152,
+  "Šťáhlavy": 163155,
+  "Sedlec": 155144,
+  "Tymákov": 172103
+ },
+ "records": {
+  "N": "1782–1814"
+ },
+ "scans": 452,
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 241,
+   "type": "N",
+   "year": 1791,
+   "months": "I–VI",
+   "page": "565–566",
+   "place": "Starý Plzenec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 262,
+   "type": "N",
+   "year": 1795,
+   "months": "X–XII",
+   "page": "607–608",
+   "place": "Starý Plzenec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 272,
+   "type": "N",
+   "year": 1797,
+   "months": "V–IX",
+   "page": "626–627",
+   "place": "Starý Plzenec",
+   "note": "sn. 268 = str. 618–619 (1797); sn. 273 = str. 628 (X 1799 – III 1800), mezera X 1797 – IX 1799",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

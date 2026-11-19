@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chvalenice-03",
+ "url": "https://www.portafontium.eu/register/soap-pn/chvalenice-03",
+ "signature": "Chválenice 03",
+ "parish": "Chválenice",
+ "district": "Plzeň-město",
+ "places": [
+  "Chválenice",
+  "Nebílovský Borek",
+  "Losiná",
+  "Chouzovy",
+  "Nezbavětice",
+  "Želčany"
+ ],
+ "place_codes": {
+  "Chválenice": 54950,
+  "Nebílovský Borek": 24040,
+  "Losiná": 86843,
+  "Chouzovy": 54941,
+  "Nezbavětice": 163139,
+  "Želčany": 54968
+ },
+ "records": {
+  "O": "1717–1797"
+ },
+ "scans": 136,
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1743,
+   "year_to": 1744,
+   "months": "XI 1743 – II 1744",
+   "note": "bez stránkování; sn. 45 = X 1735, 50 = X 1736, 55 = 1738, 63 = VIII–IX 1741",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

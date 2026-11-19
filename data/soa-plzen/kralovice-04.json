@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "kralovice-04",
+ "url": "https://www.portafontium.eu/register/soap-pn/kralovice-04",
+ "signature": "Kralovice 04",
+ "parish": "Kralovice",
+ "district": "Plzeň-sever",
+ "places": [
+  "Buček",
+  "Dolní Hradiště",
+  "Dřevec",
+  "Hodyně",
+  "Hradecko",
+  "Kočín",
+  "Kralovice",
+  "Lednice",
+  "Výrov"
+ ],
+ "place_codes": {
+  "Buček": 32964,
+  "Dolní Hradiště": 29149,
+  "Dřevec": 32981,
+  "Hodyně": 33006,
+  "Hradecko": 47244,
+  "Kočín": 67652,
+  "Kralovice": 406538,
+  "Lednice": 79812,
+  "Výrov": 187691
+ },
+ "records": {
+  "N": "1764–1786",
+  "O": "1764–1786",
+  "Z": "1763–1786"
+ },
+ "scans": 263,
+ "order": "mixed",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 245,
+   "type": "O",
+   "year": 1776,
+   "year_to": 1777,
+   "note": "oddaní nestránkovaní; sn. 247 = 1777–78, 249 = 1779, 250 = 1780, 252 = 1781, 254 = 1782–83, 256 = 1784, 257 = 1785",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 255,
+   "type": "O",
+   "year": 1783,
+   "year_to": 1784,
+   "months": "XI 1783 – II 1784",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

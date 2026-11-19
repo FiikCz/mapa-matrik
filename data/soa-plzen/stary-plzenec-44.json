@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-44",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-44",
+ "signature": "Starý Plzenec 44",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Starý Plzenec",
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Sedlec"
+ ],
+ "place_codes": {
+  "Starý Plzenec": 155152,
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Sedlec": 155144
+ },
+ "records": {
+  "iN": "1651–1851"
+ },
+ "scans": 284,
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 31,
+   "type": "iN",
+   "letters": "C–Ch",
+   "note": "C/Ch 1738–1759; sn. 30 = C/Ch 1715–1738",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "letters": "F",
+   "note": "str. 63, F 1787–1795",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "iN",
+   "letters": "F",
+   "note": "str. 64–65, F 1795–1819; sn. 58 F 1819–1836; řádky s rokem a datem",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

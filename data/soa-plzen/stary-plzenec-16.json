@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-16",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-16",
+ "signature": "Starý Plzenec 16",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Starý Plzenec",
+  "Šťáhlavy",
+  "Sedlec",
+  "Tymákov"
+ ],
+ "place_codes": {
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Starý Plzenec": 155152,
+  "Šťáhlavy": 163155,
+  "Sedlec": 155144,
+  "Tymákov": 172103
+ },
+ "records": {
+  "O": "1785–1835"
+ },
+ "scans": 208,
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 127,
+   "type": "O",
+   "year": 1814,
+   "year_to": 1815,
+   "months": "XI 1814 – IV 1815",
+   "page": "293–294",
+   "place": "Starý Plzenec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 128,
+   "type": "O",
+   "year": 1816,
+   "months": "I–VI",
+   "page": "295–296",
+   "place": "Starý Plzenec",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1794,
+   "page": "319–322",
+   "place": "Šťáhlavy",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

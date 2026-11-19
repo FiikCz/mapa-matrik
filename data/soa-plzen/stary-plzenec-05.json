@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-05",
+ "signature": "Starý Plzenec 05",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Starý Plzenec",
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Sedlec",
+  "Šťáhlavy",
+  "Tymákov"
+ ],
+ "place_codes": {
+  "Starý Plzenec": 155152,
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Sedlec": 155144,
+  "Šťáhlavy": 163155,
+  "Tymákov": 172103
+ },
+ "records": {
+  "N": "1729–1761",
+  "O": "1729–1761",
+  "Z": "1729–1761"
+ },
+ "scans": 486,
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1750,
+   "months": "II–IV",
+   "page": "319–320",
+   "note": "česky, ves na okraji; sn. 165 = str. 327–328 (VII–IX 1750)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

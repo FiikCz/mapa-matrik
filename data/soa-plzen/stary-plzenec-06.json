@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-06",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-06",
+ "signature": "Starý Plzenec 06",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Starý Plzenec",
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Sedlec",
+  "Šťáhlavy",
+  "Tymákov"
+ ],
+ "place_codes": {
+  "Starý Plzenec": 155152,
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Sedlec": 155144,
+  "Šťáhlavy": 163155,
+  "Tymákov": 172103
+ },
+ "records": {
+  "N": "1762–1782",
+  "O": "1762–1784",
+  "Z": "1762–1784"
+ },
+ "scans": 378,
+ "order": "mixed",
+ "language": "latina",
+ "points": [
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI 1769 – I 1770",
+   "page": "48–49",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 205,
+   "type": "O",
+   "year": 1774,
+   "year_to": 1775,
+   "months": "XI 1774 – XI 1775",
+   "page": "72–73",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 210,
+   "type": "O",
+   "year": 1777,
+   "year_to": 1778,
+   "months": "IX 1777 – II 1778",
+   "page": "82–83",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}
