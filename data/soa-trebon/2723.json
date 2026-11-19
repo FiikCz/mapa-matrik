@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2723",
+ "url": "https://digi.ceskearchivy.cz/2723",
+ "signature": "České Budějovice – sv. Mikuláš 13",
+ "parish": "České Budějovice – sv. Mikuláš",
+ "records": {
+  "N": "1763–1767"
+ },
+ "points": [
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1763,
+   "by": "schranka"
+  },
+  {
+   "scan": 177,
+   "type": "N",
+   "year": 1767,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

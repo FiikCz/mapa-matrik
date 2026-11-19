@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8265",
+ "url": "https://digi.ceskearchivy.cz/8265",
+ "signature": "Věžná",
+ "parish": "Věžná",
+ "records": {
+  "O": "1784–1857"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1784,
+   "place": "Věžná",
+   "by": "schranka"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1796,
+   "by": "schranka"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1798,
+   "place": "Věžná",
+   "by": "schranka"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1804,
+   "place": "Věžná",
+   "by": "schranka"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1792,
+   "year_to": 1798,
+   "place": "Vintířov",
+   "by": "schranka"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1803,
+   "place": "Vintířov",
+   "by": "schranka"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1810,
+   "year_to": 1815,
+   "place": "Vintířov",
+   "by": "schranka"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1830,
+   "year_to": 1834,
+   "place": "Vintířov",
+   "by": "schranka"
+  },
+  {
+   "scan": 42,
+   "type": "O",
+   "year": 1851,
+   "place": "Vintířov",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

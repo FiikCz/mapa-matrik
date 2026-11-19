@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "4101",
+ "url": "https://digi.ceskearchivy.cz/4101",
+ "signature": "Choustník",
+ "parish": "Choustník",
+ "records": {
+  "O": "1804–1821"
+ },
+ "points": [
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1817,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

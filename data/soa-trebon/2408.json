@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2408",
+ "url": "https://digi.ceskearchivy.cz/2408",
+ "signature": "Boršov Vltavou",
+ "parish": "Boršov Vltavou",
+ "records": {
+  "O": "1828–1860"
+ },
+ "points": [
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1855,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

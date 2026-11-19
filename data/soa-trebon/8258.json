@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8258",
+ "url": "https://digi.ceskearchivy.cz/8258",
+ "signature": "Věžná",
+ "parish": "Věžná",
+ "records": {
+  "N": "1784–1831"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1812,
+   "place": "Věžná",
+   "by": "schranka"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1814,
+   "by": "schranka"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1813,
+   "year_to": 1814,
+   "place": "Věžná",
+   "by": "schranka"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1818,
+   "year_to": 1819,
+   "place": "Věžná",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
