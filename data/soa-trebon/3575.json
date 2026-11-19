@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3575",
+ "url": "https://digi.ceskearchivy.cz/3575",
+ "signature": "Hluboká Vltavou Bavorovice Dasný",
+ "parish": "Hluboká Vltavou Bavorovice Dasný",
+ "records": {
+  "N": "1846–1898"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1858,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

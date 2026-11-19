@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5218",
+ "url": "https://digi.ceskearchivy.cz/5218",
+ "signature": "Libníč Libníč",
+ "parish": "Libníč Libníč",
+ "records": {
+  "N": "1785–1814"
+ },
+ "points": [
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1791,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

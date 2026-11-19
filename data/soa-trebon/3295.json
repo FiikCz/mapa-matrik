@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3295",
+ "url": "https://digi.ceskearchivy.cz/3295",
+ "signature": "Doudleby Heřmaň",
+ "parish": "Doudleby Heřmaň",
+ "records": {
+  "O": "1784–1842"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1818,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

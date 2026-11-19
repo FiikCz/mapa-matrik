@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "11419",
+ "url": "https://digi.ceskearchivy.cz/11419",
+ "signature": "Rudolfov Rudolfov",
+ "parish": "Rudolfov Rudolfov",
+ "records": {
+  "N": "1892–1919"
+ },
+ "points": [
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1895,
+   "by": "schranka"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1912,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

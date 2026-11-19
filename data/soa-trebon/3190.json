@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3190",
+ "url": "https://digi.ceskearchivy.cz/3190",
+ "signature": "Dobrá Voda Třebotovice",
+ "parish": "Dobrá Voda Třebotovice",
+ "records": {
+  "Z": "1785–1873"
+ },
+ "points": [
+  {
+   "scan": 24,
+   "type": "Z",
+   "year": 1851,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
