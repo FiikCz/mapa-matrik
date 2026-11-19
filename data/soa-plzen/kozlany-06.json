@@ -33,6 +33,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ],
  "points": [
@@ -50,6 +54,15 @@
    "type": "N",
    "year": 1808,
    "page": "22",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1813,
+   "months": "I–V",
+   "page": "42–43",
+   "note": "sn. 25 = VI–XI 1813, sn. 26 = XI 1813 – II 1814",
    "by": "ondrnovy"
   },
   {
@@ -71,6 +84,14 @@
    "type": "N",
    "year": 1817,
    "page": "78",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1818,
+   "months": "X–XII",
+   "page": "84–85",
    "by": "ondrnovy"
   },
   {

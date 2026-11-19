@@ -42,6 +42,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 11,
+   "type": "N",
+   "year": 1723,
+   "months": "I–II",
+   "page": "fol. 16–17",
+   "note": "sn. 30 = str. 54–55 (1726), 37 = 68–69 (II–III 1726), 58 = 110–111 (1730), 86 = 166–167 (1734)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 59,
    "type": "N",
    "months": "IV–V",
@@ -100,6 +109,15 @@
    "year": 1736,
    "months": "IV–VII",
    "page": "180–181",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1750,
+   "months": "VII–XI",
+   "page": "260–261",
+   "note": "N 1748–1758: str. ≈ 2 × sn. − 6 (sn. 128 = 250, 141 = 276, 150 = 294, 160 = 404 – od 1758 posun); rejstřík K = sn. 339",
    "by": "ondrnovy"
   },
   {
@@ -162,11 +180,35 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 212,
+   "type": "O",
+   "year": 1747,
+   "months": "IX–XI",
+   "page": "64–65",
+   "note": "sn. 210 = str. 60–61 (1745), 211 = 62–63 (XI 1745 – VII 1747), 213 = 66–67 (1748 – II 1749)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 215,
    "type": "O",
    "year": 1750,
    "page": "70–71",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 220,
+   "type": "O",
+   "year": 1755,
+   "page": "80–81",
+   "note": "sn. 214 = str. 68–69 (1749), 215 = 70–71 (1750), 216 = 72–73 (1751), 217 = 74–75 (1752–53), 218 = 76–77 (1753), 219 = 78–79 (1753–54)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 221,
+   "type": "O",
+   "year": 1756,
+   "months": "IX",
+   "by": "matriky-index"
   },
   {
    "scan": 221,
@@ -178,13 +220,6 @@
    "place": "Kožlany",
    "note": "souhrn 1755: 16 sňatků",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 221,
-   "type": "O",
-   "year": 1756,
-   "months": "IX",
-   "by": "matriky-index"
   },
   {
    "scan": 222,
@@ -276,6 +311,15 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 325,
+   "type": "Z",
+   "year": 1758,
+   "year_to": 1759,
+   "months": "XII 1758 – II 1759",
+   "note": "česky; sn. 324 = VII–XII 1758, 326 = II–IV 1759, 327 = IV–VI 1759",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 328,
    "type": "Z",
    "year": 1759,
@@ -314,6 +358,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

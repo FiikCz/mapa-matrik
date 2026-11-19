@@ -250,6 +250,26 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 160,
+   "type": "iN",
+   "letters": "T–U",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 161,
+   "type": "iN",
+   "letters": "V–W",
+   "note": "rejstřík odkazuje na strany knihy",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 162,
+   "type": "iN",
+   "letters": "X–Y",
+   "note": "prázdné",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 163,
    "type": "iN",
    "letters": "Z",
@@ -268,6 +288,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ]
 }

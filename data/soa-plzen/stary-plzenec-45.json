@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "stary-plzenec-45",
+ "url": "https://www.portafontium.eu/register/soap-pn/stary-plzenec-45",
+ "signature": "Starý Plzenec 45",
+ "parish": "Starý Plzenec",
+ "district": "Plzeň-město",
+ "places": [
+  "Starý Plzenec",
+  "Černice",
+  "Koterov",
+  "Letkov",
+  "Lhůta",
+  "Mokrouše",
+  "Sedlec"
+ ],
+ "place_codes": {
+  "Starý Plzenec": 155152,
+  "Černice": 490326,
+  "Koterov": 71056,
+  "Letkov": 80624,
+  "Lhůta": 172081,
+  "Mokrouše": 172090,
+  "Sedlec": 155144
+ },
+ "records": {
+  "iO": "1708–1945"
+ },
+ "scans": 118,
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 24,
+   "type": "iO",
+   "letters": "F",
+   "note": "F 1708–1776; sn. 20 = D",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 25,
+   "type": "iO",
+   "letters": "F",
+   "note": "F 1779–1870 (sn. 24 F 1708–1776); ženich, nevěsta, místo, datum, list",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 31,
+   "type": "iO",
+   "letters": "H",
+   "note": "H 1742–1770; sn. 30 = H 1709–1740; sn. 34 = H 1853–1870, sn. 38 = H 1922–1945",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

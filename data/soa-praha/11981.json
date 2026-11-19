@@ -194,6 +194,14 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 200,
+   "type": "N",
+   "year": 1706,
+   "page": "fol. 196v–197",
+   "note": "fol. 197 začátek N 1706 (VIII); fol. 196v prázdné/vybledlé",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 201,
    "type": "N",
    "year": 1706,
@@ -330,6 +338,13 @@
    "months": "VII–X",
    "page": "212v–213",
    "by": "ondrnovy"
+  },
+  {
+   "scan": 218,
+   "type": "N",
+   "year": 1710,
+   "note": "poslední popsaná strana knihy (I–III 1710), vpravo zadní předsádka",
+   "by": "ondrnovy"
   }
  ],
  "sources": [
@@ -344,6 +359,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }

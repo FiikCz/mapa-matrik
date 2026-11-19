@@ -172,6 +172,26 @@
    "year": 1930,
    "year_to": 1933,
    "place": "Kůzová"
+  },
+  {
+   "scan": 241,
+   "type": "O",
+   "year": 1934,
+   "year_to": 1935,
+   "page": "str. 275–276",
+   "place": "Kůzová",
+   "note": "Kůzová = Wallisgrün (německy psané zápisy)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 242,
+   "type": "O",
+   "year": 1935,
+   "year_to": 1937,
+   "page": "str. 276v–277",
+   "place": "Kůzová",
+   "note": "poslední zápisy oddílu Kůzová (III 1937); sn. 243 = koncová karta, kniha končí",
+   "by": "ondrnovy"
   }
  ],
  "sections": [
@@ -217,6 +237,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }

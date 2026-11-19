@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chvalenice-02",
+ "url": "https://www.portafontium.eu/register/soap-pn/chvalenice-02",
+ "signature": "Chválenice 02",
+ "parish": "Chválenice",
+ "district": "Plzeň-město",
+ "places": [
+  "Chouzovy",
+  "Chválenice",
+  "Losiná",
+  "Milínov",
+  "Nebílovský Borek",
+  "Nezbavětice",
+  "Šťáhlavy",
+  "Zabavy",
+  "Řevíčka"
+ ],
+ "place_codes": {
+  "Chouzovy": 54941,
+  "Chválenice": 54950,
+  "Losiná": 86843,
+  "Nebílovský Borek": 24040,
+  "Nezbavětice": 163139,
+  "Šťáhlavy": 163155
+ },
+ "records": {
+  "iN": "1732–1804"
+ },
+ "scans": 76,
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 9,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1752,
+   "letters": "Č",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 14,
+   "type": "iN",
+   "year": 1780,
+   "year_to": 1804,
+   "letters": "D",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 16,
+   "type": "iN",
+   "year": 1732,
+   "year_to": 1750,
+   "letters": "F",
+   "note": "rejstřík po písmenech, uvnitř podle let; kniha, list, ves, rok, den",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 17,
+   "type": "iN",
+   "year": 1750,
+   "year_to": 1768,
+   "letters": "F",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
+  }
+ ]
+}

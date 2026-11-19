@@ -48,11 +48,29 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 80,
+   "type": "N",
+   "year": 1887,
+   "months": "VIII–XI",
+   "page": "str. 77",
+   "note": "sn. 78 = str. 75 (VII 1887), sn. 82 = str. 79 (I–V 1888)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 91,
    "type": "N",
    "year": 1890,
    "months": "IV–V",
    "page": "str. 88",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1878,
+   "months": "VII–IX",
+   "page": "104",
+   "note": "v oddílu O snímek = strana + 2",
    "by": "ondrnovy"
   },
   {
@@ -85,18 +103,18 @@
   {
    "scan": 198,
    "type": "Z",
+   "year": 1905,
+   "page": "201"
+  },
+  {
+   "scan": 198,
+   "type": "Z",
    "year": 1904,
    "year_to": 1905,
    "months": "VIII–IV",
    "page": "201",
    "place": "Příčina",
    "by": "ondrnovy"
-  },
-  {
-   "scan": 198,
-   "type": "Z",
-   "year": 1905,
-   "page": "201"
   },
   {
    "scan": 205,
@@ -127,6 +145,14 @@
    "year": 1911,
    "year_to": 1912,
    "page": "211"
+  },
+  {
+   "scan": 216,
+   "type": "iN",
+   "page": "str. 6–7",
+   "letters": "F",
+   "note": "rejstřík N/O/Z dohromady (sloupce); sn. 217 = G, H",
+   "by": "ondrnovy"
   },
   {
    "scan": 218,
@@ -176,6 +202,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-17"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }

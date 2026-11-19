@@ -31,6 +31,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-16"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-18"
   }
  ],
  "points": [
@@ -216,6 +220,15 @@
    "type": "N",
    "year": 1778,
    "page": "189",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "N",
+   "year": 1779,
+   "months": "II–VI",
+   "page": "191–192",
+   "note": "sn. 94 = str. 181–182 (VIII–X 1777), 96 = 185–186 (II–V 1778), 97 = 187–188 (VI–X 1778)",
    "by": "ondrnovy"
   },
   {
