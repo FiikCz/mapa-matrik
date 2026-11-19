@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chvalenice-10",
+ "url": "https://www.portafontium.eu/register/soap-pn/chvalenice-10",
+ "signature": "Chválenice 10",
+ "parish": "Chválenice",
+ "district": "Plzeň-město",
+ "places": [
+  "Nezvěstice",
+  "Olešná",
+  "Šťáhlavice"
+ ],
+ "place_codes": {
+  "Nezvěstice": 104477,
+  "Olešná": 104485,
+  "Šťáhlavice": 163147
+ },
+ "records": {
+  "N": "1755–1815"
+ },
+ "scans": 108,
+ "language": "latina, čeština",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1776,
+   "months": "IX–XII",
+   "note": "fol. 1–41 všechny vsi chronologicky 1755–84, ~2 sn./rok: sn. 16 = 1760, 30 = VII 1774 – V 1775, 32 = I–IX 1776, 34 = XII 1776 – VII 1777",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "N",
+   "year": 1793,
+   "year_to": 1795,
+   "place": "Nezvěstice",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1797,
+   "year_to": 1798,
+   "place": "Nezvěstice",
+   "note": "Nezvěstice fol. 42–64 = 1784–1815; sn. 52 = 1793 – I 1795, sn. 53 = 1795 – I 1797",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}

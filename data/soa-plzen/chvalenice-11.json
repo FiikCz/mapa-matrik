@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chvalenice-11",
+ "url": "https://www.portafontium.eu/register/soap-pn/chvalenice-11",
+ "signature": "Chválenice 11",
+ "parish": "Chválenice",
+ "district": "Plzeň-město",
+ "places": [
+  "Nezvěstice",
+  "Olešná",
+  "Šťáhlavice",
+  "Chválenice",
+  "Milínov",
+  "Nezbavětice"
+ ],
+ "place_codes": {
+  "Nezvěstice": 104477,
+  "Olešná": 104485,
+  "Šťáhlavice": 163147,
+  "Chválenice": 54950,
+  "Nezbavětice": 163139
+ },
+ "records": {
+  "O": "1755–1797"
+ },
+ "scans": 30,
+ "language": "latina, čeština",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1773,
+   "year_to": 1774,
+   "note": "všechny vsi chronologicky; od XI 1770 tabulka (sn. 11 = XI 1770 – XI 1772, 13 = XI 1774 – 1776); sn. 5 = 1758–59, 9 = 1767–68 (souvislý text)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1784,
+   "year_to": 1788,
+   "place": "Nezvěstice",
+   "note": "„Pagus Nesvesticensis“ – začátek oddílu; sn. 19 = 1788–1793",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1797,
+   "place": "Nezvěstice",
+   "note": "konec oddílu Nezvěstice (VI 1797); oddíl začíná sn. 18 (1784)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chvalenice-09",
+ "url": "https://www.portafontium.eu/register/soap-pn/chvalenice-09",
+ "signature": "Chválenice 09",
+ "parish": "Chválenice",
+ "district": "Plzeň-město",
+ "places": [
+  "Chválenice",
+  "Chouzovy",
+  "Losiná",
+  "Milínov",
+  "Nebílovský Borek",
+  "Nezbavětice",
+  "Nezvěstice",
+  "Olešná",
+  "Šťáhlavice",
+  "Žákava",
+  "Želčany"
+ ],
+ "place_codes": {
+  "Chválenice": 54950,
+  "Chouzovy": 54941,
+  "Losiná": 86843,
+  "Nebílovský Borek": 24040,
+  "Nezbavětice": 163139,
+  "Nezvěstice": 104477,
+  "Olešná": 104485,
+  "Šťáhlavice": 163147,
+  "Želčany": 54968
+ },
+ "records": {
+  "N": "1745–1793"
+ },
+ "scans": 177,
+ "language": "čeština",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 65,
+   "type": "N",
+   "year": 1753,
+   "months": "VIII–X",
+   "page": "str. 124–125",
+   "note": "strana = 2 × snímek − 5 (sn. 30 = str. 54–55, 1749; sn. 40 = str. 74–75, 1750); česky, všechny vsi chronologicky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1754,
+   "months": "I–II",
+   "page": "str. 130–131",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}

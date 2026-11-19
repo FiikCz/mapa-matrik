@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "chvalenice-05",
+ "url": "https://www.portafontium.eu/register/soap-pn/chvalenice-05",
+ "signature": "Chválenice 05",
+ "parish": "Chválenice",
+ "district": "Plzeň-město",
+ "places": [
+  "Chválenice",
+  "Chouzovy",
+  "Losiná",
+  "Milínov",
+  "Nebílovský Borek",
+  "Nezbavětice",
+  "Nezvěstice",
+  "Olešná",
+  "Planiny",
+  "Šťáhlavice",
+  "Žákava",
+  "Želčany"
+ ],
+ "place_codes": {
+  "Chválenice": 54950,
+  "Chouzovy": 54941,
+  "Losiná": 86843,
+  "Nebílovský Borek": 24040,
+  "Nezbavětice": 163139,
+  "Nezvěstice": 104477,
+  "Olešná": 104485,
+  "Šťáhlavice": 163147,
+  "Želčany": 54968
+ },
+ "records": {
+  "N": "1732–1744"
+ },
+ "scans": 96,
+ "language": "čeština",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1735,
+   "months": "VI–VIII",
+   "page": "str. 48–49",
+   "note": "strana = 2 × snímek − 8 (sn. 26 = str. 44–45, III–V 1735); ves na pravém okraji",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}
