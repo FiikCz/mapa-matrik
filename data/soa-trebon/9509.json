@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "9509",
+ "url": "https://digi.ceskearchivy.cz/9509",
+ "signature": "České Budějovice",
+ "parish": "České Budějovice",
+ "records": {
+  "O": "1946–1948"
+ },
+ "points": [
+  {
+   "scan": 288,
+   "type": "O",
+   "year": 1948,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

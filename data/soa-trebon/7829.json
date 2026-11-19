@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7829",
+ "url": "https://digi.ceskearchivy.cz/7829",
+ "signature": "Štěpánovice",
+ "parish": "Štěpánovice",
+ "records": {
+  "N": "1760–1784"
+ },
+ "points": [
+  {
+   "scan": 88,
+   "type": "N",
+   "year": 1778,
+   "by": "schranka"
+  },
+  {
+   "scan": 94,
+   "type": "N",
+   "year": 1780,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

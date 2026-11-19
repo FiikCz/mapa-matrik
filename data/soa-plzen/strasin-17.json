@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "strasin-17",
+ "url": "https://www.portafontium.eu/iipimage/30068842/strasin-17_0160-o",
+ "signature": "Strašín Strašín",
+ "parish": "Strašín Strašín",
+ "records": {
+  "O": "1822–1843"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1840,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

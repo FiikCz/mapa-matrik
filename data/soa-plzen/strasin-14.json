@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "strasin-14",
+ "url": "https://www.portafontium.eu/iipimage/30068839/strasin-14_0070-o",
+ "signature": "Strašín",
+ "parish": "Strašín",
+ "records": {
+  "O": "1844–1878"
+ },
+ "points": [
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1845,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

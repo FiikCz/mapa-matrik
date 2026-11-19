@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "strasin-13",
+ "url": "https://www.portafontium.eu/iipimage/30068838/strasin-13_0590-n",
+ "signature": "Strašín Strašín",
+ "parish": "Strašín Strašín",
+ "records": {
+  "N": "1824–1851"
+ },
+ "points": [
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1845,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

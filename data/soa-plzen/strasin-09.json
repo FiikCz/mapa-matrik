@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "strasin-09",
+ "url": "https://www.portafontium.eu/iipimage/30068834/strasin-09_2960-n",
+ "signature": "Strašín",
+ "parish": "Strašín",
+ "records": {
+  "N": "1820"
+ },
+ "points": [
+  {
+   "scan": 296,
+   "type": "N",
+   "year": 1820,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
