@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7484",
+ "url": "https://digi.ceskearchivy.cz/7484",
+ "signature": "Stráž Nežárkou Stráž",
+ "parish": "Stráž Nežárkou Stráž",
+ "records": {
+  "O": "1853–1901"
+ },
+ "points": [
+  {
+   "scan": 136,
+   "type": "O",
+   "year": 1888,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

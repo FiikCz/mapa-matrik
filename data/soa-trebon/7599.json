@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7599",
+ "url": "https://digi.ceskearchivy.cz/7599",
+ "signature": "Střelské Hoštice",
+ "parish": "Střelské Hoštice",
+ "records": {
+  "N": "1865–1882"
+ },
+ "points": [
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1871,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

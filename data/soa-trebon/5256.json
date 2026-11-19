@@ -23,12 +23,28 @@
    "year": 1824,
    "months": "I",
    "by": "pe-pan"
+  },
+  {
+   "scan": 415,
+   "type": "N",
+   "year": 1807,
+   "by": "schranka"
+  },
+  {
+   "scan": 464,
+   "type": "N",
+   "year": 1800,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
   }
  ]
 }

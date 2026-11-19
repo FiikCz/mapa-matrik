@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7003",
+ "url": "https://digi.ceskearchivy.cz/7003",
+ "signature": "Rudolfov Adamov Rudolfov",
+ "parish": "Rudolfov Adamov Rudolfov",
+ "records": {
+  "N": "1855–1878"
+ },
+ "points": [
+  {
+   "scan": 128,
+   "type": "N",
+   "year": 1874,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

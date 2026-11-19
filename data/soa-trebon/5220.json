@@ -11,9 +11,27 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1796,
+   "by": "schranka"
+  },
+  {
    "scan": 6,
    "type": "O",
    "year": 1799,
+   "by": "schranka"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1801,
+   "by": "schranka"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1805,
    "by": "schranka"
   },
   {

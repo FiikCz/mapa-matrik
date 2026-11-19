@@ -11,6 +11,24 @@
  },
  "points": [
   {
+   "scan": 4,
+   "type": "N",
+   "year": 1817,
+   "by": "schranka"
+  },
+  {
+   "scan": 7,
+   "type": "N",
+   "year": 1819,
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1824,
+   "by": "schranka"
+  },
+  {
    "scan": 63,
    "type": "N",
    "year": 1859,
@@ -26,6 +44,12 @@
    "scan": 70,
    "type": "N",
    "year": 1863,
+   "by": "schranka"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1870,
    "by": "schranka"
   },
   {

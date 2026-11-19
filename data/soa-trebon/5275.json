@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5275",
+ "url": "https://digi.ceskearchivy.cz/5275",
+ "signature": "Lišov",
+ "parish": "Lišov",
+ "records": {
+  "O": "1784–1900"
+ },
+ "points": [
+  {
+   "scan": 26,
+   "type": "iO",
+   "place": "Lišov",
+   "letters": "S",
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

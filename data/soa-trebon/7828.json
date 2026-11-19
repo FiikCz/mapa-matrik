@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7828",
+ "url": "https://digi.ceskearchivy.cz/7828",
+ "signature": "Štěpánovice",
+ "parish": "Štěpánovice",
+ "records": {
+  "N": "1697–1759",
+  "O": "1697–1759",
+  "Z": "1697–1759"
+ },
+ "points": [
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1752,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

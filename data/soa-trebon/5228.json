@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5228",
+ "url": "https://digi.ceskearchivy.cz/5228",
+ "signature": "Libníč Hůry",
+ "parish": "Libníč Hůry",
+ "records": {
+  "O": "1786–1910"
+ },
+ "points": [
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1799,
+   "by": "schranka"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1838,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
