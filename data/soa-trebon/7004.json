@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "7004",
+ "url": "https://digi.ceskearchivy.cz/7004",
+ "signature": "Rudolfov Rudolfov",
+ "parish": "Rudolfov Rudolfov",
+ "records": {
+  "N": "1879–1892"
+ },
+ "points": [
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1884,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

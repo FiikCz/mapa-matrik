@@ -16,12 +16,28 @@
    "year": 1843,
    "months": "V",
    "by": "pe-pan"
+  },
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1801,
+   "by": "schranka"
+  },
+  {
+   "scan": 211,
+   "type": "O",
+   "year": 1837,
+   "by": "schranka"
   }
  ],
  "sources": [
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
   }
  ]
 }
