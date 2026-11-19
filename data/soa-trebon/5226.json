@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5226",
+ "url": "https://digi.ceskearchivy.cz/5226",
+ "signature": "Libníč 9",
+ "parish": "Libníč",
+ "records": {
+  "N": "1785–1829"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1803,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

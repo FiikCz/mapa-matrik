@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "5804",
+ "url": "https://digi.ceskearchivy.cz/5804",
+ "signature": "Netolice",
+ "parish": "Netolice",
+ "records": {
+  "O": "1725–1784"
+ },
+ "points": [
+  {
+   "scan": 295,
+   "type": "O",
+   "year": 1784,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

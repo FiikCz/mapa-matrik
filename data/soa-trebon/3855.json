@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3855",
+ "url": "https://digi.ceskearchivy.cz/3855",
+ "signature": "Hosín",
+ "parish": "Hosín",
+ "records": {
+  "N": "1689–1730"
+ },
+ "points": [
+  {
+   "scan": 261,
+   "type": "N",
+   "year": 1728,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3866",
+ "url": "https://digi.ceskearchivy.cz/3866",
+ "signature": "Hosín 16",
+ "parish": "Hosín",
+ "records": {
+  "O": "1825–1879"
+ },
+ "points": [
+  {
+   "scan": 142,
+   "type": "O",
+   "year": 1836,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
