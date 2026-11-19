@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "11253",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/11253",
+ "scan_url": "https://ebadatelna.soapraha.cz/d/11253/{scan}",
+ "signature": "Petrovice-RA 12",
+ "parish": "Petrovice",
+ "district": "Rakovník",
+ "places": [
+  "Petrovice",
+  "Příčina",
+  "Řeřichy",
+  "Žďár"
+ ],
+ "place_codes": {
+  "Petrovice": 119920,
+  "Příčina": 135828,
+  "Řeřichy": 145319,
+  "Žďár": 195081
+ },
+ "records": {
+  "O": "1825–1856",
+  "iO": "1825–1856"
+ },
+ "points": [
+  {
+   "scan": 158,
+   "type": "iO",
+   "letters": "F",
+   "note": "rejstřík ženichů po písmenech; sn. 160 = H, 168 = M (prázdné), 170 = P",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}

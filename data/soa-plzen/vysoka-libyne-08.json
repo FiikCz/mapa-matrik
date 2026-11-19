@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "vysoka-libyne-08",
+ "url": "https://www.portafontium.eu/register/soap-pn/vysoka-libyne-08",
+ "signature": "Vysoká Libyně 08",
+ "parish": "Vysoká Libyně",
+ "district": "Plzeň-sever",
+ "places": [
+  "Vysoká Libyně",
+  "Bílov",
+  "Kůzová",
+  "Lhota",
+  "Nová Ves",
+  "Zdeslav"
+ ],
+ "place_codes": {
+  "Vysoká Libyně": 188077,
+  "Bílov": 4391,
+  "Lhota": 54569
+ },
+ "records": {
+  "iO": "1719–1947",
+  "iN": "1719–1947",
+  "iZ": "1719–1947"
+ },
+ "scans": 251,
+ "language": "němčina",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 42,
+   "type": "iO",
+   "page": "str. 100–101",
+   "letters": "P",
+   "note": "konec písmene P (1932–1946); v písmenu chronologicky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 44,
+   "type": "iO",
+   "page": "str. 106–107",
+   "letters": "R",
+   "note": "konec R (1927) a začátek S",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 48,
+   "type": "iO",
+   "page": "str. 116–117",
+   "letters": "S",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}
