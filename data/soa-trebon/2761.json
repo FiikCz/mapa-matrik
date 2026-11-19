@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2761",
+ "url": "https://digi.ceskearchivy.cz/2761",
+ "signature": "České Budějovice Mokré",
+ "parish": "České Budějovice Mokré",
+ "records": {
+  "N": "1785–1895"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1801,
+   "by": "schranka"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1804,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

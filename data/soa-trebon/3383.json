@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3383",
+ "url": "https://digi.ceskearchivy.cz/3383",
+ "signature": "Dubné",
+ "parish": "Dubné",
+ "records": {
+  "O": "1668–1723",
+  "N": "1668–1723",
+  "Z": "1668–1723"
+ },
+ "points": [
+  {
+   "scan": 193,
+   "type": "O",
+   "year": 1723,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

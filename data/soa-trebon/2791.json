@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2791",
+ "url": "https://digi.ceskearchivy.cz/2791",
+ "signature": "České Budějovice Haklovy Dvory Nové Dvory",
+ "parish": "České Budějovice Haklovy Dvory Nové Dvory",
+ "records": {
+  "O": "1785–1920"
+ },
+ "points": [
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1854,
+   "by": "schranka"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1900,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}

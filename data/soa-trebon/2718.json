@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2718",
+ "url": "https://digi.ceskearchivy.cz/2718",
+ "signature": "České Budějovice – sv. Mikuláš 8",
+ "parish": "České Budějovice – sv. Mikuláš",
+ "records": {
+  "N": "1716–1726"
+ },
+ "points": [
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1717,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-19"
+  }
+ ]
+}
