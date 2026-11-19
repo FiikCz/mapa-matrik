@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "d7fc440b0ab3490f9011ba9892291204",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=d7fc440b0ab3490f9011ba9892291204",
+ "scan_url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=d7fc440b0ab3490f9011ba9892291204&scan={scan}",
+ "signature": "LBC O40",
+ "parish": "Praha-Liboc – sv. Fabián a Šebestián",
+ "records": {
+  "O": "1939–1947"
+ },
+ "scans": 353,
+ "language": "čeština",
+ "order": "chronological",
+ "places": [
+  "Liboc",
+  "Vokovice",
+  "Veleslavín",
+  "Ruzyně",
+  "Řepy"
+ ],
+ "place_codes": {
+  "Liboc": 400408,
+  "Vokovice": 400441,
+  "Veleslavín": 400432,
+  "Ruzyně": 400394,
+  "Řepy": 400483
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1939,
+   "note": "titulní list „Tom XIV“ (Magistrát 28. 11. 1938, farář Václav Holub 20. 2. 1939) a první zápisy 1939",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1939,
+   "months": "X 1939",
+   "page": "str. 16",
+   "note": "LBC O40; strana = snímek − 4, 3 zápisy na stranu, ~75 sňatků ročně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 41,
+   "type": "O",
+   "year": 1940,
+   "months": "IV 1940",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1940,
+   "months": "VIII 1940",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1940,
+   "months": "XII 1940",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1941,
+   "months": "V 1941",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1941,
+   "months": "VIII 1941",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}
