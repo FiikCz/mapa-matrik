@@ -30,6 +30,14 @@
  "order": "chronological",
  "points": [
   {
+   "scan": 42,
+   "type": "O",
+   "year": 1734,
+   "months": "IX–XI",
+   "note": "ženich podtržen, ves na okraji; sn. 37 = VI–XI 1732, 39 = II–IX 1733, 41 = X 1733 – VII 1734, 43 = XI 1734 – I 1735",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 73,
    "type": "O",
    "year": 1743,
@@ -43,6 +51,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-18"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
   }
  ]
 }
