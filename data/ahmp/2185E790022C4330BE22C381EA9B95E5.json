@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "archive": "ahmp",
+ "portal": "pragapublica",
+ "portal_id": "2185E790022C4330BE22C381EA9B95E5",
+ "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=2185e790022c4330be22c381ea9b95e5",
+ "signature": "MOD Z10 Modřany",
+ "parish": "MOD Z10 Modřany",
+ "records": {
+  "Z": "1917–1939"
+ },
+ "points": [
+  {
+   "scan": 142,
+   "type": "Z",
+   "year": 1933,
+   "by": "schranka"
+  }
+ ],
+ "sources": [
+  {
+   "by": "schranka",
+   "date": "2026-11-21"
+  }
+ ],
+ "places": [
+  "Modřany"
+ ],
+ "place_codes": {
+  "Modřany": 400238
+ }
+}
