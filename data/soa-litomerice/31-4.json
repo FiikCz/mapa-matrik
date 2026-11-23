@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "soa-litomerice",
+ "portal": "digitalnibadatelna",
+ "portal_id": "31-4",
+ "url": "https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7e05",
+ "signature": "31/4 (Dolní Jiřetín)",
+ "parish": "Dolní Jiřetín",
+ "district": "Most",
+ "places": [
+  "Čtrnáct Dvorců",
+  "Dolní Jiřetín"
+ ],
+ "place_codes": {
+  "Dolní Jiřetín": 29262
+ },
+ "records": {
+  "N": "1867–1892",
+  "iN": "1867–1892"
+ },
+ "scans": 262,
+ "language": "němčina",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 256,
+   "type": "N",
+   "year": 1891,
+   "months": "VIII–XI",
+   "note": "sn. 240 = X 1887, 255 = IV–VIII 1891; Vierzehnhöfen = Čtrnáct Dvorců",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-20"
+  }
+ ]
+}

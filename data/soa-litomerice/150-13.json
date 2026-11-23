@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-litomerice",
+ "portal": "digitalnibadatelna",
+ "portal_id": "150-13",
+ "url": "https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:4e496e4e:12216bae987:-7a78",
+ "signature": "150/13 (Souš)",
+ "parish": "Souš",
+ "district": "Most",
+ "places": [
+  "Souš"
+ ],
+ "place_codes": {
+  "Souš": 152528
+ },
+ "records": {
+  "O": "1881–1908"
+ },
+ "scans": 334,
+ "language": "němčina",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 68,
+   "type": "O",
+   "year": 1890,
+   "months": "VI–VII",
+   "note": "Tschausch = Souš; ~7 sn./rok: sn. 40 = X 1885, 71 = XI 1890, 80 = XI 1891, 120 = VII 1895",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-21"
+  }
+ ]
+}
