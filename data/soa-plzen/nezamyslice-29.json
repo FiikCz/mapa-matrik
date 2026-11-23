@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-29",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-29",
+ "signature": "Nezamyslice 29",
+ "parish": "Nezamyslice",
+ "records": {
+  "O": "1864–1925"
+ },
+ "order": "chronological",
+ "scans": 93,
+ "places": [
+  "Čimice",
+  "Damětice",
+  "Domoraz",
+  "Frymburk",
+  "Hejná",
+  "Kalenice",
+  "Karlovce",
+  "Kejnice",
+  "Nezamyslice",
+  "Žichovice"
+ ],
+ "place_codes": {
+  "Čimice": 23914,
+  "Damětice": 195944,
+  "Domoraz": 30970,
+  "Frymburk": 195952,
+  "Hejná": 38164,
+  "Kalenice": 62154,
+  "Karlovce": 197939,
+  "Kejnice": 64726,
+  "Nezamyslice": 104388,
+  "Žichovice": 196932
+ },
+ "points": [
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1881,
+   "months": "I–XI",
+   "page": "fol. 17",
+   "note": "snímek = folio + 1; ~4 sňatky na fol.",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  }
+ ]
+}
