@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-15",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-15",
+ "signature": "Nezamyslice 15",
+ "parish": "Nezamyslice",
+ "records": {
+  "O": "1826–1858"
+ },
+ "order": "chronological",
+ "scans": 92,
+ "places": [
+  "Čimice",
+  "Damětice",
+  "Domoraz",
+  "Frymburk",
+  "Hejná",
+  "Kejnice",
+  "Nezamyslice",
+  "Žichovice"
+ ],
+ "place_codes": {
+  "Čimice": 23914,
+  "Damětice": 195944,
+  "Domoraz": 30970,
+  "Frymburk": 195952,
+  "Hejná": 38164,
+  "Kejnice": 64726,
+  "Nezamyslice": 104388,
+  "Žichovice": 196932
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1844,
+   "months": "IV–X",
+   "page": "48",
+   "note": "strana = snímek − 2",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 64,
+   "type": "O",
+   "year": 1850,
+   "note": "celá farnost chronologicky, ~3 sn./rok: sn. 52 = 1845, 60 = 1848–49, 70 = 1851, 80 = 1854, 88 = 1857",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-20"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  }
+ ]
+}

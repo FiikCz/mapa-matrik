@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-16",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-16",
+ "signature": "Nezamyslice 16",
+ "parish": "Nezamyslice",
+ "records": {
+  "O": "1787–1864"
+ },
+ "order": "chronological",
+ "scans": 44,
+ "places": [
+  "Hejná"
+ ],
+ "place_codes": {
+  "Hejná": 38164
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1790,
+   "year_to": 1791,
+   "page": "2",
+   "place": "Hejná",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "soa-plzen",
+ "portal": "portafontium",
+ "portal_id": "nezamyslice-10",
+ "url": "https://www.portafontium.eu/register/soap-pn/nezamyslice-10",
+ "signature": "Nezamyslice 10",
+ "parish": "Nezamyslice",
+ "records": {
+  "N": "1787–1812"
+ },
+ "order": "chronological",
+ "scans": 45,
+ "places": [
+  "Hejná"
+ ],
+ "place_codes": {
+  "Hejná": 38164
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "N",
+   "year": 1792,
+   "months": "I–IV",
+   "page": "7",
+   "place": "Hejná",
+   "note": "1 snímek = 1 strana (str. = snímek − 1)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  }
+ ]
+}
