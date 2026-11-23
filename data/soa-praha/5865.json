@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5865",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5865",
+ "signature": "Čistá 23",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "iN": "1791–1822"
+ },
+ "scans": 23,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5865/{scan}",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 14,
+   "type": "iN",
+   "year": 1802,
+   "year_to": 1822,
+   "letters": "J",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "year": 1804,
+   "year_to": 1822,
+   "letters": "W",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "year": 1791,
+   "year_to": 1822,
+   "letters": "Z, Ž",
+   "note": "„pagina matricae“ = strana knihy N (Čistá 09/11)",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  }
+ ]
+}

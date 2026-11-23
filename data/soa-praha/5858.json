@@ -78,6 +78,58 @@
    "by": "ondrnovy"
   },
   {
+   "scan": 48,
+   "type": "O",
+   "year": 1816,
+   "months": "V–IX",
+   "page": "90–91",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1817,
+   "months": "X–I",
+   "page": "92–93",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1817,
+   "months": "V–XI",
+   "page": "94–95",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1817,
+   "year_to": 1818,
+   "months": "XI–XI",
+   "page": "96–97",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1818,
+   "year_to": 1819,
+   "months": "XI–II",
+   "page": "98–99",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1819,
+   "months": "II–VII",
+   "page": "100–101",
+   "note": "celá fara chronologicky",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 56,
    "type": "O",
    "year": 1820,
@@ -107,6 +159,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-13"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
   }
  ]
 }

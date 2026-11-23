@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "soa-litomerice",
+ "portal": "digitalnibadatelna",
+ "portal_id": "48-45",
+ "url": "https://digi.soalitomerice.cz/digitalnibadatelna/vysledekDetail/09ddd7cea03b9b8d:30bdd2c7:1201ea2ef5b:-785b",
+ "signature": "48/45 (Chudeřín)",
+ "parish": "Horní Litvínov (děkanství)",
+ "district": "Most",
+ "places": [
+  "Chudeřín"
+ ],
+ "place_codes": {
+  "Chudeřín": 86151
+ },
+ "records": {
+  "O": "1904–1911",
+  "Z": "1904–1916"
+ },
+ "scans": 242,
+ "language": "němčina",
+ "order": "chronological",
+ "points": [
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1910,
+   "months": "XI",
+   "note": "Bettelgrün = Chudeřín; oddáváno v Horním Litvínově; 2 sňatky na dvojstranu, ~15 sn./rok: sn. 10 = III 1905, 40 = IV 1907, 55 = I 1908, 92 = VIII 1909, 98 = 1910",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-19"
+  }
+ ]
+}

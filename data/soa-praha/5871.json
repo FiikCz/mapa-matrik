@@ -43,6 +43,91 @@
    "place": "Břežany"
   },
   {
+   "scan": 52,
+   "type": "O",
+   "year": 1913,
+   "year_to": 1914,
+   "page": "50",
+   "place": "Břežany",
+   "note": "konec oddílu Břežany; od sn. 53 (str. 51) oddíl Všesulov od 1850",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1850,
+   "year_to": 1851,
+   "page": "51",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1851,
+   "year_to": 1853,
+   "page": "52",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1854,
+   "months": "IX–X",
+   "page": "53",
+   "place": "Všesulov",
+   "note": "začátek oddílu „Wes Ješlov“ (= Všesulov), první zápis IX 1854",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1855,
+   "months": "V–XI",
+   "page": "54",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 57,
+   "type": "O",
+   "year": 1856,
+   "months": "I–II",
+   "page": "55",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1856,
+   "year_to": 1857,
+   "page": "56",
+   "place": "Všesulov",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 59,
+   "type": "O",
+   "year": 1857,
+   "months": "V–VI",
+   "page": "57",
+   "place": "Všesulov",
+   "note": "ves v knize psaná „Ješlov“ (= Všesulov, něm. Schlösselhof)",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 60,
+   "type": "O",
+   "year": 1857,
+   "year_to": 1858,
+   "page": "58",
+   "place": "Všesulov",
+   "note": "oprava: ves „Ješlov“ = Všesulov (dřív čteno Šostov)",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 60,
    "type": "O",
    "year": 1857,
@@ -241,6 +326,10 @@
   {
    "by": "ondrnovy",
    "date": "2026-11-19"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
   }
  ]
 }

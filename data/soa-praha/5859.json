@@ -39,6 +39,26 @@
  },
  "points": [
   {
+   "scan": 74,
+   "type": "O",
+   "year": 1835,
+   "year_to": 1837,
+   "page": "140–141",
+   "place": "Všesulov",
+   "note": "strana = 2 × snímek − 8",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 79,
+   "type": "O",
+   "year": 1846,
+   "year_to": 1849,
+   "page": "150–151",
+   "place": "Všesulov",
+   "note": "mikrofilm, nízký kontrast",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 105,
    "type": "O",
    "year": 1824,
@@ -54,9 +74,22 @@
    "place": "Krakov"
   },
   {
+   "scan": 127,
+   "type": "iO",
+   "letters": "H–J",
+   "by": "ondrnovy"
+  },
+  {
    "scan": 128,
    "type": "iO",
    "letters": "L"
+  },
+  {
+   "scan": 130,
+   "type": "iO",
+   "letters": "O–P",
+   "note": "rejstřík neúplný – chybí v něm sňatky uvedené v rejstříku Čistá 27",
+   "by": "ondrnovy"
   }
  ],
  "sections": [],
@@ -71,6 +104,10 @@
   {
    "by": "matriky-index",
    "date": "2026-11-15"
+  },
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
   }
  ]
 }

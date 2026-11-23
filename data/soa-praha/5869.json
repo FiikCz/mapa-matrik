@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "archive": "soa-praha",
+ "portal": "ebadatelna",
+ "portal_id": "5869",
+ "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5869",
+ "signature": "Čistá 27",
+ "parish": "Čistá",
+ "district": "Rakovník",
+ "records": {
+  "iN": "1845–1888",
+  "iO": "1845–1888",
+  "iZ": "1845–1888"
+ },
+ "places": [
+  "Bělbožice",
+  "Břežany",
+  "Čistá",
+  "Krakov",
+  "Křekovice",
+  "Kůzová",
+  "Šípy",
+  "Všesulov"
+ ],
+ "place_codes": {
+  "Bělbožice": 162591,
+  "Břežany": 14877,
+  "Čistá": 23965,
+  "Krakov": 72338,
+  "Křekovice": 192341,
+  "Kůzová": 105422,
+  "Šípy": 162612,
+  "Všesulov": 187470
+ },
+ "scans": 142,
+ "scan_url": "https://ebadatelna.soapraha.cz/d/5869/{scan}",
+ "order": "mixed",
+ "points": [
+  {
+   "scan": 10,
+   "type": "iN",
+   "year": 1845,
+   "year_to": 1888,
+   "letters": "F",
+   "note": "písmeno F celé na jednom snímku, uvnitř chronologicky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 22,
+   "type": "iN",
+   "year": 1878,
+   "year_to": 1883,
+   "letters": "K",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 29,
+   "type": "iN",
+   "year": 1845,
+   "year_to": 1854,
+   "letters": "P",
+   "note": "začátek písmene P, po letech",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "year": 1879,
+   "year_to": 1885,
+   "letters": "R, H",
+   "note": "levá strana R 1879–1885, pravá H 1879–1883; písmena nejdou abecedně",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 40,
+   "type": "iN",
+   "year": 1884,
+   "year_to": 1888,
+   "letters": "P",
+   "note": "konec písmene P; levá strana prázdná; rejstřík celé fary, uvnitř písmene chronologicky",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 55,
+   "type": "iZ",
+   "year": 1876,
+   "year_to": 1888,
+   "letters": "H",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 75,
+   "type": "iZ",
+   "year": 1853,
+   "year_to": 1859,
+   "letters": "S, Š",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 99,
+   "type": "iO",
+   "year": 1845,
+   "year_to": 1867,
+   "letters": "O, P",
+   "note": "P 1845–1867; „pagina matr.“ = strana knihy Čistá 17 (do 1850) / Čistá 29",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 100,
+   "type": "iO",
+   "year": 1868,
+   "year_to": 1888,
+   "letters": "P",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 102,
+   "type": "iO",
+   "year": 1875,
+   "year_to": 1888,
+   "letters": "R",
+   "note": "konec písmene R, pravá strana prázdná",
+   "by": "ondrnovy"
+  },
+  {
+   "scan": 110,
+   "type": "iO",
+   "year": 1845,
+   "year_to": 1888,
+   "letters": "Z",
+   "note": "rejstřík oddaných podle ženicha",
+   "by": "ondrnovy"
+  }
+ ],
+ "sources": [
+  {
+   "by": "ondrnovy",
+   "date": "2026-11-23"
+  }
+ ]
+}
