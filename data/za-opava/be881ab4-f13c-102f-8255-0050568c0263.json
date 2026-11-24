@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be881ab4-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be881ab4-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 13",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Lidečko"
+ ],
+ "place_codes": {
+  "Lidečko": 83674
+ },
+ "records": {
+  "N": "1846–1866",
+  "O": "1846–1866",
+  "Z": "1846–1866"
+ },
+ "points": [
+  {
+   "scan": 3,
+   "type": "O",
+   "year": 1846,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1849,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 12,
+   "type": "O",
+   "year": 1855,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1858,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 68,
+   "type": "N",
+   "year": 1857,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 102,
+   "type": "N",
+   "year": 1864,
+   "months": "VII",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

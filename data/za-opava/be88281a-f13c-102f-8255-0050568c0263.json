@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be88281a-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be88281a-f13c-102f-8255-0050568c0263",
+ "signature": "V VIII 2",
+ "parish": "Pozděchov",
+ "district": "Vsetín",
+ "places": [
+  "Pozděchov"
+ ],
+ "place_codes": {
+  "Pozděchov": 126853
+ },
+ "records": {
+  "N": "1799–1854",
+  "iN": "1799–1854"
+ },
+ "points": [
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1819,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1822,
+   "months": "V",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "Zapisováni i evangelíci."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

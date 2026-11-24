@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "12803",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/12803",
+ "signature": "Otrokovice, kn. 4505, O 1937–1947",
+ "parish": "Otrokovice",
+ "district": "Zlín",
+ "places": [
+  "Otrokovice"
+ ],
+ "place_codes": {
+  "Otrokovice": 412180
+ },
+ "records": {
+  "O": "1937–1947"
+ },
+ "points": [
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1938,
+   "months": "VII",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "Rejstřík na konci knihy."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

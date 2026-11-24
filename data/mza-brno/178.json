@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "178",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/178",
+ "signature": "Kvítkovice, kn. 4453, O 1859–1929",
+ "parish": "Napajedla",
+ "district": "Zlín",
+ "places": [
+  "Kvítkovice"
+ ],
+ "place_codes": {
+  "Kvítkovice": 116769
+ },
+ "records": {
+  "O": "1859–1929"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1865,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1896,
+   "months": "V",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "Rejstřík v knize."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

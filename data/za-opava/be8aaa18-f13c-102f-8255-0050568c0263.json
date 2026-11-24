@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8aaa18-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8aaa18-f13c-102f-8255-0050568c0263",
+ "signature": "ČV VII 2",
+ "parish": "Pozděchov (evang.)",
+ "district": "Vsetín",
+ "places": [
+  "Bratřejov",
+  "Drnovice",
+  "Chrastěšov",
+  "Jasenná",
+  "Lačnov",
+  "Pozděchov",
+  "Prlov",
+  "Prusinovice",
+  "Seninka"
+ ],
+ "place_codes": {
+  "Bratřejov": 9679,
+  "Drnovice": 32549,
+  "Chrastěšov": 53911,
+  "Jasenná": 57681,
+  "Lačnov": 78867,
+  "Pozděchov": 126853,
+  "Prlov": 133086,
+  "Prusinovice": 133990,
+  "Seninka": 147486
+ },
+ "records": {
+  "O": "1870–1909",
+  "iO": "1870–1909"
+ },
+ "points": [
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1881,
+   "months": "I",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

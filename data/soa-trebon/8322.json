@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8322",
+ "url": "https://digi.ceskearchivy.cz/8322",
+ "signature": "Vitějovice 7",
+ "parish": "Vitějovice",
+ "district": "Prachatice",
+ "places": [
+  "Vitějovice"
+ ],
+ "place_codes": {
+  "Vitějovice": 182672
+ },
+ "records": {
+  "O": "1874–1899"
+ },
+ "points": [
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1880,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 28,
+   "type": "O",
+   "year": 1895,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1897,
+   "months": "VI",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

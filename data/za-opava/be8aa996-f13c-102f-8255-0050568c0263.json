@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8aa996-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8aa996-f13c-102f-8255-0050568c0263",
+ "signature": "ČV VII 1",
+ "parish": "Pozděchov (evang.)",
+ "district": "Vsetín",
+ "places": [
+  "Bratřejov",
+  "Drnovice",
+  "Francova Lhota",
+  "Holešov",
+  "Lačnov",
+  "Napajedla",
+  "Pozděchov",
+  "Prlov",
+  "Prusinovice",
+  "Tučín",
+  "Zádveřice"
+ ],
+ "place_codes": {
+  "Bratřejov": 9679,
+  "Drnovice": 32549,
+  "Francova Lhota": 34584,
+  "Holešov": 412449,
+  "Lačnov": 78867,
+  "Napajedla": 412171,
+  "Pozděchov": 126853,
+  "Prlov": 133086,
+  "Prusinovice": 133990,
+  "Tučín": 171247,
+  "Zádveřice": 189740
+ },
+ "records": {
+  "N": "1870–1898",
+  "iN": "1870–1898"
+ },
+ "points": [
+  {
+   "scan": 175,
+   "type": "N",
+   "year": 1894,
+   "months": "I",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

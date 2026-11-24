@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "307",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/307",
+ "signature": "Malenovice, kn. 4134, O 1889–1925",
+ "parish": "Malenovice",
+ "district": "Zlín",
+ "places": [
+  "Malenovice"
+ ],
+ "place_codes": {
+  "Malenovice": 412236
+ },
+ "records": {
+  "O": "1889–1925"
+ },
+ "points": [
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1919,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 205,
+   "type": "iO",
+   "letters": "P",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "Rejstřík na konci knihy (asi sn. 195–212)."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

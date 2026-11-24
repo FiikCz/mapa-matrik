@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9730",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9730",
+ "signature": "Stupava, kn. 12026, O 1864–1904",
+ "parish": "Stupava",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Stupava",
+  "Staré Hutě"
+ ],
+ "place_codes": {
+  "Stupava": 158615,
+  "Staré Hutě": 154407
+ },
+ "records": {
+  "O": "1864–1904"
+ },
+ "order": "by_village",
+ "index": {
+  "scans": "116–137"
+ },
+ "points": [
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1868,
+   "months": "X",
+   "by": "FiikCz"
+  }
+ ],
+ "sections": [
+  {
+   "scans": "72–105",
+   "type": "O",
+   "place": "Staré Hutě"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}
