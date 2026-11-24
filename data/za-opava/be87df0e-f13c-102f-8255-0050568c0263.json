@@ -51,6 +51,14 @@
   {
    "scan": 5,
    "type": "N",
+   "year": 1821,
+   "year_to": 1822,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 5,
+   "type": "N",
    "year": 1822,
    "months": "I",
    "by": "FiikCz"
@@ -60,6 +68,14 @@
    "type": "N",
    "year": 1822,
    "by": "strbackatomas"
+  },
+  {
+   "scan": 6,
+   "type": "N",
+   "year": 1822,
+   "months": "III–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
   },
   {
    "scan": 7,
@@ -113,6 +129,14 @@
    "by": "FiikCz"
   },
   {
+   "scan": 38,
+   "type": "N",
+   "year": 1841,
+   "months": "V–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 40,
    "type": "N",
    "year": 1842,
@@ -129,12 +153,27 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 40,
+   "type": "N",
+   "year": 1842,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 41,
    "type": "N",
    "year": 1842,
    "year_to": 1843,
    "months": "XI–I",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1842,
+   "months": "XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
   },
   {
    "scan": 42,
@@ -149,6 +188,22 @@
    "year": 1843,
    "months": "IX–X",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1843,
+   "months": "X–XI",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1844,
+   "months": "I",
+   "place": "Halenkov",
+   "by": "FiikCz"
   },
   {
    "scan": 48,
@@ -179,6 +234,14 @@
    "by": "FiikCz"
   },
   {
+   "scan": 56,
+   "type": "N",
+   "year": 1845,
+   "months": "XI",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 57,
    "type": "N",
    "year": 1846,
@@ -200,6 +263,14 @@
    "by": "FiikCz"
   },
   {
+   "scan": 58,
+   "type": "N",
+   "year": 1846,
+   "months": "IV",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 59,
    "type": "N",
    "page": "fol. 115–116",
@@ -216,6 +287,13 @@
    "type": "N",
    "year": 1846,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1846,
+   "place": "Halenkov",
    "by": "FiikCz"
   },
   {
@@ -243,10 +321,25 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1848,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 69,
    "type": "N",
    "year": 1848,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1848,
+   "months": "XII",
+   "place": "Halenkov",
    "by": "FiikCz"
   },
   {
@@ -257,10 +350,49 @@
    "by": "FiikCz"
   },
   {
+   "scan": 72,
+   "type": "N",
+   "year": 1849,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 76,
    "type": "N",
    "year": 1850,
    "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1850,
+   "months": "IV",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1851,
+   "months": "II–V",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 81,
+   "type": "N",
+   "year": 1851,
+   "months": "VI–IX",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1851,
+   "months": "IX–XII",
+   "place": "Halenkov",
    "by": "FiikCz"
   },
   {
@@ -271,10 +403,43 @@
    "by": "FiikCz"
   },
   {
+   "scan": 83,
+   "type": "N",
+   "year": 1852,
+   "months": "I–IV",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1852,
+   "months": "IV–VII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 85,
+   "type": "N",
+   "year": 1852,
+   "months": "VII–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 86,
    "type": "N",
    "year": 1852,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1852,
+   "year_to": 1853,
+   "months": "XII–II",
+   "place": "Halenkov",
    "by": "FiikCz"
   },
   {
@@ -295,17 +460,17 @@
   {
    "scan": 103,
    "type": "N",
-   "year": 1828,
-   "months": "V",
+   "year": 1827,
+   "year_to": 1828,
+   "page": "fol. 16–17",
+   "place": "Hovězí",
    "by": "strbackatomas"
   },
   {
    "scan": 103,
    "type": "N",
-   "year": 1827,
-   "year_to": 1828,
-   "page": "fol. 16–17",
-   "place": "Hovězí",
+   "year": 1828,
+   "months": "V",
    "by": "strbackatomas"
   },
   {
@@ -335,6 +500,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 118,
+   "type": "N",
+   "year": 1841,
+   "year_to": 1842,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 121,
    "type": "N",
    "page": "fol. 51–52",
@@ -357,6 +530,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 130,
+   "type": "N",
+   "year": 1846,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 134,
    "type": "N",
    "year": 1848,
@@ -364,10 +544,49 @@
    "by": "FiikCz"
   },
   {
+   "scan": 134,
+   "type": "N",
+   "year": 1848,
+   "months": "VI",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "year": 1848,
+   "year_to": 1849,
+   "months": "IX–II",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 136,
+   "type": "N",
+   "year": 1849,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 137,
    "type": "N",
    "year": 1849,
    "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1849,
+   "months": "VIII",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 138,
+   "type": "N",
+   "year": 1849,
+   "place": "Hovězí",
    "by": "FiikCz"
   },
   {
@@ -379,6 +598,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 145,
+   "type": "N",
+   "year": 1853,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 160,
    "type": "N",
    "year": 1839,
@@ -386,10 +612,43 @@
    "by": "FiikCz"
   },
   {
+   "scan": 161,
+   "type": "N",
+   "year": 1839,
+   "year_to": 1842,
+   "months": "XII–VI",
+   "place": "Hrozenkau (paseky N. Hrozenkova)",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1844,
+   "year_to": 1845,
+   "place": "Hrozenkau (paseky N. Hrozenkova)",
+   "by": "FiikCz"
+  },
+  {
    "scan": 164,
    "type": "N",
    "year": 1846,
    "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1846,
+   "year_to": 1847,
+   "place": "Hrozenkau (paseky N. Hrozenkova)",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1847,
+   "year_to": 1849,
+   "place": "Hrozenkau (paseky N. Hrozenkova)",
    "by": "FiikCz"
   },
   {

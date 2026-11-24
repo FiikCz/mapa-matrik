@@ -23,6 +23,13 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "title",
+   "year": 1789,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 4,
    "type": "N",
    "year": 1790,
@@ -71,6 +78,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1797,
+   "months": "XI",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 16,
    "type": "N",
    "year": 1797,
@@ -116,10 +131,172 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 22,
+   "type": "N",
+   "year": 1800,
+   "months": "VI",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 24,
+   "type": "N",
+   "year": 1801,
+   "months": "I–V",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1801,
+   "months": "V–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 26,
    "type": "N",
    "year": 1802,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1802,
+   "months": "I",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 30,
+   "type": "N",
+   "year": 1802,
+   "months": "X–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 31,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "months": "XII–II",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1803,
+   "months": "III–VII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1803,
+   "months": "VII–IX",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1803,
+   "months": "IX–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1804,
+   "months": "I–III",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1804,
+   "months": "IV–V",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 53,
+   "type": "N",
+   "year": 1807,
+   "months": "XI–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1815,
+   "year_to": 1816,
+   "months": "XII–III",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1816,
+   "year_to": 1817,
+   "months": "XII–III",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1817,
+   "months": "III–IV",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 107,
+   "type": "N",
+   "year": 1817,
+   "months": "IV–VII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1817,
+   "months": "VII–IX",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 109,
+   "type": "N",
+   "year": 1817,
+   "months": "IX–XII",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1818,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1818,
+   "months": "V–VII",
+   "place": "Halenkov",
    "by": "FiikCz"
   },
   {
@@ -216,6 +393,14 @@
    "months": "IX–II",
    "place": "Hovězí",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 130,
+   "type": "N",
+   "year": 1795,
+   "year_to": 1796,
+   "place": "Hovězí",
+   "by": "FiikCz"
   },
   {
    "scan": 131,
@@ -320,6 +505,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 144,
+   "type": "N",
+   "year": 1803,
+   "months": "IV–X",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 145,
    "type": "N",
    "year": 1803,
@@ -334,6 +527,14 @@
    "page": "164–165",
    "place": "Hovězí",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 145,
+   "type": "N",
+   "year": 1803,
+   "months": "X–XII",
+   "place": "Hovězí",
+   "by": "FiikCz"
   },
   {
    "scan": 146,
@@ -377,11 +578,36 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 160,
+   "type": "N",
+   "year": 1809,
+   "months": "IV–VIII",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1809,
+   "months": "IX–XII",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 165,
    "type": "N",
    "year": 1810,
    "page": "104",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 166,
+   "type": "N",
+   "year": 1810,
+   "year_to": 1811,
+   "months": "XII–III",
+   "place": "Hovězí",
+   "by": "FiikCz"
   },
   {
    "scan": 185,
@@ -439,18 +665,18 @@
   },
   {
    "scan": 200,
-   "type": "iN",
-   "year": 1790,
+   "type": "N",
+   "year": 1802,
    "year_to": 1803,
+   "page": "206–207",
    "place": "Nový Hrozenkov",
    "by": "strbackatomas"
   },
   {
    "scan": 200,
-   "type": "N",
-   "year": 1802,
+   "type": "iN",
+   "year": 1790,
    "year_to": 1803,
-   "page": "206–207",
    "place": "Nový Hrozenkov",
    "by": "strbackatomas"
   },

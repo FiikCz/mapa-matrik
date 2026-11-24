@@ -77,15 +77,32 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 79,
+   "type": "O",
+   "year": 1841,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 136,
    "type": "iO",
    "letters": "K",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 137,
+   "type": "iO",
+   "letters": "O",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

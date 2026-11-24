@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87df7c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87df7c-f13c-102f-8255-0050568c0263",
+ "signature": "Vs II 3",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Halenkov",
+  "Hovězí",
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "iN": "1820–1855"
+ },
+ "scans": 42,
+ "points": [
+  {
+   "scan": 6,
+   "type": "iN",
+   "year": 1844,
+   "year_to": 1855,
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "iN",
+   "letters": "K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "letters": "R",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "letters": "S/Š",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "letters": "T–W, W",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

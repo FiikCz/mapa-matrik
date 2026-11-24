@@ -42,6 +42,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1856,
+   "months": "III",
+   "by": "FiikCz"
+  },
+  {
    "scan": 70,
    "type": "N",
    "year": 1856,
@@ -50,10 +57,37 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 72,
+   "type": "N",
+   "year": 1856,
+   "months": "VI–VII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 73,
    "type": "N",
    "year": 1856,
    "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 84,
+   "type": "N",
+   "year": 1857,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 140,
+   "type": "N",
+   "year": 1861,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 141,
+   "type": "N",
+   "year": 1861,
+   "months": "I",
    "by": "FiikCz"
   },
   {
@@ -64,10 +98,30 @@
    "by": "FiikCz"
   },
   {
+   "scan": 143,
+   "type": "N",
+   "year": 1861,
+   "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1862,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 163,
    "type": "N",
    "year": 1862,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 180,
+   "type": "iN",
+   "letters": "M",
    "by": "FiikCz"
   },
   {

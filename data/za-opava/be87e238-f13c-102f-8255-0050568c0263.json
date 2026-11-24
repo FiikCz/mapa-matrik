@@ -19,6 +19,27 @@
  },
  "points": [
   {
+   "scan": 51,
+   "type": "N",
+   "year": 1884,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 54,
+   "type": "N",
+   "year": 1884,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 59,
+   "type": "N",
+   "year": 1885,
+   "months": "IV–V",
+   "by": "FiikCz"
+  },
+  {
    "scan": 76,
    "type": "N",
    "page": "76",
@@ -30,6 +51,34 @@
    "year": 1892,
    "months": "V",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 195,
+   "type": "N",
+   "year": 1893,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1893,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 204,
+   "type": "N",
+   "year": 1893,
+   "months": "VII–VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 211,
+   "type": "N",
+   "year": 1893,
+   "months": "XI",
+   "by": "FiikCz"
   },
   {
    "scan": 241,
@@ -44,15 +93,35 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 247,
+   "type": "iN",
+   "year": 1882,
+   "year_to": 1888,
+   "letters": "S/Š",
+   "by": "FiikCz"
+  },
+  {
    "scan": 248,
    "type": "iN",
    "letters": "Š",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 248,
+   "type": "iN",
+   "year": 1888,
+   "year_to": 1894,
+   "letters": "S/Š",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8ac5ca-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8ac5ca-f13c-102f-8255-0050568c0263",
+ "signature": "ČV XIII 4",
+ "parish": "Vsetín (evang.)",
+ "district": "Vsetín",
+ "places": [
+  "Bylnice",
+  "Halenkov",
+  "Horní Jasenka",
+  "Horní Lideč",
+  "Hovězí",
+  "Janová",
+  "Leskovec",
+  "Rokytnice",
+  "Ústí",
+  "Vsetín"
+ ],
+ "place_codes": {
+  "Bylnice": 13072,
+  "Halenkov": 36871,
+  "Horní Jasenka": 414778,
+  "Horní Lideč": 43354,
+  "Hovězí": 46345,
+  "Janová": 57029,
+  "Leskovec": 80004,
+  "Rokytnice": 186953,
+  "Ústí": 174840,
+  "Vsetín": 414786
+ },
+ "records": {
+  "N": "1799–1838"
+ },
+ "scans": 195,
+ "points": [
+  {
+   "scan": 162,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1807,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1807,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 195,
+   "type": "N",
+   "year": 1838,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

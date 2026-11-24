@@ -39,6 +39,20 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 1,
+   "type": "O",
+   "year": 1827,
+   "months": "II–VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 2,
+   "type": "O",
+   "year": 1827,
+   "year_to": 1828,
+   "by": "FiikCz"
+  },
+  {
    "scan": 2,
    "type": "O",
    "year": 1828,
@@ -98,18 +112,25 @@
   {
    "scan": 8,
    "type": "O",
-   "year": 1842,
-   "months": "VI",
-   "by": "FiikCz"
+   "year": 1841,
+   "year_to": 1842,
+   "page": "fol. 14–15",
+   "place": "Halenkov",
+   "by": "strbackatomas"
   },
   {
    "scan": 8,
    "type": "O",
    "year": 1841,
    "year_to": 1842,
-   "page": "fol. 14–15",
-   "place": "Halenkov",
-   "by": "strbackatomas"
+   "by": "FiikCz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1842,
+   "months": "VI",
+   "by": "FiikCz"
   },
   {
    "scan": 9,
@@ -121,11 +142,32 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 9,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1843,
+   "by": "FiikCz"
+  },
+  {
    "scan": 10,
    "type": "O",
    "year": 1844,
    "place": "Halenkov",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1844,
+   "months": "I–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1844,
+   "year_to": 1845,
+   "by": "FiikCz"
   },
   {
    "scan": 11,
@@ -136,11 +178,31 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 12,
+   "type": "O",
+   "year": 1845,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 13,
+   "type": "O",
+   "year": 1845,
+   "year_to": 1846,
+   "by": "FiikCz"
+  },
+  {
    "scan": 14,
    "type": "O",
    "year": 1846,
    "place": "Halenkov",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1846,
+   "months": "II",
+   "by": "FiikCz"
   },
   {
    "scan": 15,
@@ -158,6 +220,20 @@
    "by": "FiikCz"
   },
   {
+   "scan": 16,
+   "type": "O",
+   "year": 1847,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 17,
+   "type": "O",
+   "year": 1848,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
    "scan": 18,
    "type": "O",
    "year": 1848,
@@ -165,6 +241,19 @@
    "page": "fol. 34–35",
    "place": "Halenkov",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 18,
+   "type": "O",
+   "year": 1848,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1848,
+   "year_to": 1849,
+   "by": "FiikCz"
   },
   {
    "scan": 19,
@@ -185,6 +274,12 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 20,
+   "type": "O",
+   "year": 1849,
+   "by": "FiikCz"
+  },
+  {
    "scan": 21,
    "type": "O",
    "year": 1849,
@@ -192,6 +287,13 @@
    "page": "40–41",
    "place": "Halenkov",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1849,
+   "months": "V–XI",
+   "by": "FiikCz"
   },
   {
    "scan": 22,
@@ -204,6 +306,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 22,
+   "type": "O",
+   "year": 1849,
+   "year_to": 1850,
+   "months": "XI–V",
+   "by": "FiikCz"
+  },
+  {
    "scan": 23,
    "type": "O",
    "year": 1850,
@@ -211,6 +321,13 @@
    "page": "44–45",
    "place": "Halenkov",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 23,
+   "type": "O",
+   "year": 1850,
+   "months": "VI–XI",
+   "by": "FiikCz"
   },
   {
    "scan": 24,
@@ -222,6 +339,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 24,
+   "type": "O",
+   "year": 1851,
+   "months": "III–VIII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 25,
    "type": "O",
    "year": 1851,
@@ -230,6 +354,14 @@
    "page": "48–49",
    "place": "Halenkov",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1851,
+   "year_to": 1852,
+   "months": "XI–VI",
+   "by": "FiikCz"
   },
   {
    "scan": 26,
@@ -280,18 +412,26 @@
   {
    "scan": 32,
    "type": "O",
-   "year": 1830,
-   "months": "II",
-   "by": "FiikCz"
-  },
-  {
-   "scan": 32,
-   "type": "O",
    "year": 1828,
    "year_to": 1831,
    "page": "fol. 2–3",
    "place": "Hovězí",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1828,
+   "year_to": 1830,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1830,
+   "months": "II",
+   "by": "FiikCz"
   },
   {
    "scan": 33,
@@ -310,6 +450,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 40,
+   "type": "O",
+   "year": 1845,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 41,
    "type": "O",
    "year": 1847,
@@ -321,17 +468,17 @@
   {
    "scan": 44,
    "type": "O",
-   "year": 1850,
-   "months": "II",
+   "year": 1849,
+   "year_to": 1850,
+   "page": "26–27",
+   "place": "Hovězí",
    "by": "strbackatomas"
   },
   {
    "scan": 44,
    "type": "O",
-   "year": 1849,
-   "year_to": 1850,
-   "page": "26–27",
-   "place": "Hovězí",
+   "year": 1850,
+   "months": "II",
    "by": "strbackatomas"
   },
   {
@@ -367,6 +514,13 @@
    "page": "34–35",
    "place": "Hovězí",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1854,
+   "place": "Hovězí",
+   "by": "FiikCz"
   },
   {
    "scan": 49,
@@ -420,10 +574,22 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 57,
+   "type": "iO",
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
    "scan": 58,
    "type": "iO",
    "note": "rejstřík ženichů",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 58,
+   "type": "iO",
+   "letters": "S/Š",
+   "by": "FiikCz"
   },
   {
    "scan": 59,
@@ -431,6 +597,12 @@
    "letters": "U–Z",
    "note": "rejstřík ženichů",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 59,
+   "type": "iO",
+   "letters": "W",
+   "by": "FiikCz"
   }
  ],
  "sources": [

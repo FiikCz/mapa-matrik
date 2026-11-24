@@ -19,6 +19,12 @@
  },
  "points": [
   {
+   "scan": 29,
+   "type": "O",
+   "year": 1905,
+   "by": "FiikCz"
+  },
+  {
    "scan": 30,
    "type": "O",
    "year": 1906,
@@ -127,6 +133,24 @@
    "year": 1919,
    "months": "III",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 219,
+   "type": "iO",
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 220,
+   "type": "iO",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 226,
+   "type": "iO",
+   "letters": "M",
+   "by": "FiikCz"
   }
  ],
  "sources": [

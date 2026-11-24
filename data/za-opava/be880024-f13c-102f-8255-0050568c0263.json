@@ -19,10 +19,37 @@
  },
  "points": [
   {
+   "scan": 26,
+   "type": "Z",
+   "year": 1892,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 51,
+   "type": "Z",
+   "year": 1894,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
    "scan": 53,
    "type": "Z",
    "year": 1894,
    "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 57,
+   "type": "Z",
+   "year": 1894,
+   "months": "XI–XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 70,
+   "type": "Z",
+   "year": 1895,
+   "months": "IX",
    "by": "FiikCz"
   },
   {
@@ -37,6 +64,66 @@
    "type": "Z",
    "year": 1896,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 101,
+   "type": "Z",
+   "year": 1897,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 118,
+   "type": "Z",
+   "year": 1899,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 119,
+   "type": "Z",
+   "year": 1899,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 120,
+   "type": "Z",
+   "year": 1899,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 152,
+   "type": "iZ",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 154,
+   "type": "iZ",
+   "letters": "K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 156,
+   "type": "iZ",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 158,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 159,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 160,
+   "type": "iZ",
+   "letters": "P",
    "by": "FiikCz"
   }
  ],

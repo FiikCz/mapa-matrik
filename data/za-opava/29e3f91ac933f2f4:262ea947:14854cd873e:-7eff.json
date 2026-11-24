@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:262ea947:14854cd873e:-7eff",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:262ea947:14854cd873e:-7eff",
+ "signature": "ČV III 3",
+ "parish": "Huslenky (evang.)",
+ "district": "Vsetín",
+ "places": [
+  "Bystřička",
+  "Halenkov",
+  "Hovězí",
+  "Huslenky",
+  "Janová",
+  "Zděchov"
+ ],
+ "place_codes": {
+  "Bystřička": 17141,
+  "Halenkov": 36871,
+  "Hovězí": 46345,
+  "Huslenky": 49760,
+  "Janová": 57029,
+  "Zděchov": 192228
+ },
+ "records": {
+  "O": "1884–1936"
+ },
+ "scans": 95,
+ "notes": [
+  "Bez rejstříku."
+ ],
+ "points": [
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1912,
+   "months": "X–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 53,
+   "type": "O",
+   "year": 1913,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 54,
+   "type": "O",
+   "year": 1913,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 55,
+   "type": "O",
+   "year": 1914,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 56,
+   "type": "O",
+   "year": 1914,
+   "year_to": 1916,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

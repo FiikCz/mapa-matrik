@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87ff48-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87ff48-f13c-102f-8255-0050568c0263",
+ "signature": "Vs VI 16",
+ "parish": "Halenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "Z": "1856–1911",
+  "iZ": "1856–1911"
+ },
+ "scans": 42,
+ "notes": [
+  "Paseky Nového Hrozenkova (fara Halenkov)."
+ ],
+ "points": [
+  {
+   "scan": 14,
+   "type": "Z",
+   "year": 1885,
+   "months": "I",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 16,
+   "type": "Z",
+   "year": 1888,
+   "months": "IV",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 41,
+   "type": "iZ",
+   "letters": "K–P",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 42,
+   "type": "iZ",
+   "letters": "Q–Z",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -33,6 +33,13 @@
    "by": "FiikCz"
   },
   {
+   "scan": 73,
+   "type": "N",
+   "year": 1915,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 76,
    "type": "N",
    "year": 1915,
@@ -47,6 +54,27 @@
    "by": "FiikCz"
   },
   {
+   "scan": 97,
+   "type": "N",
+   "year": 1916,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 148,
+   "type": "N",
+   "year": 1919,
+   "months": "IX–X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 152,
+   "type": "N",
+   "year": 1919,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 153,
    "type": "N",
    "year": 1919,
@@ -58,6 +86,24 @@
    "type": "N",
    "year": 1919,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 212,
+   "type": "iN",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 213,
+   "type": "iN",
+   "letters": "N",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 214,
+   "type": "iN",
+   "letters": "O",
    "by": "FiikCz"
   }
  ],

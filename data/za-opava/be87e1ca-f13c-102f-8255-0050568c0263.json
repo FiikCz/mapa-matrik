@@ -147,6 +147,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 40,
+   "type": "Z",
+   "year": 1847,
+   "months": "IX",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 41,
    "type": "Z",
    "year": 1847,
@@ -256,6 +264,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 54,
+   "type": "Z",
+   "year": 1855,
+   "months": "VI",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 55,
    "type": "Z",
    "place": "Halenkov",
@@ -340,18 +356,18 @@
   {
    "scan": 84,
    "type": "Z",
-   "year": 1847,
-   "months": "II",
-   "by": "strbackatomas"
-  },
-  {
-   "scan": 84,
-   "type": "Z",
    "year": 1846,
    "year_to": 1847,
    "months": "VIII–II",
    "page": "112–113",
    "place": "Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 84,
+   "type": "Z",
+   "year": 1847,
+   "months": "II",
    "by": "strbackatomas"
   },
   {
@@ -427,6 +443,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

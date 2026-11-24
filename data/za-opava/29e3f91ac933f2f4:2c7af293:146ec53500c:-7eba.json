@@ -19,10 +19,24 @@
  },
  "points": [
   {
+   "scan": 66,
+   "type": "O",
+   "year": 1910,
+   "months": "XI–XII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 67,
    "type": "O",
    "year": 1911,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1912,
+   "months": "II",
    "by": "FiikCz"
   },
   {
@@ -65,12 +79,48 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 120,
+   "type": "O",
+   "year": 1918,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 131,
+   "type": "O",
+   "year": 1919,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "year": 1919,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1919,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 155,
+   "type": "O",
+   "year": 1920,
+   "by": "FiikCz"
+  },
+  {
    "scan": 160,
    "type": "O",
    "year": 1921,
    "months": "II",
    "page": "155",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 171,
+   "type": "O",
+   "year": 1921,
+   "by": "FiikCz"
   },
   {
    "scan": 172,
@@ -102,6 +152,12 @@
    "year": 1922,
    "months": "II",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 212,
+   "type": "iO",
+   "letters": "O",
+   "by": "FiikCz"
   }
  ],
  "sources": [

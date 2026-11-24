@@ -36,6 +36,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 6,
+   "type": "N",
+   "year": 1763,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 7,
    "type": "N",
    "year": 1764,
@@ -56,6 +63,13 @@
    "year": 1765,
    "months": "V–XI",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 9,
+   "type": "N",
+   "year": 1765,
+   "months": "IX",
+   "by": "FiikCz"
   },
   {
    "scan": 10,
@@ -289,6 +303,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 57,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "FiikCz"
+  },
+  {
    "scan": 58,
    "type": "N",
    "year": 1781,
@@ -298,11 +319,32 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 58,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "FiikCz"
+  },
+  {
    "scan": 60,
    "type": "N",
    "months": "III–VI",
    "page": "57–58",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 61,
+   "type": "N",
+   "year": 1781,
+   "year_to": 1782,
+   "by": "FiikCz"
   },
   {
    "scan": 80,
@@ -311,6 +353,37 @@
    "months": "VII–VIII",
    "page": "fol. 78",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 90,
+   "type": "N",
+   "year": 1786,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 105,
+   "type": "N",
+   "year": 1787,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1788,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 133,
+   "type": "N",
+   "year": 1790,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 135,
+   "type": "N",
+   "year": 1790,
+   "by": "FiikCz"
   },
   {
    "scan": 141,
@@ -326,10 +399,66 @@
    "by": "FiikCz"
   },
   {
+   "scan": 199,
+   "type": "iN",
+   "year": 1762,
+   "year_to": 1791,
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
    "scan": 200,
    "type": "iN",
    "letters": "H",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 200,
+   "type": "iN",
+   "letters": "G, H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 201,
+   "type": "iN",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 202,
+   "type": "iN",
+   "letters": "I/J",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 203,
+   "type": "iN",
+   "letters": "I/J, K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 204,
+   "type": "iN",
+   "letters": "K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 205,
+   "type": "iN",
+   "letters": "K, L",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 208,
+   "type": "iN",
+   "letters": "M, N",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 211,
+   "type": "iN",
+   "letters": "P",
+   "by": "FiikCz"
   },
   {
    "scan": 214,
