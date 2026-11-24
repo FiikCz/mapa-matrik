@@ -19,16 +19,34 @@
  },
  "points": [
   {
+   "scan": 30,
+   "type": "O",
+   "year": 1940,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
    "scan": 65,
    "type": "O",
    "year": 1943,
    "months": "III",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 104,
+   "type": "O",
+   "year": 1945,
+   "months": "VII",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

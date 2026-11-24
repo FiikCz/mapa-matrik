@@ -19,6 +19,20 @@
  },
  "points": [
   {
+   "scan": 67,
+   "type": "O",
+   "year": 1911,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1912,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 182,
    "type": "O",
    "year": 1922,
@@ -29,6 +43,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

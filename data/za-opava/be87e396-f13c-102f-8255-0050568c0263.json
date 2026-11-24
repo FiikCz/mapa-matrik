@@ -18,6 +18,13 @@
  },
  "points": [
   {
+   "scan": 3,
+   "type": "Z",
+   "year": 1857,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 31,
    "type": "Z",
    "year": 1869,
@@ -25,11 +32,25 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 34,
+   "type": "Z",
+   "year": 1871,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
    "scan": 37,
    "type": "Z",
    "year": 1871,
    "months": "XII",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 46,
+   "type": "Z",
+   "year": 1874,
+   "months": "II",
+   "by": "FiikCz"
   },
   {
    "scan": 82,
@@ -44,11 +65,22 @@
    "year": 1884,
    "months": "VII",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 185,
+   "type": "Z",
+   "year": 1894,
+   "months": "XI",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

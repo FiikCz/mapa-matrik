@@ -31,11 +31,64 @@
    "year": 1912,
    "months": "VII",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 192,
+   "type": "Z",
+   "year": 1919,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 195,
+   "type": "Z",
+   "year": 1920,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 205,
+   "type": "Z",
+   "year": 1921,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 207,
+   "type": "Z",
+   "year": 1921,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 213,
+   "type": "Z",
+   "year": 1922,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 253,
+   "type": "Z",
+   "year": 1926,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 278,
+   "type": "Z",
+   "year": 1929,
+   "months": "VII",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

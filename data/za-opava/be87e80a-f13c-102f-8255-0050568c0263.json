@@ -49,6 +49,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 29,
+   "type": "N",
+   "year": 1775,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
    "scan": 43,
    "type": "N",
    "year": 1779,
@@ -63,6 +70,12 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 199,
+   "type": "iN",
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
    "scan": 245,
    "type": "O",
    "year": 1782,
@@ -73,6 +86,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

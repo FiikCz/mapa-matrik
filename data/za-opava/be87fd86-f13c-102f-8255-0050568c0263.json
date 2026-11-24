@@ -1,0 +1,84 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87fd86-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87fd86-f13c-102f-8255-0050568c0263",
+ "signature": "Vs VI 12",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "N": "1873–1892",
+  "iN": "1873–1892"
+ },
+ "points": [
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1875,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 82,
+   "type": "N",
+   "year": 1877,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 180,
+   "type": "N",
+   "year": 1884,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 205,
+   "type": "N",
+   "year": 1885,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 208,
+   "type": "N",
+   "year": 1885,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 247,
+   "type": "N",
+   "year": 1887,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 250,
+   "type": "N",
+   "year": 1888,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 309,
+   "type": "N",
+   "year": 1890,
+   "months": "VII",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

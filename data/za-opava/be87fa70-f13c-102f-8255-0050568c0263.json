@@ -24,11 +24,36 @@
    "year": 1855,
    "months": "III",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 73,
+   "type": "N",
+   "year": 1856,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 142,
+   "type": "N",
+   "year": 1861,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 163,
+   "type": "N",
+   "year": 1862,
+   "months": "XI",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

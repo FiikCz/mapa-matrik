@@ -32,11 +32,25 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 5,
+   "type": "N",
+   "year": 1822,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
    "scan": 7,
    "type": "N",
    "year": 1823,
    "months": "II",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1841,
+   "months": "VI",
+   "by": "FiikCz"
   },
   {
    "scan": 40,
@@ -53,11 +67,67 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 56,
+   "type": "N",
+   "year": 1845,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1846,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1846,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 63,
    "type": "N",
    "year": 1847,
    "months": "I",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1848,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1849,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1850,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1852,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1852,
+   "months": "XII",
+   "by": "FiikCz"
   },
   {
    "scan": 103,
@@ -79,11 +149,50 @@
    "year": 1843,
    "months": "XI",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 134,
+   "type": "N",
+   "year": 1848,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1849,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1839,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1846,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 165,
+   "type": "N",
+   "year": 1849,
+   "months": "III",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7ec0",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7ec0",
+ "signature": "Vs VI 21",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "N": "1913–1921",
+  "iN": "1913–1921"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1913,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1914,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 76,
+   "type": "N",
+   "year": 1915,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1916,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 153,
+   "type": "N",
+   "year": 1919,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 155,
+   "type": "N",
+   "year": 1919,
+   "months": "XII",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

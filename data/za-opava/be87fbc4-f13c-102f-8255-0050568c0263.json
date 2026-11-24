@@ -26,11 +26,39 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 13,
+   "type": "O",
+   "year": 1854,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 14,
+   "type": "O",
+   "year": 1854,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
    "scan": 17,
    "type": "O",
    "year": 1856,
    "months": "V",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 21,
+   "type": "O",
+   "year": 1858,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 34,
+   "type": "O",
+   "year": 1861,
+   "months": "VII",
+   "by": "FiikCz"
   },
   {
    "scan": 34,
@@ -45,11 +73,57 @@
    "year": 1862,
    "months": "II",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1862,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1869,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 84,
+   "type": "O",
+   "year": 1873,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 86,
+   "type": "O",
+   "year": 1873,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 89,
+   "type": "O",
+   "year": 1874,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "year": 1882,
+   "months": "XI",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

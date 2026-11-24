@@ -19,6 +19,27 @@
  },
  "points": [
   {
+   "scan": 16,
+   "type": "O",
+   "year": 1887,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 19,
+   "type": "O",
+   "year": 1887,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 44,
+   "type": "O",
+   "year": 1891,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 50,
    "type": "O",
    "year": 1892,
@@ -31,11 +52,22 @@
    "year": 1894,
    "months": "VII",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 134,
+   "type": "O",
+   "year": 1900,
+   "months": "VII",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]
