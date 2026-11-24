@@ -25,10 +25,27 @@
  "order": "by_village",
  "points": [
   {
+   "scan": 314,
+   "type": "N",
+   "year": 1835,
+   "year_to": 1836,
+   "months": "IX–V",
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
    "scan": 315,
    "type": "N",
    "year": 1836,
    "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 315,
+   "type": "N",
+   "year": 1836,
+   "months": "VI–X",
+   "place": "Staré Hutě",
    "by": "FiikCz"
   }
  ],

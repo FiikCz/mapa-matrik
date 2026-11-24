@@ -24,10 +24,55 @@
  },
  "points": [
   {
+   "scan": 72,
+   "type": "O",
+   "year": 1864,
+   "year_to": 1865,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1865,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1866,
+   "year_to": 1867,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
    "scan": 76,
    "type": "O",
    "year": 1868,
    "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 76,
+   "type": "O",
+   "year": 1868,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 78,
+   "type": "O",
+   "year": 1871,
+   "year_to": 1872,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 129,
+   "type": "iO",
+   "letters": "N",
+   "place": "Staré Hutě",
    "by": "FiikCz"
   }
  ],

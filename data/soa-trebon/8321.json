@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "8321",
+ "url": "https://digi.ceskearchivy.cz/8321",
+ "signature": "Vitějovice, O 1830–1874",
+ "parish": "Vitějovice",
+ "district": "Prachatice",
+ "places": [
+  "Vitějovice"
+ ],
+ "place_codes": {
+  "Vitějovice": 182672
+ },
+ "records": {
+  "O": "1830–1874"
+ },
+ "points": [
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1832,
+   "year_to": 1833,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1844,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1844,
+   "year_to": 1846,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1847,
+   "year_to": 1849,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

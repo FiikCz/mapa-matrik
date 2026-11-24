@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "13822",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/13822",
+ "signature": "Malenovice, kn. 4136, O 1936–1949",
+ "parish": "Malenovice",
+ "district": "Zlín",
+ "places": [
+  "Malenovice"
+ ],
+ "place_codes": {
+  "Malenovice": 412236
+ },
+ "records": {
+  "O": "1936–1949"
+ },
+ "index": {
+  "scans": "186–187"
+ },
+ "points": [
+  {
+   "scan": 187,
+   "type": "iO",
+   "letters": "N",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

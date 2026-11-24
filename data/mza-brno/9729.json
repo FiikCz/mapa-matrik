@@ -25,10 +25,40 @@
  },
  "points": [
   {
+   "scan": 60,
+   "type": "N",
+   "year": 1878,
+   "place": "Stupava",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 150,
+   "type": "N",
+   "year": 1875,
+   "months": "I–IV",
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
    "scan": 152,
    "type": "N",
    "year": 1875,
    "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 152,
+   "type": "N",
+   "year": 1875,
+   "months": "X",
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 244,
+   "type": "iN",
+   "letters": "N",
+   "place": "Staré Hutě",
    "by": "FiikCz"
   }
  ],

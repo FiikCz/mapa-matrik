@@ -21,10 +21,56 @@
  },
  "points": [
   {
+   "scan": 230,
+   "type": "O",
+   "year": 1876,
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
    "scan": 231,
    "type": "O",
    "year": 1883,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 231,
+   "type": "O",
+   "year": 1883,
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 234,
+   "type": "O",
+   "year": 1884,
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 252,
+   "type": "O",
+   "year": 1895,
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 342,
+   "type": "iO",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 343,
+   "type": "iO",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 362,
+   "type": "iO",
+   "letters": "V",
    "by": "FiikCz"
   }
  ],

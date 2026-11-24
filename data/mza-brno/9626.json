@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9626",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9626",
+ "signature": "Osvětimany, kn. 11801, N O 1784–1826",
+ "parish": "Osvětimany",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Osvětimany",
+  "Stupava"
+ ],
+ "place_codes": {
+  "Osvětimany": 116351,
+  "Stupava": 158615
+ },
+ "records": {
+  "N": "1784–1826",
+  "O": "1784–1826"
+ },
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "65–69",
+   "type": "O",
+   "place": "Stupava"
+  },
+  {
+   "scans": "265–312",
+   "type": "N",
+   "place": "Stupava"
+  }
+ ],
+ "notes": [
+  "Rejstřík O na sn. 76–77, rejstřík N (Stupava) na sn. 313–318."
+ ],
+ "points": [
+  {
+   "scan": 290,
+   "type": "N",
+   "year": 1809,
+   "place": "Stupava",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 291,
+   "type": "N",
+   "year": 1810,
+   "place": "Stupava",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 292,
+   "type": "N",
+   "year": 1811,
+   "year_to": 1812,
+   "place": "Stupava",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

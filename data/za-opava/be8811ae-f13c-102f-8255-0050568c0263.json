@@ -27,10 +27,72 @@
    "by": "FiikCz"
   },
   {
+   "scan": 47,
+   "type": "N",
+   "year": 1861,
+   "months": "IX",
+   "place": "Francova Lhota",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 220,
+   "type": "N",
+   "year": 1856,
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 244,
+   "type": "N",
+   "year": 1861,
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 252,
+   "type": "N",
+   "year": 1863,
+   "months": "I–IV",
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 253,
+   "type": "N",
+   "year": 1863,
+   "months": "IV–VI",
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 255,
+   "type": "N",
+   "year": 1863,
+   "months": "XI–XII",
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 256,
+   "type": "N",
+   "year": 1863,
+   "year_to": 1864,
+   "months": "XII–II",
+   "place": "Valašská Senice",
+   "by": "FiikCz"
+  },
+  {
    "scan": 256,
    "type": "N",
    "year": 1864,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 262,
+   "type": "N",
+   "year": 1866,
+   "place": "Valašská Senice",
    "by": "FiikCz"
   }
  ],

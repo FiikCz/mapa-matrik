@@ -23,10 +23,23 @@
  },
  "points": [
   {
+   "scan": 7,
+   "type": "O",
+   "year": 1824,
+   "by": "FiikCz"
+  },
+  {
    "scan": 8,
    "type": "O",
    "year": 1825,
    "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1826,
+   "year_to": 1828,
    "by": "FiikCz"
   },
   {
@@ -37,10 +50,90 @@
    "by": "FiikCz"
   },
   {
+   "scan": 13,
+   "type": "O",
+   "year": 1832,
+   "year_to": 1834,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 26,
+   "type": "iO",
+   "letters": "B",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 27,
+   "type": "iO",
+   "letters": "D, Č, F",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 28,
+   "type": "iO",
+   "letters": "G, H, J",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 30,
+   "type": "iO",
+   "letters": "P",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 72,
+   "type": "N",
+   "year": 1832,
+   "by": "FiikCz"
+  },
+  {
    "scan": 91,
    "type": "N",
    "year": 1839,
    "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 93,
+   "type": "N",
+   "year": 1840,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1842,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1845,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 115,
+   "type": "iN",
+   "letters": "B–D",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 116,
+   "type": "iN",
+   "letters": "E–H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 125,
+   "type": "Z",
+   "year": 1812,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 166,
+   "type": "Z",
+   "year": 1843,
+   "year_to": 1844,
    "by": "FiikCz"
   }
  ],

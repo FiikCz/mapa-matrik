@@ -23,10 +23,31 @@
  },
  "points": [
   {
+   "scan": 31,
+   "type": "iO",
+   "year": 1885,
+   "year_to": 1901,
+   "letters": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 58,
+   "type": "N",
+   "year": 1890,
+   "months": "XI–XII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 77,
    "type": "N",
    "year": 1895,
    "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 111,
+   "type": "iN",
+   "letters": "V",
    "by": "FiikCz"
   }
  ],

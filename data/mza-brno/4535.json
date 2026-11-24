@@ -18,10 +18,48 @@
  },
  "points": [
   {
+   "scan": 170,
+   "type": "N",
+   "year": 1856,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 187,
+   "type": "N",
+   "year": 1861,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 202,
+   "type": "N",
+   "year": 1864,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 232,
+   "type": "N",
+   "year": 1871,
+   "year_to": 1872,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 233,
+   "type": "N",
+   "year": 1871,
+   "year_to": 1872,
+   "by": "FiikCz"
+  },
+  {
    "scan": 234,
    "type": "N",
    "year": 1872,
    "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 242,
+   "type": "N",
+   "year": 1874,
    "by": "FiikCz"
   }
  ],

@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9460",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9460",
+ "signature": "Buchlovice, kn. 11446, N 1784–1834",
+ "parish": "Buchlovice",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Buchlovice",
+  "Staré Hutě"
+ ],
+ "place_codes": {
+  "Buchlovice": 15628,
+  "Staré Hutě": 154407
+ },
+ "records": {
+  "N": "1784–1834"
+ },
+ "order": "by_village",
+ "sections": [
+  {
+   "scans": "326–367",
+   "type": "N",
+   "place": "Staré Hutě"
+  }
+ ],
+ "points": [
+  {
+   "scan": 337,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1807,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 338,
+   "type": "N",
+   "year": 1807,
+   "year_to": 1808,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 339,
+   "type": "N",
+   "year": 1809,
+   "year_to": 1810,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 341,
+   "type": "N",
+   "year": 1812,
+   "year_to": 1813,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 348,
+   "type": "N",
+   "year": 1819,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 359,
+   "type": "N",
+   "year": 1830,
+   "year_to": 1831,
+   "months": "VII–VI",
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 360,
+   "type": "N",
+   "year": 1831,
+   "year_to": 1832,
+   "months": "XI–II",
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 361,
+   "type": "N",
+   "year": 1832,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 363,
+   "type": "N",
+   "year": 1833,
+   "months": "I–IV",
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 364,
+   "type": "N",
+   "year": 1833,
+   "year_to": 1834,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

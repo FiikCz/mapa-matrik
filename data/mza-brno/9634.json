@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9634",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9634",
+ "signature": "Osvětimany, kn. 11818, iO 1827–1877",
+ "parish": "Osvětimany",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Osvětimany",
+  "Stupava"
+ ],
+ "place_codes": {
+  "Osvětimany": 116351,
+  "Stupava": 158615
+ },
+ "records": {
+  "iO": "1827–1877"
+ },
+ "sections": [
+  {
+   "scans": "55–67",
+   "type": "iO",
+   "place": "Stupava"
+  }
+ ],
+ "points": [
+  {
+   "scan": 62,
+   "type": "iO",
+   "letters": "N, P",
+   "place": "Stupava",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

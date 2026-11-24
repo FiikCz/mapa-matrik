@@ -35,6 +35,18 @@
  },
  "points": [
   {
+   "scan": 31,
+   "type": "Z",
+   "year": 1876,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "Z",
+   "year": 1879,
+   "by": "FiikCz"
+  },
+  {
    "scan": 63,
    "type": "Z",
    "year": 1883,
@@ -42,10 +54,53 @@
    "by": "FiikCz"
   },
   {
+   "scan": 65,
+   "type": "Z",
+   "year": 1884,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 78,
+   "type": "Z",
+   "year": 1888,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 81,
+   "type": "Z",
+   "year": 1889,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 82,
+   "type": "Z",
+   "year": 1889,
+   "by": "FiikCz"
+  },
+  {
    "scan": 84,
    "type": "Z",
    "year": 1890,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 85,
+   "type": "Z",
+   "year": 1890,
+   "year_to": 1891,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 191,
+   "type": "iZ",
+   "letters": "B",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 203,
+   "type": "iZ",
+   "letters": "S",
    "by": "FiikCz"
   }
  ],

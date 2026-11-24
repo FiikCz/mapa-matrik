@@ -27,8 +27,54 @@
   {
    "scan": 287,
    "type": "O",
+   "year": 1828,
+   "year_to": 1830,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 287,
+   "type": "O",
    "year": 1829,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 288,
+   "type": "O",
+   "year": 1831,
+   "year_to": 1832,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 291,
+   "type": "O",
+   "year": 1837,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 307,
+   "type": "O",
+   "year": 1859,
+   "year_to": 1860,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 308,
+   "type": "O",
+   "year": 1862,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 309,
+   "type": "O",
+   "year": 1863,
+   "year_to": 1864,
+   "place": "Staré Hutě",
    "by": "FiikCz"
   }
  ],

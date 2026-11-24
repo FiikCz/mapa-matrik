@@ -30,6 +30,48 @@
    "by": "FiikCz"
   },
   {
+   "scan": 4,
+   "type": "O",
+   "year": 1823,
+   "year_to": 1826,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1826,
+   "year_to": 1830,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1842,
+   "year_to": 1843,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1843,
+   "year_to": 1845,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 22,
+   "type": "N",
+   "year": 1822,
+   "year_to": 1823,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1826,
+   "year_to": 1827,
+   "by": "FiikCz"
+  },
+  {
    "scan": 26,
    "type": "N",
    "year": 1827,
@@ -41,6 +83,32 @@
    "type": "N",
    "year": 1828,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 28,
+   "type": "N",
+   "year": 1829,
+   "year_to": 1830,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 70,
+   "type": "Z",
+   "year": 1843,
+   "year_to": 1844,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 72,
+   "type": "iN",
+   "letters": "A, B",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 73,
+   "type": "iN",
+   "letters": "F, G, H, J, K",
    "by": "FiikCz"
   }
  ],

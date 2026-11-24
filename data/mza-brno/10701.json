@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10701",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10701",
+ "signature": "Zlín, kn. 4187, O 1933–1937",
+ "parish": "Zlín",
+ "district": "Zlín",
+ "places": [
+  "Zlín"
+ ],
+ "place_codes": {
+  "Zlín": 412244
+ },
+ "records": {
+  "O": "1933–1937"
+ },
+ "points": [
+  {
+   "scan": 304,
+   "type": "iO",
+   "letters": "N",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

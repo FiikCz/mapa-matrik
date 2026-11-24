@@ -39,10 +39,22 @@
  },
  "points": [
   {
+   "scan": 165,
+   "type": "N",
+   "year": 1891,
+   "by": "FiikCz"
+  },
+  {
    "scan": 175,
    "type": "N",
    "year": 1894,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 176,
+   "type": "N",
+   "year": 1894,
    "by": "FiikCz"
   }
  ],

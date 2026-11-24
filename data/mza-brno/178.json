@@ -18,6 +18,13 @@
  },
  "points": [
   {
+   "scan": 7,
+   "type": "O",
+   "year": 1862,
+   "year_to": 1865,
+   "by": "FiikCz"
+  },
+  {
    "scan": 8,
    "type": "O",
    "year": 1865,
@@ -27,8 +34,41 @@
   {
    "scan": 32,
    "type": "O",
+   "year": 1895,
+   "year_to": 1896,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "O",
    "year": 1896,
    "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 33,
+   "type": "O",
+   "year": 1896,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "O",
+   "year": 1898,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 39,
+   "type": "O",
+   "year": 1900,
+   "year_to": 1901,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "O",
+   "year": 1902,
+   "year_to": 1903,
    "by": "FiikCz"
   }
  ],

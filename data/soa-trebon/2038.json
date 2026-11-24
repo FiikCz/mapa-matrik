@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "2038",
+ "url": "https://digi.ceskearchivy.cz/2038",
+ "signature": "Čichtice, kniha 24, O 1784–1886",
+ "parish": "Bavorov",
+ "district": "Strakonice",
+ "places": [
+  "Čichtice"
+ ],
+ "place_codes": {
+  "Čichtice": 23779
+ },
+ "records": {
+  "O": "1784–1886"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1842,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 25,
+   "type": "O",
+   "year": 1846,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 26,
+   "type": "O",
+   "year": 1847,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}
