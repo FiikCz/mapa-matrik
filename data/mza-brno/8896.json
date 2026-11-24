@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "8896",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/8896",
+ "signature": "Kroměříž – sv. Mořic, kn. 7900, N 1855–1868",
+ "parish": "Kroměříž – sv. Mořic",
+ "district": "Kroměříž",
+ "places": [
+  "Kroměříž"
+ ],
+ "place_codes": {
+  "Kroměříž": 412422
+ },
+ "records": {
+  "N": "1855–1868"
+ },
+ "points": [
+  {
+   "scan": 291,
+   "type": "N",
+   "year": 1867,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 292,
+   "type": "N",
+   "year": 1867,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 293,
+   "type": "N",
+   "year": 1867,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 294,
+   "type": "N",
+   "year": 1867,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 295,
+   "type": "N",
+   "year": 1867,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

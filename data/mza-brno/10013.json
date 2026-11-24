@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10013",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10013",
+ "signature": "Zlín, kn. 4186, O 1898–1932",
+ "parish": "Zlín",
+ "district": "Zlín",
+ "places": [
+  "Zlín"
+ ],
+ "place_codes": {
+  "Zlín": 412244
+ },
+ "records": {
+  "O": "1898–1932"
+ },
+ "points": [
+  {
+   "scan": 520,
+   "type": "iO",
+   "letters": "D",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 532,
+   "type": "iO",
+   "letters": "P",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 541,
+   "type": "iO",
+   "letters": "S",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -18,9 +18,22 @@
  },
  "points": [
   {
+   "scan": 31,
+   "type": "N",
+   "year": 1872,
+   "months": "IX",
+   "by": "FiikCz"
+  },
+  {
    "scan": 32,
    "type": "N",
    "year": 1872,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1873,
    "by": "FiikCz"
   }
  ],

@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10015",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10015",
+ "signature": "Malenovice, kn. 4135, O 1926–1935",
+ "parish": "Malenovice",
+ "district": "Zlín",
+ "places": [
+  "Malenovice"
+ ],
+ "place_codes": {
+  "Malenovice": 412236
+ },
+ "records": {
+  "O": "1926–1935"
+ },
+ "points": [
+  {
+   "scan": 98,
+   "type": "iO",
+   "year": 1928,
+   "year_to": 1935,
+   "letters": "N",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

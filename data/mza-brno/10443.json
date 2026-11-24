@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10443",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10443",
+ "signature": "Loděnice, opis 83, O 1790–1853",
+ "parish": "Loděnice",
+ "district": "Brno-venkov",
+ "places": [
+  "Loděnice",
+  "Šumice"
+ ],
+ "place_codes": {
+  "Loděnice": 86347,
+  "Šumice": 164241
+ },
+ "records": {
+  "O": "1790–1853"
+ },
+ "order": "by_village",
+ "aliases": {
+  "Loděnice": [
+   "Lodenitz"
+  ],
+  "Šumice": [
+   "Schömitz"
+  ]
+ },
+ "notes": [
+  "Opis: roční výtahy, oddíly po obcích."
+ ],
+ "points": [
+  {
+   "scan": 105,
+   "type": "O",
+   "year": 1838,
+   "place": "Loděnice",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1840,
+   "place": "Loděnice",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

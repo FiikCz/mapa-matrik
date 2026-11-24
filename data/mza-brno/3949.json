@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3949",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3949",
+ "signature": "Malenovice, kn. 4122, N 1874–1903",
+ "parish": "Malenovice",
+ "district": "Zlín",
+ "places": [
+  "Malenovice"
+ ],
+ "place_codes": {
+  "Malenovice": 412236
+ },
+ "records": {
+  "N": "1874–1903"
+ },
+ "points": [
+  {
+   "scan": 240,
+   "type": "N",
+   "year": 1900,
+   "months": "I–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 300,
+   "type": "iN",
+   "letters": "P",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

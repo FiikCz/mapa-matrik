@@ -19,10 +19,86 @@
  },
  "points": [
   {
+   "scan": 8,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1813,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1818,
+   "by": "FiikCz"
+  },
+  {
    "scan": 10,
    "type": "O",
    "year": 1817,
    "months": "II–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1819,
+   "year_to": 1820,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 16,
+   "type": "O",
+   "year": 1830,
+   "year_to": 1831,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 29,
+   "type": "O",
+   "year": 1848,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 87,
+   "type": "iO",
+   "letters": "B",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 89,
+   "type": "iO",
+   "letters": "D",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 90,
+   "type": "iO",
+   "letters": "F",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 98,
+   "type": "iO",
+   "letters": "N",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 102,
+   "type": "iO",
+   "letters": "S",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 103,
+   "type": "iO",
+   "letters": "S",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 104,
+   "type": "iO",
+   "letters": "T",
    "by": "FiikCz"
   }
  ],

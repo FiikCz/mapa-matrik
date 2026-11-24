@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8aa2d4-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8aa2d4-f13c-102f-8255-0050568c0263",
+ "signature": "ČV VI 8",
+ "parish": "Liptál (evang.)",
+ "district": "Vsetín",
+ "places": [
+  "Liptál",
+  "Lhota u Vsetína",
+  "Seninka"
+ ],
+ "place_codes": {
+  "Liptál": 84760,
+  "Lhota u Vsetína": 81248,
+  "Seninka": 147486
+ },
+ "records": {
+  "O": "1846–1875"
+ },
+ "scans": 84,
+ "order": "by_village",
+ "notes": [
+  "Oddíly po obcích, bez rejstříku."
+ ],
+ "points": [
+  {
+   "scan": 2,
+   "type": "O",
+   "year": 1847,
+   "place": "Liptál",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 80,
+   "type": "O",
+   "year": 1870,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

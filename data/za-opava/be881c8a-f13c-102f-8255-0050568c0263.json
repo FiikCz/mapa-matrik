@@ -27,10 +27,45 @@
    "by": "FiikCz"
   },
   {
+   "scan": 2,
+   "type": "O",
+   "year": 1846,
+   "year_to": 1847,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 5,
+   "type": "O",
+   "year": 1858,
+   "year_to": 1859,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1847,
+   "year_to": 1848,
+   "by": "FiikCz"
+  },
+  {
    "scan": 14,
    "type": "N",
    "year": 1848,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1849,
+   "year_to": 1850,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1852,
+   "year_to": 1853,
    "by": "FiikCz"
   }
  ],

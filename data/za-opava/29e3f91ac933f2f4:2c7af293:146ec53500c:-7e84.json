@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7e84",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7e84",
+ "signature": "VK IV 42",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Pulčín"
+ ],
+ "place_codes": {
+  "Pulčín": 136786
+ },
+ "records": {
+  "O": "1902–1949",
+  "iO": "1902–1949"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "iO",
+   "letters": "H, Ch",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

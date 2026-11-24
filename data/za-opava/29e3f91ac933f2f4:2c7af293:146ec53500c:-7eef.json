@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7eef",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eef",
+ "signature": "V VIII 10",
+ "parish": "Pozděchov",
+ "district": "Vsetín",
+ "places": [
+  "Pozděchov"
+ ],
+ "place_codes": {
+  "Pozděchov": 126853
+ },
+ "records": {
+  "O": "1906–1949",
+  "iO": "1906–1949"
+ },
+ "points": [
+  {
+   "scan": 78,
+   "type": "iO",
+   "letters": "M, N",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 79,
+   "type": "iO",
+   "letters": "O, P",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

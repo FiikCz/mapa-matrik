@@ -34,8 +34,30 @@
   {
    "scan": 95,
    "type": "Z",
+   "year": 1884,
+   "year_to": 1885,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
    "year": 1885,
    "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 100,
+   "type": "Z",
+   "year": 1892,
+   "place": "Staré Hutě",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 164,
+   "type": "iZ",
+   "letters": "N",
+   "place": "Staré Hutě",
    "by": "FiikCz"
   }
  ],

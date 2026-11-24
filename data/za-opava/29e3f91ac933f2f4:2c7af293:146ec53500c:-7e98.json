@@ -21,6 +21,13 @@
  },
  "points": [
   {
+   "scan": 24,
+   "type": "N",
+   "year": 1888,
+   "months": "VIII–X",
+   "by": "FiikCz"
+  },
+  {
    "scan": 25,
    "type": "N",
    "year": 1888,
@@ -28,10 +35,32 @@
    "by": "FiikCz"
   },
   {
+   "scan": 35,
+   "type": "N",
+   "year": 1890,
+   "by": "FiikCz"
+  },
+  {
    "scan": 230,
    "type": "N",
    "year": 1911,
    "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 462,
+   "type": "iN",
+   "year": 1885,
+   "year_to": 1899,
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 463,
+   "type": "iN",
+   "year": 1900,
+   "year_to": 1915,
+   "letters": "H",
    "by": "FiikCz"
   }
  ],

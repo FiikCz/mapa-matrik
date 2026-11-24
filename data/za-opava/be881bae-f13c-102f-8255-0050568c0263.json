@@ -27,8 +27,51 @@
   {
    "scan": 16,
    "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 16,
+   "type": "N",
    "year": 1800,
    "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 17,
+   "type": "N",
+   "year": 1800,
+   "year_to": 1801,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1802,
+   "year_to": 1803,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 19,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1805,
+   "months": "X–VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1807,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1799,
    "by": "FiikCz"
   },
   {
@@ -36,6 +79,37 @@
    "type": "O",
    "year": 1799,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 37,
+   "type": "O",
+   "year": 1800,
+   "year_to": 1805,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 40,
+   "type": "iO",
+   "letters": "A, B",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "iO",
+   "letters": "L, U, W",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 61,
+   "type": "iN",
+   "letters": "H, Ch",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 63,
+   "type": "iN",
+   "letters": "N",
    "by": "FiikCz"
   }
  ],

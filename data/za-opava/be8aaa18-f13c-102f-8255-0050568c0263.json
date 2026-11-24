@@ -35,10 +35,28 @@
  },
  "points": [
   {
+   "scan": 41,
+   "type": "O",
+   "year": 1878,
+   "by": "FiikCz"
+  },
+  {
    "scan": 50,
    "type": "O",
    "year": 1881,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1881,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 153,
+   "type": "iO",
+   "letters": "S",
    "by": "FiikCz"
   }
  ],

@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8aa022-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8aa022-f13c-102f-8255-0050568c0263",
+ "signature": "ČV VI 3",
+ "parish": "Liptál (evang.)",
+ "district": "Vsetín",
+ "places": [
+  "Liptál",
+  "Lhota u Vsetína",
+  "Seninka"
+ ],
+ "place_codes": {
+  "Liptál": 84760,
+  "Lhota u Vsetína": 81248,
+  "Seninka": 147486
+ },
+ "records": {
+  "N": "1814–1858"
+ },
+ "scans": 178,
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 20,
+   "type": "N",
+   "year": 1822,
+   "place": "Liptál",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1833,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 60,
+   "type": "N",
+   "year": 1842,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 80,
+   "type": "N",
+   "year": 1851,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 120,
+   "type": "N",
+   "year": 1836,
+   "year_to": 1837,
+   "place": "Lhota",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1835,
+   "place": "Seninka",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

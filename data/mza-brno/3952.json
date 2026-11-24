@@ -18,10 +18,34 @@
  },
  "points": [
   {
+   "scan": 158,
+   "type": "N",
+   "year": 1879,
+   "by": "FiikCz"
+  },
+  {
    "scan": 161,
    "type": "N",
    "year": 1880,
    "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 164,
+   "type": "N",
+   "year": 1880,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 172,
+   "type": "N",
+   "year": 1882,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 195,
+   "type": "iN",
+   "letters": "M",
    "by": "FiikCz"
   }
  ],

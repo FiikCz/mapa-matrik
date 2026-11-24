@@ -18,10 +18,22 @@
  },
  "points": [
   {
+   "scan": 12,
+   "type": "O",
+   "year": 1895,
+   "by": "FiikCz"
+  },
+  {
    "scan": 22,
    "type": "O",
    "year": 1899,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 159,
+   "type": "iO",
+   "letters": "P",
    "by": "FiikCz"
   }
  ],

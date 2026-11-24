@@ -20,8 +20,41 @@
   {
    "scan": 4,
    "type": "N",
+   "year": 1830,
+   "year_to": 1831,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 4,
+   "type": "N",
    "year": 1831,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 5,
+   "type": "N",
+   "year": 1832,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "N",
+   "year": 1836,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1851,
+   "year_to": 1852,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1851,
+   "year_to": 1852,
    "by": "FiikCz"
   },
   {
@@ -29,6 +62,31 @@
    "type": "N",
    "year": 1857,
    "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1857,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 55,
+   "type": "N",
+   "year": 1861,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1876,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1876,
+   "year_to": 1877,
    "by": "FiikCz"
   },
   {

@@ -41,10 +41,51 @@
    "by": "FiikCz"
   },
   {
+   "scan": 16,
+   "type": "N",
+   "year": 1789,
+   "year_to": 1790,
+   "by": "FiikCz"
+  },
+  {
    "scan": 26,
    "type": "N",
    "year": 1797,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1799,
+   "year_to": 1800,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1801,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1802,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1803,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1804,
+   "months": "XII–VIII",
    "by": "FiikCz"
   },
   {
@@ -55,10 +96,76 @@
    "by": "FiikCz"
   },
   {
+   "scan": 44,
+   "type": "N",
+   "year": 1805,
+   "months": "III–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1805,
+   "year_to": 1806,
+   "months": "XII–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1806,
+   "year_to": 1807,
+   "by": "FiikCz"
+  },
+  {
    "scan": 47,
    "type": "N",
    "year": 1807,
    "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 48,
+   "type": "N",
+   "year": 1807,
+   "year_to": 1808,
+   "months": "X–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "letters": "B",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 58,
+   "type": "iN",
+   "letters": "D",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 59,
+   "type": "iN",
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 60,
+   "type": "iN",
+   "letters": "H, J",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 65,
+   "type": "iN",
+   "letters": "P",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 70,
+   "type": "iN",
+   "letters": "W",
    "by": "FiikCz"
   }
  ],

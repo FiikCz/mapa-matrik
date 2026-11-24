@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8815dc-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8815dc-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 3",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Francova Lhota",
+  "Horní Lideč",
+  "Lidečko",
+  "Lužná",
+  "Pulčín",
+  "Střelná",
+  "Valašská Senice"
+ ],
+ "place_codes": {
+  "Francova Lhota": 34584,
+  "Horní Lideč": 43354,
+  "Lidečko": 83674,
+  "Lužná": 89419,
+  "Pulčín": 136786,
+  "Střelná": 157473,
+  "Valašská Senice": 176290
+ },
+ "records": {
+  "O": "1709–1779"
+ },
+ "points": [
+  {
+   "scan": 94,
+   "type": "O",
+   "year": 1762,
+   "year_to": 1763,
+   "months": "XI–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 95,
+   "type": "O",
+   "year": 1763,
+   "months": "II–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 96,
+   "type": "O",
+   "year": 1763,
+   "year_to": 1764,
+   "months": "XI–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 97,
+   "type": "O",
+   "year": 1764,
+   "months": "I–VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 98,
+   "type": "O",
+   "year": 1764,
+   "months": "VII–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 99,
+   "type": "O",
+   "year": 1764,
+   "year_to": 1765,
+   "months": "XI–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1765,
+   "months": "II–VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 101,
+   "type": "O",
+   "year": 1765,
+   "year_to": 1766,
+   "months": "X–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 102,
+   "type": "O",
+   "year": 1766,
+   "months": "V–X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 103,
+   "type": "O",
+   "year": 1766,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 104,
+   "type": "O",
+   "year": 1766,
+   "year_to": 1767,
+   "months": "XI–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 105,
+   "type": "O",
+   "year": 1767,
+   "months": "II–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 106,
+   "type": "O",
+   "year": 1767,
+   "months": "VI–X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 107,
+   "type": "O",
+   "year": 1767,
+   "year_to": 1768,
+   "months": "X–I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 108,
+   "type": "O",
+   "year": 1768,
+   "months": "I–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 109,
+   "type": "O",
+   "year": 1768,
+   "months": "VI–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 110,
+   "type": "O",
+   "year": 1768,
+   "year_to": 1769,
+   "months": "XI–I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 111,
+   "type": "O",
+   "year": 1769,
+   "months": "I–VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "year": 1769,
+   "months": "VII–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 113,
+   "type": "O",
+   "year": 1769,
+   "year_to": 1770,
+   "months": "XI–I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 120,
+   "type": "O",
+   "year": 1771,
+   "months": "II–V",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

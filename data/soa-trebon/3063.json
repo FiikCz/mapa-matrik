@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "archive": "soa-trebon",
+ "portal": "digi-ceskearchivy",
+ "portal_id": "3063",
+ "url": "https://digi.ceskearchivy.cz/3063",
+ "signature": "Čkyně, kniha 12, N 1852–1889",
+ "parish": "Čkyně",
+ "district": "Prachatice",
+ "places": [
+  "Čkyně",
+  "Horosedly"
+ ],
+ "place_codes": {
+  "Čkyně": 24210,
+  "Horosedly": 24244
+ },
+ "records": {
+  "N": "1852–1889"
+ },
+ "points": [
+  {
+   "scan": 95,
+   "type": "N",
+   "year": 1870,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 96,
+   "type": "N",
+   "year": 1870,
+   "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1870,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 98,
+   "type": "N",
+   "year": 1870,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 100,
+   "type": "N",
+   "year": 1870,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}
