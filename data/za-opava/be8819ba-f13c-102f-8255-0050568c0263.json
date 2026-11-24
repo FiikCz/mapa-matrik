@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8819ba-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8819ba-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 11",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Francova Lhota",
+  "Horní Lideč",
+  "Lidečko",
+  "Lužná",
+  "Pulčín",
+  "Střelná",
+  "Valašská Senice"
+ ],
+ "place_codes": {
+  "Francova Lhota": 34584,
+  "Horní Lideč": 43354,
+  "Lidečko": 83674,
+  "Lužná": 89419,
+  "Pulčín": 136786,
+  "Střelná": 157473,
+  "Valašská Senice": 176290
+ },
+ "records": {
+  "N": "1780–1810",
+  "O": "1780–1810",
+  "Z": "1780–1810",
+  "iN": "1780–1810",
+  "iO": "1780–1810",
+  "iZ": "1780–1810"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1789,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1797,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1803,
+   "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 47,
+   "type": "N",
+   "year": 1807,
+   "months": "X",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

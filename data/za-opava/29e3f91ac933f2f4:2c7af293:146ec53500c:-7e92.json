@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7e92",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7e92",
+ "signature": "VK IV 28",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Horní Lideč"
+ ],
+ "place_codes": {
+  "Horní Lideč": 43354
+ },
+ "records": {
+  "N": "1902–1921",
+  "iN": "1902–1921"
+ },
+ "points": [
+  {
+   "scan": 97,
+   "type": "N",
+   "year": 1921,
+   "months": "XII",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

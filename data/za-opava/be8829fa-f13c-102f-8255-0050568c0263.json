@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8829fa-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8829fa-f13c-102f-8255-0050568c0263",
+ "signature": "V VIII 6",
+ "parish": "Pozděchov",
+ "district": "Vsetín",
+ "places": [
+  "Pozděchov"
+ ],
+ "place_codes": {
+  "Pozděchov": 126853
+ },
+ "records": {
+  "O": "1799–1905",
+  "iO": "1799–1905"
+ },
+ "points": [
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1817,
+   "months": "II–V",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "Do 1849 zapisováni i evangelíci."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

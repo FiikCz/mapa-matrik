@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be881bae-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be881bae-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 15",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Lidečko",
+  "Pulčín"
+ ],
+ "place_codes": {
+  "Lidečko": 83674,
+  "Pulčín": 136786
+ },
+ "records": {
+  "N": "1785–1810",
+  "O": "1785–1810",
+  "Z": "1785–1810",
+  "iN": "1785–1810",
+  "iO": "1785–1810",
+  "iZ": "1785–1810"
+ },
+ "points": [
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1800,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 36,
+   "type": "O",
+   "year": 1799,
+   "months": "I",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "Pulčín N a Z 1787–1810."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

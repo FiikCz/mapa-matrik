@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be882158-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be882158-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 26",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Pulčín"
+ ],
+ "place_codes": {
+  "Pulčín": 136786
+ },
+ "records": {
+  "N": "1883–1901",
+  "O": "1883–1901",
+  "Z": "1883–1901",
+  "iN": "1883–1901",
+  "iO": "1883–1901",
+  "iZ": "1883–1901"
+ },
+ "points": [
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1887,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1890,
+   "months": "XI",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

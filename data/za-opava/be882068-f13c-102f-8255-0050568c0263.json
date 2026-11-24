@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be882068-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be882068-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 24",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Lidečko"
+ ],
+ "place_codes": {
+  "Lidečko": 83674
+ },
+ "records": {
+  "N": "1883–1901",
+  "O": "1883–1901",
+  "Z": "1883–1901",
+  "iN": "1883–1901",
+  "iO": "1883–1901",
+  "iZ": "1883–1901"
+ },
+ "points": [
+  {
+   "scan": 2,
+   "type": "O",
+   "year": 1883,
+   "months": "IX",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 11,
+   "type": "O",
+   "year": 1887,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 112,
+   "type": "N",
+   "year": 1889,
+   "months": "XI",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

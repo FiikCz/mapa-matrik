@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4421",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4421",
+ "signature": "Otrokovice, kn. 4499, N 1868–1905",
+ "parish": "Otrokovice",
+ "district": "Zlín",
+ "places": [
+  "Otrokovice"
+ ],
+ "place_codes": {
+  "Otrokovice": 412180
+ },
+ "records": {
+  "N": "1868–1905"
+ },
+ "points": [
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1872,
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

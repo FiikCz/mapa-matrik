@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be8820e0-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be8820e0-f13c-102f-8255-0050568c0263",
+ "signature": "VK IV 25",
+ "parish": "Lidečko",
+ "district": "Vsetín",
+ "places": [
+  "Horní Lideč"
+ ],
+ "place_codes": {
+  "Horní Lideč": 43354
+ },
+ "records": {
+  "N": "1883–1901",
+  "O": "1883–1901",
+  "Z": "1883–1901",
+  "iN": "1883–1901",
+  "iO": "1883–1901",
+  "iZ": "1883–1901"
+ },
+ "points": [
+  {
+   "scan": 77,
+   "type": "N",
+   "year": 1895,
+   "months": "IV",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7e98",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7e98",
+ "signature": "VK III 10",
+ "parish": "Valašská Senice",
+ "district": "Vsetín",
+ "places": [
+  "Francova Lhota",
+  "Valašská Senice"
+ ],
+ "place_codes": {
+  "Francova Lhota": 34584,
+  "Valašská Senice": 176290
+ },
+ "records": {
+  "N": "1885–1915",
+  "iN": "1885–1915"
+ },
+ "points": [
+  {
+   "scan": 25,
+   "type": "N",
+   "year": 1888,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 230,
+   "type": "N",
+   "year": 1911,
+   "months": "X",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

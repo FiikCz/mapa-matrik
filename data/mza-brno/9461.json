@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9461",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9461",
+ "signature": "Buchlovice, kn. 11447, N 1835–1853",
+ "parish": "Buchlovice",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Buchlovice",
+  "Stříbrnice",
+  "Břestek",
+  "Staré Hutě"
+ ],
+ "place_codes": {
+  "Buchlovice": 15628,
+  "Stříbrnice": 157732,
+  "Břestek": 13803,
+  "Staré Hutě": 154407
+ },
+ "records": {
+  "N": "1835–1853"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 315,
+   "type": "N",
+   "year": 1836,
+   "months": "VIII",
+   "by": "FiikCz"
+  }
+ ],
+ "sections": [
+  {
+   "scans": "2–173",
+   "type": "N",
+   "place": "Buchlovice"
+  },
+  {
+   "scans": "174–245",
+   "type": "N",
+   "place": "Stříbrnice"
+  },
+  {
+   "scans": "246–312",
+   "type": "N",
+   "place": "Břestek"
+  },
+  {
+   "scans": "313–352",
+   "type": "N",
+   "place": "Staré Hutě"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

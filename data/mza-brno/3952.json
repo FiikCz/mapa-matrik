@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "3952",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/3952",
+ "signature": "Tečovice, kn. 4129, N 1784–1884",
+ "parish": "Malenovice",
+ "district": "Zlín",
+ "places": [
+  "Tečovice"
+ ],
+ "place_codes": {
+  "Tečovice": 36021
+ },
+ "records": {
+  "N": "1784–1884"
+ },
+ "points": [
+  {
+   "scan": 161,
+   "type": "N",
+   "year": 1880,
+   "months": "III",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "S rejstříkem."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

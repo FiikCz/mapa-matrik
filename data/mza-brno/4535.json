@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "4535",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/4535",
+ "signature": "Provodov, kn. 4568, N 1785–1876",
+ "parish": "Provodov",
+ "district": "Zlín",
+ "places": [
+  "Provodov"
+ ],
+ "place_codes": {
+  "Provodov": 133931
+ },
+ "records": {
+  "N": "1785–1876"
+ },
+ "points": [
+  {
+   "scan": 234,
+   "type": "N",
+   "year": 1872,
+   "months": "V",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "S rejstříkem."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "10088",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/10088",
+ "signature": "Tečovice, kn. 4143, O 1889–1936",
+ "parish": "Malenovice",
+ "district": "Zlín",
+ "places": [
+  "Tečovice"
+ ],
+ "place_codes": {
+  "Tečovice": 36021
+ },
+ "records": {
+  "O": "1889–1936"
+ },
+ "points": [
+  {
+   "scan": 22,
+   "type": "O",
+   "year": 1899,
+   "months": "XI",
+   "by": "FiikCz"
+  }
+ ],
+ "notes": [
+  "S rejstříkem."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

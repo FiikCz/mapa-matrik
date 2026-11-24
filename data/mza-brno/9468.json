@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "9468",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/9468",
+ "signature": "Buchlovice, kn. 11458, O 1786–1867",
+ "parish": "Buchlovice",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Buchlovice",
+  "Stříbrnice",
+  "Břestek",
+  "Staré Hutě"
+ ],
+ "place_codes": {
+  "Buchlovice": 15628,
+  "Stříbrnice": 157732,
+  "Břestek": 13803,
+  "Staré Hutě": 154407
+ },
+ "records": {
+  "O": "1786–1867"
+ },
+ "order": "by_village",
+ "points": [
+  {
+   "scan": 287,
+   "type": "O",
+   "year": 1829,
+   "months": "XI",
+   "by": "FiikCz"
+  }
+ ],
+ "sections": [
+  {
+   "scans": "2–150",
+   "type": "O",
+   "place": "Buchlovice"
+  },
+  {
+   "scans": "151–212",
+   "type": "O",
+   "place": "Stříbrnice"
+  },
+  {
+   "scans": "213–273",
+   "type": "O",
+   "place": "Břestek"
+  },
+  {
+   "scans": "274–309",
+   "type": "O",
+   "place": "Staré Hutě"
+  }
+ ],
+ "notes": [
+  "Oddíl Staré Hutě jen do 1864."
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

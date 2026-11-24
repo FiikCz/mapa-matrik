@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "archive": "mza-brno",
+ "portal": "actapublica",
+ "portal_id": "818",
+ "url": "https://www.mza.cz/actapublica/matrika/detail/818",
+ "signature": "Stupava, kn. 12031, Z 1864–1926",
+ "parish": "Stupava",
+ "district": "Uherské Hradiště",
+ "places": [
+  "Stupava",
+  "Staré Hutě",
+  "Koryčanské Hutě"
+ ],
+ "place_codes": {
+  "Stupava": 158615,
+  "Staré Hutě": 154407
+ },
+ "records": {
+  "Z": "1864–1926"
+ },
+ "order": "by_village",
+ "index": {
+  "scans": "149–175"
+ },
+ "points": [
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1884,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 95,
+   "type": "Z",
+   "year": 1885,
+   "months": "III",
+   "by": "FiikCz"
+  }
+ ],
+ "sections": [
+  {
+   "scans": "1–83",
+   "type": "Z",
+   "place": "Stupava"
+  },
+  {
+   "scans": "84–133",
+   "type": "Z",
+   "place": "Staré Hutě"
+  },
+  {
+   "scans": "134–148",
+   "type": "Z",
+   "place": "Koryčanské Hutě"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}
