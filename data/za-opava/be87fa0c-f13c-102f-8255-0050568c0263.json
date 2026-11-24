@@ -1,0 +1,168 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be87fa0c-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be87fa0c-f13c-102f-8255-0050568c0263",
+ "signature": "Vs VI 4",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "iN": "1791–1834"
+ },
+ "scans": 59,
+ "points": [
+  {
+   "scan": 12,
+   "type": "iN",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 13,
+   "type": "iN",
+   "letters": "H",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 18,
+   "type": "iN",
+   "year": 1796,
+   "year_to": 1804,
+   "letters": "K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 19,
+   "type": "iN",
+   "letters": "K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 20,
+   "type": "iN",
+   "letters": "K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 25,
+   "type": "iN",
+   "year": 1796,
+   "year_to": 1801,
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 31,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 33,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 34,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "iN",
+   "year": 1791,
+   "year_to": 1795,
+   "letters": "P",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 36,
+   "type": "iN",
+   "letters": "S, P",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 37,
+   "type": "iN",
+   "letters": "S",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 41,
+   "type": "iN",
+   "year": 1791,
+   "year_to": 1797,
+   "letters": "Š",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 42,
+   "type": "iN",
+   "letters": "Š",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 43,
+   "type": "iN",
+   "letters": "Š",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 49,
+   "type": "iN",
+   "letters": "W",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 50,
+   "type": "iN",
+   "letters": "W",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 51,
+   "type": "iN",
+   "letters": "W",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 55,
+   "type": "iN",
+   "letters": "Z",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 56,
+   "type": "iN",
+   "letters": "Z",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 57,
+   "type": "iN",
+   "letters": "Z",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

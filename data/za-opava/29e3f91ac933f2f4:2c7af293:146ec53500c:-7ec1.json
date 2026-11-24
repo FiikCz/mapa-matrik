@@ -33,6 +33,13 @@
    "by": "FiikCz"
   },
   {
+   "scan": 166,
+   "type": "N",
+   "year": 1906,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 324,
    "type": "N",
    "year": 1910,
@@ -44,6 +51,30 @@
    "type": "N",
    "year": 1911,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 414,
+   "type": "iN",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 416,
+   "type": "iN",
+   "letters": "N",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 424,
+   "type": "iN",
+   "letters": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 425,
+   "type": "iN",
+   "letters": "V",
    "by": "FiikCz"
   }
  ],

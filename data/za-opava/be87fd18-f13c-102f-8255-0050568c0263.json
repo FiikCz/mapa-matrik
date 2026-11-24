@@ -34,10 +34,40 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 25,
+   "type": "N",
+   "year": 1884,
+   "months": "XI",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
    "scan": 26,
    "type": "N",
    "year": 1885,
    "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 26,
+   "type": "N",
+   "year": 1885,
+   "months": "IV",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1889,
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1892,
+   "place": "paseky N. Hrozenkova",
    "by": "FiikCz"
   }
  ],

@@ -19,7 +19,28 @@
  },
  "points": [
   {
+   "scan": 1,
+   "type": "N",
+   "year": 1865,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 2,
+   "type": "N",
+   "year": 1865,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
    "scan": 15,
+   "type": "N",
+   "year": 1865,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 16,
    "type": "N",
    "year": 1865,
    "months": "XII",
@@ -84,6 +105,27 @@
    "type": "N",
    "year": 1870,
    "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 86,
+   "type": "N",
+   "year": 1870,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 87,
+   "type": "N",
+   "year": 1870,
+   "months": "VI–VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 91,
+   "type": "N",
+   "year": 1870,
+   "months": "VIII–X",
    "by": "FiikCz"
   },
   {

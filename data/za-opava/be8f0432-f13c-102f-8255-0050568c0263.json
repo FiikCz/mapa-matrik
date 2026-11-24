@@ -19,6 +19,12 @@
  },
  "points": [
   {
+   "scan": 37,
+   "type": "Z",
+   "year": 1900,
+   "by": "FiikCz"
+  },
+  {
    "scan": 167,
    "type": "Z",
    "year": 1918,
@@ -57,15 +63,31 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 211,
+   "type": "iZ",
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
    "scan": 214,
    "type": "iZ",
    "letters": "J",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 222,
+   "type": "iZ",
+   "letters": "Š",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

@@ -26,6 +26,12 @@
    "by": "FiikCz"
   },
   {
+   "scan": 100,
+   "type": "Z",
+   "year": 1944,
+   "by": "FiikCz"
+  },
+  {
    "scan": 101,
    "type": "Z",
    "year": 1944,
@@ -33,10 +39,66 @@
    "by": "FiikCz"
   },
   {
+   "scan": 105,
+   "type": "Z",
+   "year": 1944,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 107,
+   "type": "Z",
+   "year": 1944,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 108,
    "type": "Z",
    "year": 1945,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 151,
+   "type": "iZ",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 152,
+   "type": "iZ",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 153,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 154,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 157,
+   "type": "iZ",
+   "letters": "T, Š",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 158,
+   "type": "iZ",
+   "letters": "T",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 160,
+   "type": "iZ",
+   "letters": "V",
    "by": "FiikCz"
   }
  ],

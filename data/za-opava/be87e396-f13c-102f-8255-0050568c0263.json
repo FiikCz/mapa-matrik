@@ -32,6 +32,21 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 27,
+   "type": "Z",
+   "year": 1868,
+   "months": "V–IX",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 28,
+   "type": "Z",
+   "year": 1868,
+   "year_to": 1869,
+   "months": "X–I",
+   "by": "FiikCz"
+  },
+  {
    "scan": 31,
    "type": "Z",
    "year": 1869,
@@ -44,6 +59,13 @@
    "year": 1870,
    "months": "III–IV",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 34,
+   "type": "Z",
+   "year": 1870,
+   "year_to": 1871,
+   "by": "FiikCz"
   },
   {
    "scan": 34,
@@ -83,10 +105,22 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 42,
+   "type": "Z",
+   "year": 1873,
+   "by": "FiikCz"
+  },
+  {
    "scan": 46,
    "type": "Z",
    "year": 1874,
    "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 48,
+   "type": "Z",
+   "year": 1874,
    "by": "FiikCz"
   },
   {
@@ -161,10 +195,28 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 142,
+   "type": "Z",
+   "year": 1888,
+   "by": "FiikCz"
+  },
+  {
    "scan": 185,
    "type": "Z",
    "year": 1894,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 192,
+   "type": "iZ",
+   "letters": "G",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 202,
+   "type": "iZ",
+   "letters": "Š",
    "by": "FiikCz"
   }
  ],

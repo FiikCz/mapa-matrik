@@ -31,6 +31,49 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 2,
+   "type": "O",
+   "year": 1790,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 4,
+   "type": "O",
+   "year": 1795,
+   "year_to": 1796,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 7,
+   "type": "O",
+   "year": 1801,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 8,
+   "type": "O",
+   "year": 1801,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 9,
+   "type": "O",
+   "year": 1803,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 10,
+   "type": "O",
+   "year": 1804,
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 18,
    "type": "O",
    "year": 1810,
@@ -112,6 +155,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 34,
+   "type": "O",
+   "year": 1789,
+   "year_to": 1790,
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 53,
    "type": "O",
    "year": 1817,
@@ -154,17 +205,17 @@
   },
   {
    "scan": 58,
-   "type": "iO",
-   "place": "Hovězí",
-   "note": "rejstřík oddílu Hovězí od 1798",
-   "by": "strbackatomas"
-  },
-  {
-   "scan": 58,
    "type": "O",
    "year": 1798,
    "place": "Hovězí",
    "note": "začátek oddílu Hovězí",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 58,
+   "type": "iO",
+   "place": "Hovězí",
+   "note": "rejstřík oddílu Hovězí od 1798",
    "by": "strbackatomas"
   },
   {
@@ -176,17 +227,17 @@
   },
   {
    "scan": 60,
-   "type": "iO",
-   "place": "Hovězí",
-   "note": "rejstřík oddílu Hovězí od 1798 (levá strana)",
-   "by": "strbackatomas"
-  },
-  {
-   "scan": 60,
    "type": "O",
    "year": 1789,
    "place": "Nový Hrozenkov",
    "note": "začátek oddílu Nový Hrozenkov (pravá strana)",
+   "by": "strbackatomas"
+  },
+  {
+   "scan": 60,
+   "type": "iO",
+   "place": "Hovězí",
+   "note": "rejstřík oddílu Hovězí od 1798 (levá strana)",
    "by": "strbackatomas"
   },
   {
@@ -205,6 +256,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 75,
+   "type": "iO",
+   "letters": "G",
+   "place": "Halenkov",
+   "by": "FiikCz"
+  },
+  {
    "scan": 76,
    "type": "iO",
    "letters": "H, J",
@@ -217,11 +275,22 @@
    "letters": "K, L",
    "note": "jiný rejstřík ženichů",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 79,
+   "type": "iO",
+   "letters": "S",
+   "place": "Halenkov",
+   "by": "FiikCz"
   }
  ],
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

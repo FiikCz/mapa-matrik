@@ -26,10 +26,24 @@
    "by": "FiikCz"
   },
   {
+   "scan": 17,
+   "type": "O",
+   "year": 1887,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
    "scan": 19,
    "type": "O",
    "year": 1887,
    "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 20,
+   "type": "O",
+   "year": 1887,
+   "months": "VII–X",
    "by": "FiikCz"
   },
   {
@@ -40,11 +54,25 @@
    "by": "FiikCz"
   },
   {
+   "scan": 45,
+   "type": "O",
+   "year": 1891,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 50,
    "type": "O",
    "year": 1892,
    "months": "II",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1892,
+   "months": "II",
+   "by": "FiikCz"
   },
   {
    "scan": 66,
@@ -53,6 +81,13 @@
    "months": "XI",
    "page": "66",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 66,
+   "type": "O",
+   "year": 1893,
+   "months": "XI",
+   "by": "FiikCz"
   },
   {
    "scan": 72,
@@ -98,6 +133,39 @@
    "type": "O",
    "year": 1900,
    "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 136,
+   "type": "O",
+   "year": 1900,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 140,
+   "type": "O",
+   "year": 1901,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 149,
+   "type": "O",
+   "year": 1902,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 163,
+   "type": "iO",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 164,
+   "type": "iO",
+   "letters": "P",
    "by": "FiikCz"
   }
  ],

@@ -28,6 +28,14 @@
    "by": "FiikCz"
   },
   {
+   "scan": 20,
+   "type": "N",
+   "year": 1910,
+   "months": "II",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 41,
    "type": "N",
    "year": 1912,
@@ -40,6 +48,14 @@
    "type": "N",
    "year": 1912,
    "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1912,
+   "months": "X",
+   "place": "Hovězí",
    "by": "FiikCz"
   },
   {
@@ -58,6 +74,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 68,
+   "type": "N",
+   "year": 1915,
+   "months": "I–II",
+   "place": "Hovězí",
+   "by": "FiikCz"
+  },
+  {
    "scan": 69,
    "type": "N",
    "year": 1915,
@@ -70,6 +94,14 @@
    "year": 1915,
    "page": "list 69",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1915,
+   "months": "II",
+   "place": "Hovězí",
+   "by": "FiikCz"
   },
   {
    "scan": 70,
@@ -168,6 +200,13 @@
    "year": 1920,
    "note": "začátek roku",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 164,
+   "type": "iN",
+   "letters": "O",
+   "place": "Hovězí",
+   "by": "FiikCz"
   }
  ],
  "sources": [

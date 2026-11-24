@@ -162,6 +162,45 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 47,
+   "type": "O",
+   "year": 1810,
+   "months": "III–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 48,
+   "type": "O",
+   "year": 1811,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 49,
+   "type": "O",
+   "year": 1812,
+   "year_to": 1813,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 50,
+   "type": "O",
+   "year": 1814,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 51,
+   "type": "O",
+   "year": 1815,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 52,
+   "type": "O",
+   "year": 1816,
+   "year_to": 1817,
+   "by": "FiikCz"
+  },
+  {
    "scan": 53,
    "type": "O",
    "year": 1817,
@@ -169,10 +208,24 @@
    "by": "FiikCz"
   },
   {
+   "scan": 56,
+   "type": "O",
+   "year": 1819,
+   "year_to": 1820,
+   "by": "FiikCz"
+  },
+  {
    "scan": 57,
    "type": "O",
    "year": 1820,
    "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 58,
+   "type": "O",
+   "year": 1820,
+   "year_to": 1821,
    "by": "FiikCz"
   },
   {
@@ -190,6 +243,13 @@
    "by": "FiikCz"
   },
   {
+   "scan": 61,
+   "type": "O",
+   "year": 1823,
+   "year_to": 1824,
+   "by": "FiikCz"
+  },
+  {
    "scan": 62,
    "type": "O",
    "year": 1824,
@@ -199,11 +259,26 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 62,
+   "type": "O",
+   "year": 1824,
+   "year_to": 1825,
+   "by": "FiikCz"
+  },
+  {
    "scan": 63,
    "type": "O",
    "year": 1825,
    "year_to": 1826,
    "by": "strbackatomas"
+  },
+  {
+   "scan": 63,
+   "type": "O",
+   "year": 1825,
+   "year_to": 1826,
+   "months": "II–VI",
+   "by": "FiikCz"
   },
   {
    "scan": 64,
@@ -248,6 +323,14 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 67,
+   "type": "O",
+   "year": 1829,
+   "year_to": 1830,
+   "months": "VI–II",
+   "by": "FiikCz"
+  },
+  {
    "scan": 68,
    "type": "O",
    "year": 1830,
@@ -276,11 +359,25 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 71,
+   "type": "O",
+   "year": 1834,
+   "year_to": 1835,
+   "by": "FiikCz"
+  },
+  {
    "scan": 72,
    "type": "O",
    "year": 1835,
    "months": "V",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 72,
+   "type": "O",
+   "year": 1835,
+   "year_to": 1836,
+   "by": "FiikCz"
   },
   {
    "scan": 73,
@@ -291,12 +388,26 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 73,
+   "type": "O",
+   "year": 1836,
+   "months": "I–V",
+   "by": "FiikCz"
+  },
+  {
    "scan": 74,
    "type": "O",
    "year": 1836,
    "year_to": 1837,
    "months": "XI–I",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 74,
+   "type": "O",
+   "year": 1836,
+   "year_to": 1837,
+   "by": "FiikCz"
   },
   {
    "scan": 75,
@@ -318,6 +429,12 @@
    "year": 1837,
    "months": "IV–VII",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 77,
+   "type": "O",
+   "year": 1837,
+   "by": "FiikCz"
   },
   {
    "scan": 78,
@@ -343,6 +460,12 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 80,
+   "type": "O",
+   "year": 1838,
+   "by": "FiikCz"
+  },
+  {
    "scan": 81,
    "type": "O",
    "year": 1838,
@@ -359,12 +482,26 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 84,
+   "type": "O",
+   "year": 1839,
+   "months": "II–V",
+   "by": "FiikCz"
+  },
+  {
    "scan": 85,
    "type": "O",
    "year": 1839,
    "months": "X–XI",
    "page": "164–165",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 87,
+   "type": "O",
+   "year": 1840,
+   "months": "III",
+   "by": "FiikCz"
   },
   {
    "scan": 90,
@@ -380,6 +517,13 @@
    "months": "V–IX",
    "page": "194–195",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 100,
+   "type": "O",
+   "year": 1844,
+   "months": "VI",
+   "by": "FiikCz"
   },
   {
    "scan": 101,
@@ -400,6 +544,50 @@
    "type": "O",
    "year": 1847,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 116,
+   "type": "O",
+   "year": 1849,
+   "months": "I–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 117,
+   "type": "O",
+   "year": 1849,
+   "months": "I–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 122,
+   "type": "iO",
+   "letters": "H, J, K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 123,
+   "type": "iO",
+   "letters": "M, K, L, O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 124,
+   "type": "iO",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 125,
+   "type": "iO",
+   "letters": "Š, T, U, W",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 126,
+   "type": "iO",
+   "letters": "W, Z",
    "by": "FiikCz"
   },
   {

@@ -19,10 +19,25 @@
  },
  "points": [
   {
+   "scan": 32,
+   "type": "N",
+   "year": 1874,
+   "year_to": 1875,
+   "months": "XII–I",
+   "by": "FiikCz"
+  },
+  {
    "scan": 34,
    "type": "N",
    "year": 1875,
    "months": "I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 71,
+   "type": "N",
+   "year": 1876,
+   "months": "IX",
    "by": "FiikCz"
   },
   {
@@ -33,10 +48,38 @@
    "by": "FiikCz"
   },
   {
+   "scan": 84,
+   "type": "N",
+   "year": 1877,
+   "months": "V–VI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 180,
    "type": "N",
    "year": 1884,
    "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 197,
+   "type": "N",
+   "year": 1885,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 198,
+   "type": "N",
+   "year": 1885,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 200,
+   "type": "N",
+   "year": 1885,
+   "months": "VI–VII",
    "by": "FiikCz"
   },
   {
@@ -54,6 +97,27 @@
    "by": "FiikCz"
   },
   {
+   "scan": 225,
+   "type": "N",
+   "year": 1886,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 241,
+   "type": "N",
+   "year": 1887,
+   "months": "IX",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 246,
+   "type": "N",
+   "year": 1887,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 247,
    "type": "N",
    "year": 1887,
@@ -68,10 +132,49 @@
    "by": "FiikCz"
   },
   {
+   "scan": 302,
+   "type": "N",
+   "year": 1890,
+   "months": "IV",
+   "by": "FiikCz"
+  },
+  {
    "scan": 309,
    "type": "N",
    "year": 1890,
    "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 461,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 462,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 465,
+   "type": "iN",
+   "year": 1873,
+   "year_to": 1890,
+   "letters": "S",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 466,
+   "type": "iN",
+   "letters": "S, T",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 468,
+   "type": "iN",
+   "letters": "V",
    "by": "FiikCz"
   }
  ],

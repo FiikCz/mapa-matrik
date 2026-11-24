@@ -26,6 +26,12 @@
    "by": "FiikCz"
   },
   {
+   "scan": 32,
+   "type": "O",
+   "year": 1940,
+   "by": "FiikCz"
+  },
+  {
    "scan": 60,
    "type": "O",
    "year": 1942,
@@ -54,6 +60,42 @@
    "type": "O",
    "year": 1945,
    "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 135,
+   "type": "iO",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 136,
+   "type": "iO",
+   "letters": "N",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 137,
+   "type": "iO",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 140,
+   "type": "iO",
+   "letters": "S",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 141,
+   "type": "iO",
+   "letters": "T",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 142,
+   "type": "iO",
+   "letters": "T",
    "by": "FiikCz"
   }
  ],

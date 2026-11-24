@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "be880bb4-f13c-102f-8255-0050568c0263",
+ "url": "https://digi.archives.cz/da/permalink?xid=be880bb4-f13c-102f-8255-0050568c0263",
+ "signature": "Vs IX 10",
+ "parish": "Velké Karlovice",
+ "district": "Vsetín",
+ "places": [
+  "Velké Karlovice"
+ ],
+ "place_codes": {
+  "Velké Karlovice": 179019
+ },
+ "records": {
+  "iO": "1855–1893"
+ },
+ "scans": 187,
+ "points": [
+  {
+   "scan": 180,
+   "type": "iO",
+   "letters": "H/J/K",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 182,
+   "type": "iO",
+   "letters": "L/M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 183,
+   "type": "iO",
+   "letters": "M/N/O/P",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}

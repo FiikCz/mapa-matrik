@@ -19,10 +19,173 @@
  },
  "points": [
   {
+   "scan": 12,
+   "type": "N",
+   "year": 1786,
+   "months": "IV–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 13,
+   "type": "N",
+   "year": 1786,
+   "months": "V–VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 14,
+   "type": "N",
+   "year": 1786,
+   "months": "VIII–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 15,
+   "type": "N",
+   "year": 1786,
+   "year_to": 1787,
+   "months": "XI–I",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 16,
+   "type": "N",
+   "year": 1787,
+   "months": "I–II",
+   "by": "FiikCz"
+  },
+  {
    "scan": 17,
    "type": "N",
    "year": 1787,
    "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 18,
+   "type": "N",
+   "year": 1787,
+   "months": "III–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 32,
+   "type": "N",
+   "year": 1788,
+   "year_to": 1789,
+   "months": "XII–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 33,
+   "type": "N",
+   "year": 1789,
+   "months": "II–IV",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 34,
+   "type": "N",
+   "year": 1789,
+   "months": "IV–VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 35,
+   "type": "N",
+   "year": 1789,
+   "months": "VI–VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 36,
+   "type": "N",
+   "year": 1789,
+   "months": "VIII–X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 37,
+   "type": "N",
+   "year": 1789,
+   "months": "X–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 38,
+   "type": "N",
+   "year": 1789,
+   "months": "XI–XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 39,
+   "type": "N",
+   "year": 1790,
+   "months": "I–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1790,
+   "months": "III",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 41,
+   "type": "N",
+   "year": 1790,
+   "months": "IV–V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 42,
+   "type": "N",
+   "year": 1790,
+   "months": "V–VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 43,
+   "type": "N",
+   "year": 1790,
+   "months": "VII–VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 44,
+   "type": "N",
+   "year": 1790,
+   "months": "VIII–X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 45,
+   "type": "N",
+   "year": 1790,
+   "months": "X–XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 46,
+   "type": "N",
+   "year": 1790,
+   "months": "XI–XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 83,
+   "type": "N",
+   "year": 1796,
+   "months": "V–VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 92,
+   "type": "N",
+   "year": 1797,
+   "months": "XII",
    "by": "FiikCz"
   },
   {
@@ -33,10 +196,43 @@
    "by": "FiikCz"
   },
   {
+   "scan": 96,
+   "type": "N",
+   "year": 1798,
+   "months": "IX–XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 102,
    "type": "N",
    "year": 1799,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 103,
+   "type": "N",
+   "year": 1800,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 104,
+   "type": "N",
+   "year": 1800,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 106,
+   "type": "N",
+   "year": 1800,
+   "months": "XI–XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 108,
+   "type": "N",
+   "year": 1801,
+   "months": "V–IX",
    "by": "FiikCz"
   },
   {
@@ -46,6 +242,20 @@
    "months": "IX–XII",
    "page": "fol. 214–215",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 110,
+   "type": "N",
+   "year": 1801,
+   "year_to": 1802,
+   "months": "XII–II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 111,
+   "type": "N",
+   "year": 1802,
+   "by": "FiikCz"
   },
   {
    "scan": 114,
@@ -59,6 +269,14 @@
    "type": "N",
    "year": 1802,
    "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 119,
+   "type": "N",
+   "year": 1803,
+   "year_to": 1804,
+   "months": "XII–III",
    "by": "FiikCz"
   },
   {
@@ -90,6 +308,13 @@
    "by": "FiikCz"
   },
   {
+   "scan": 131,
+   "type": "N",
+   "year": 1807,
+   "months": "V–VII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 132,
    "type": "N",
    "year": 1807,
@@ -103,6 +328,14 @@
    "months": "III–VII",
    "page": "fol. 266–267",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 137,
+   "type": "N",
+   "year": 1808,
+   "year_to": 1809,
+   "months": "XII–II",
+   "by": "FiikCz"
   },
   {
    "scan": 137,
@@ -132,6 +365,24 @@
    "months": "VI–VII",
    "page": "308",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 160,
+   "type": "N",
+   "year": 1815,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 176,
+   "type": "N",
+   "year": 1819,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 180,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
   }
  ],
  "sources": [

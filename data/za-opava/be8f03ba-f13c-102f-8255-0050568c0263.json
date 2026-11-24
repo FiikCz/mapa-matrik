@@ -26,6 +26,14 @@
    "by": "FiikCz"
   },
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1869,
+   "year_to": 1871,
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
+  },
+  {
    "scan": 25,
    "type": "O",
    "year": 1912,
@@ -65,6 +73,13 @@
    "type": "iO",
    "letters": "K, L–M",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 35,
+   "type": "iO",
+   "letters": "O–S",
+   "place": "paseky N. Hrozenkova",
+   "by": "FiikCz"
   }
  ],
  "sources": [

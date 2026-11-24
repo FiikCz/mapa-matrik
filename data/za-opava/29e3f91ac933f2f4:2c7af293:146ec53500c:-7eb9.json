@@ -19,10 +19,52 @@
  },
  "points": [
   {
+   "scan": 40,
+   "type": "O",
+   "year": 1927,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 73,
+   "type": "O",
+   "year": 1929,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 83,
+   "type": "O",
+   "year": 1930,
+   "by": "FiikCz"
+  },
+  {
    "scan": 126,
    "type": "O",
    "year": 1933,
    "months": "II",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 196,
+   "type": "O",
+   "year": 1938,
+   "by": "FiikCz"
+  },
+  {
+   "scan": 210,
+   "type": "iO",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 211,
+   "type": "iO",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 212,
+   "type": "iO",
+   "letters": "P",
    "by": "FiikCz"
   }
  ],

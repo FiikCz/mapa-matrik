@@ -26,10 +26,50 @@
    "by": "FiikCz"
   },
   {
+   "scan": 25,
+   "type": "N",
+   "year": 1893,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 27,
+   "type": "N",
+   "year": 1893,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 56,
+   "type": "N",
+   "year": 1894,
+   "by": "FiikCz"
+  },
+  {
    "scan": 145,
    "type": "N",
    "year": 1895,
    "months": "XII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 208,
+   "type": "iN",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 209,
+   "type": "iN",
+   "year": 1894,
+   "year_to": 1896,
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 212,
+   "type": "iN",
+   "letters": "V",
    "by": "FiikCz"
   }
  ],

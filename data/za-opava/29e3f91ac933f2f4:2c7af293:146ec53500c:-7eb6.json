@@ -19,6 +19,13 @@
  },
  "points": [
   {
+   "scan": 10,
+   "type": "Z",
+   "year": 1902,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
    "scan": 23,
    "type": "Z",
    "year": 1904,
@@ -31,6 +38,13 @@
    "year": 1912,
    "months": "VII",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 178,
+   "type": "Z",
+   "year": 1918,
+   "months": "VIII–IX",
+   "by": "FiikCz"
   },
   {
    "scan": 192,
@@ -82,6 +96,42 @@
    "by": "FiikCz"
   },
   {
+   "scan": 312,
+   "type": "iZ",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 313,
+   "type": "iZ",
+   "letters": "M",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 314,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 315,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 316,
+   "type": "iZ",
+   "letters": "O",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 320,
+   "type": "iZ",
+   "letters": "T",
+   "by": "FiikCz"
+  },
+  {
    "scan": 321,
    "type": "iZ",
    "letters": "U",
@@ -98,6 +148,18 @@
    "type": "iZ",
    "letters": "V",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 323,
+   "type": "iZ",
+   "letters": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 324,
+   "type": "iZ",
+   "letters": "V",
+   "by": "FiikCz"
   },
   {
    "scan": 326,
