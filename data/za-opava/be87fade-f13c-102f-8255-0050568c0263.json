@@ -19,6 +19,13 @@
  },
  "points": [
   {
+   "scan": 15,
+   "type": "N",
+   "year": 1865,
+   "months": "XII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 28,
    "type": "N",
    "year": 1866,
@@ -40,6 +47,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 85,
+   "type": "N",
+   "year": 1870,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
    "scan": 102,
    "type": "N",
    "year": 1871,
@@ -57,6 +71,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

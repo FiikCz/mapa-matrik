@@ -19,6 +19,13 @@
  },
  "points": [
   {
+   "scan": 5,
+   "type": "O",
+   "year": 1869,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 25,
    "type": "O",
    "year": 1912,
@@ -36,6 +43,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

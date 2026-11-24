@@ -30,6 +30,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 2,
+   "type": "O",
+   "year": 1828,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
    "scan": 8,
    "type": "O",
    "year": 1841,
@@ -37,11 +44,32 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 8,
+   "type": "O",
+   "year": 1842,
+   "months": "VI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 15,
+   "type": "O",
+   "year": 1847,
+   "months": "II",
+   "by": "FiikCz"
+  },
+  {
    "scan": 31,
    "type": "O",
    "year": 1827,
    "months": "II",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 32,
+   "type": "O",
+   "year": 1830,
+   "months": "II",
+   "by": "FiikCz"
   },
   {
    "scan": 33,
@@ -61,6 +89,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

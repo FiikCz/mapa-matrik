@@ -33,11 +33,60 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 34,
+   "type": "N",
+   "year": 1763,
+   "months": "I",
+   "by": "FiikCz"
+  },
+  {
    "scan": 35,
    "type": "N",
    "year": 1763,
    "months": "V",
    "by": "strbackatomas"
+  },
+  {
+   "scan": 40,
+   "type": "N",
+   "year": 1766,
+   "months": "V",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 67,
+   "type": "N",
+   "year": 1772,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 69,
+   "type": "N",
+   "year": 1773,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 70,
+   "type": "N",
+   "year": 1773,
+   "months": "X",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 111,
+   "type": "O",
+   "year": 1760,
+   "months": "XI",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 112,
+   "type": "O",
+   "year": 1761,
+   "months": "XI",
+   "by": "FiikCz"
   },
   {
    "scan": 128,
@@ -50,6 +99,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

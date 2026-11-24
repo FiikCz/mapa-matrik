@@ -40,6 +40,13 @@
    "by": "strbackatomas"
   },
   {
+   "scan": 28,
+   "type": "O",
+   "year": 1872,
+   "months": "VII",
+   "by": "FiikCz"
+  },
+  {
    "scan": 29,
    "type": "O",
    "year": 1872,
@@ -71,6 +78,10 @@
  "sources": [
   {
    "by": "strbackatomas",
+   "date": "2026-11-24"
+  },
+  {
+   "by": "FiikCz",
    "date": "2026-11-24"
   }
  ]

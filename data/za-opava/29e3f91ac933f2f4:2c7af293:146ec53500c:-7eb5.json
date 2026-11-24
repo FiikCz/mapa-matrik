@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "archive": "za-opava",
+ "portal": "digi-archives",
+ "portal_id": "29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb5",
+ "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb5",
+ "signature": "Vs VI 32",
+ "parish": "Nový Hrozenkov",
+ "district": "Vsetín",
+ "places": [
+  "Nový Hrozenkov"
+ ],
+ "place_codes": {
+  "Nový Hrozenkov": 107387
+ },
+ "records": {
+  "Z": "1932–1949",
+  "iZ": "1932–1949"
+ },
+ "points": [
+  {
+   "scan": 15,
+   "type": "Z",
+   "year": 1933,
+   "months": "IX",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 101,
+   "type": "Z",
+   "year": 1944,
+   "months": "VIII",
+   "by": "FiikCz"
+  },
+  {
+   "scan": 108,
+   "type": "Z",
+   "year": 1945,
+   "months": "I",
+   "by": "FiikCz"
+  }
+ ],
+ "sources": [
+  {
+   "by": "FiikCz",
+   "date": "2026-11-24"
+  }
+ ]
+}
